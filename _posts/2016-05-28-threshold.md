@@ -71,8 +71,9 @@ tags:
 ![slide 30](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_30.jpg)  
 
 * **Part Two: R code for this lecture**
+
+First of all, we need to generate the data of y,x,n
 ```R
-#First of all, we need to generate the data of y,x,n
 set.seed(123) # I set the seed for the sake of repeatability
 e=rnorm(100,mean=0,sd=1)
 x=rnorm(100,mean=0,sd=3^2)
@@ -81,29 +82,32 @@ y=rep(0,times=100)
 y[1:50]=1+2*x[1:50]+e[1:50]
 y[51:100]=1-2*x[51:100]+e[51:100]
 data=data.frame(n,x,y,e)
-
-#Then we can plot out the relationship between y and n, as well as y and x.
+```
+Then we can plot out the relationship between y and n, as well as y and x.
+```R
 library(ggplot2)
 p1=ggplot(data,aes(x=n,y=y))+geom_point()
 p2=ggplot(data,aes(x=x,y=y))+geom_point()
 p1
 p2
-
-#Regression results
-#Suppose we do not aware the existance of thereshold effect
+```
+Regression results
+Suppose we do not aware the existance of thereshold effect
+```R
 reg1=lm(y~x,data)
 summary(reg1)
-
-#If we know the thereshold and seprate the whole data frame into two groups,
-#then conduct regressions separately.
+```
+If we know the thereshold and seprate the whole data frame into two groups,then conduct regressions separately.
+```R
 data1=subset(data, n<=50)
 data2=subset(data,n>50)
 reg2=lm(y~x,data1)
 reg3=lm(y~x,data2)
 summary(reg2)
 summary(reg3)
-
-#If we do not know where the thereshold is, then how?
+```
+If we do not know where the thereshold is, then what shoudl we do?
+```R
 reg=list()
 rss=array()
 for (i in 1:99)
@@ -117,14 +121,10 @@ order(rss)
 
 Rss=data.frame(n=1:99,rss)
 ggplot(Rss,aes(x=n,y=rss))+geom_point()
-
-######################
-######################
-#Now if we have two theresholds, we can still use
-#nested loop to discern these two theresholds. 
-#However Hensen proposed a more elegant solution.
-#Prepare the data
-
+```
+Now if we have two theresholds, we can still use nested loop to discern these two theresholds. However Hensen proposed a more elegant solution.
+Prepare the data
+``R
 set.seed(456) # I set the seed for the sake of repeatability
 e=rnorm(100,mean=0,sd=1)
 x=rnorm(100,mean=0,sd=3^2)
@@ -134,16 +134,18 @@ y[1:30]=1+2*x[1:30]+e[1:30]
 y[31:60]=1-2*x[31:60]+e[31:60]
 y[61:100]=1+4*x[61:100]+e[61:100]
 data=data.frame(n,x,y,e)
-
-#Then we can plot out the relationship between y and n, as well as y and x.
+```
+Then we can plot out the relationship between y and n, as well as y and x.
+```R
 library(ggplot2)
 p1=ggplot(data,aes(x=n,y=y))+geom_point()
 p2=ggplot(data,aes(x=x,y=y))+geom_point()
 p1
 p2
-
-#Now we use the method proposed by Hensen to discern theresholds
-#pinpoint the first thereshold
+```
+Now we use the method proposed by Hensen to discern theresholds.
+Pinpoint the first thereshold:
+```R
 reg=list()
 rss1=array()
 for (i in 1:99)
@@ -157,8 +159,9 @@ which.min(rss1)
 #plot the figure
 Rss1=data.frame(n=1:99,rss1)
 ggplot(Rss1,aes(x=n,y=rss1))+geom_point()
-
-#pinpoint the second thereshold
+```
+Pinpoint the second thereshold
+```R
 reg2=list()
 rss2=array()
 for(i in 1:99)
@@ -176,8 +179,9 @@ which.min(rss2)
 #plot the figure
 Rss2=data.frame(n=1:99,rss2)
 ggplot(Rss2,aes(x=n,y=rss2))+geom_point()
-
-#pinpoint the first thereshold again
+```
+Pinpoint the first thereshold again
+```R
 reg3=list()
 rss3=array()
 for(i in 1:99)
@@ -195,13 +199,15 @@ which.min(rss3)
 #plot the figure
 Rss3=data.frame(n=1:99,rss3)
 ggplot(Rss3,aes(x=n,y=rss3))+geom_point()
-
-# put those aboving figures into one picture.
+```
+put those aboving figures into one picture.
+```R
 all=rbind(data.frame(n=1:99,rss=rss1,t="loop 1"),data.frame(n=1:99,rss=rss2,t="loop 2"),data.frame(n=1:99,rss=rss3,t="loop 3"))
 p=ggplot(all, aes(x=n,y=rss))
 p+geom_path(aes(position=t,color=t))+geom_point(aes(position=t,color=t))
-
-#bootstrap, in this case, we only consider one threshold.
+```
+Bootstrap, in this case, we only consider one threshold.
+```R
 set.seed(123) # I set the seed for the sake of repeatability
 e=rnorm(100,mean=0,sd=1)
 x=rnorm(100,mean=0,sd=3^2)
@@ -236,11 +242,12 @@ fvalue=function(data,indices){
 
 result=boot(data=data,fvalue,R=99)
 f=result$t
-
 result=boot(data=data,fvalue,R=99,formula1=y~x+dum)
 f=result$t
+```
 
-#the real f0
+The real f0
+```R
 dum=data$x
 dum[51:100]=0
 reg4=lm(y~x+dum,data)
@@ -248,12 +255,11 @@ rss4=sum(residuals(reg4)^2)
 f0=(s0/rss4-1)*(100-1)
 
 table(f>f0) # so the p-value=0, we should reject H0
-
-##last question, get the confidence intervals for gamma
+```
+Last question, get the confidence intervals for gamma
+```R
 LR=(rss-rss4)/(rss4/(100-1))
 order(LR)
 c=-2*log(1-sqrt(1-0.01)) #we set the asymptotic level alpha at 1%
 LR[LR<c]
 ```
-
-
