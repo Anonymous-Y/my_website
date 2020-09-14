@@ -123,8 +123,8 @@ Rss=data.frame(n=1:99,rss)
 ggplot(Rss,aes(x=n,y=rss))+geom_point()
 ```
 Now if we have two theresholds, we can still use nested loop to discern these two theresholds. However Hensen proposed a more elegant solution.
-Prepare the data
-``R
+Prepare the data:
+```R
 set.seed(456) # I set the seed for the sake of repeatability
 e=rnorm(100,mean=0,sd=1)
 x=rnorm(100,mean=0,sd=3^2)
