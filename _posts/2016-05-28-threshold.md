@@ -71,7 +71,7 @@ tags:
 ![slide 30](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_30.jpg)  
 
 * **Part Two: R code for this lecture**
-```R
+{% highlight R linenos %}
 #First of all, we need to generate the data of y,x,n
 set.seed(123) # I set the seed for the sake of repeatability
 e=rnorm(100,mean=0,sd=1)
@@ -254,6 +254,6 @@ LR=(rss-rss4)/(rss4/(100-1))
 order(LR)
 c=-2*log(1-sqrt(1-0.01)) #we set the asymptotic level alpha at 1%
 LR[LR<c]
-```
+{% endhighlight %}
 
 
