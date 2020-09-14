@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zichao"
-  avatar           : "profile.jpg"
+  avatar           : "https://raw.githubusercontent.com/Anonymous-Y/my_website/master/images/profile.JPG"
   bio              : "Economic Ph.D. candidate at Virginia Tech"
   location         : "Blacksburg, VA"
   employer         :
