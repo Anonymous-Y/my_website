@@ -20,7 +20,7 @@ January 2020 - May 2020
 * Teaching method: in-person & online
 
 ### Teaching Assistant, Managerial Economics
-September 2017 - December 2019, Jun 2020 - August 2020
+September 2017 - December 2019, 2020 Summer Session
 * Edit lecture videos
 * Assist professor with preparing lecture notes
 * Hold review session
