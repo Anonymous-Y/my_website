@@ -10,7 +10,7 @@ redirect_from:
 ## Zichao Yang (杨子超)
 Department of Economics, Virginia Tech, Blacksburg, Virginia &emsp; Zip: 24060
 E-Mail: yzc@vt.edu
-PDF version of my complete [CV](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0)
+PDF version of my complete CV: [English Version](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0) [中英文版](https://pan.baidu.com/s/1byIWdawDla_pLxhSD2Ywsw)(提取码:l73w)
 ## Education
 ### Virginia Tech (VT)  
 August 2016 - Present
