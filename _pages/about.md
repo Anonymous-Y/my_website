@@ -20,6 +20,7 @@ PDF version of my complete CV:
 ## Working Papers
 1. [The Market For Bitcoin Transactions](https://ssrn.com/abstract=3554458) (March 2020, with Kwok Ping Tsang, R&R)
 2. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang, submitted)
+
 ## Teaching
 ### Instructor
 ECON2006 Principles of Macroeconomics (Fall 2020)
