@@ -18,14 +18,14 @@ PDF version of my complete CV:
 ## Peer-reviewed Publication
 [Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), Tsang, K.P. & Yang, Z. (2020) , accepted by *Economics Letters*
 ## Working Papers
-1. [The Market For Bitcoin Transactions](https://ssrn.com/abstract=3554458) (March 2020, with Kwok Ping Tsang, R&R)
-2. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang, submitted)
-
+[The Market For Bitcoin Transactions](https://ssrn.com/abstract=3554458) (March 2020, with Kwok Ping Tsang, R&R)
+[The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang, submitted)
 ## Teaching
-### Instructor
+**Instructor**
 ECON2006 Principles of Macroeconomics (Fall 2020)
 ECON2005 Principles of Microeconomics (Spring 2020)
-### Teaching Assistant
+
+**Teaching Assistant**
 ECON3004 Managerial Economics (Fall 2017 - Fall 2019)
 ECON5016 Advanced Topics in Macro (Fall 2018)
 ECON2005 Principles of Microeconomics (Fall 2016, Spring 2017)
