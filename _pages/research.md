@@ -6,11 +6,11 @@ author_profile: true
 
 ## Job Market Paper
 **Do Connections Pay Off in the Bitcoin Market?**
-SQL and R source code [download](https://www.dropbox.com/home/ZichaoYang%20JMP) 
+SQL and R source code [download](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0) 
 
 **Abstract** I study the trading behavior of investors in this relatively new and unregulated bitcoin market. By parsing transaction data from the bitcoin blockchain, I search for investors who are connected based on their trading behavior and identify the bitcoin investor network. I find that, from June 2016 to May 2019, investors who are connected in the network earn 20.75% higher return than their unconnected peers on average. Furthermore, the return difference also exists among these connected addresses. By dividing the connected addresses into ten groups I find the addresses in the top two groups are earning higher returns than the rest connected addresses. Among the addresses inside the top two groups, I find that, compared with degree centrality, higher eigenvector centrality is a more related indicator to higher returns. 
 
-[Download paper here](https://www.dropbox.com/home/ZichaoYang%20JMP)
+[Download paper here](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0)
  
 ## Publication
 **Price dispersion in bitcoin exchanges**
