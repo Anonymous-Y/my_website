@@ -11,8 +11,7 @@ redirect_from:
 Ph.D. Candidate
 Department of Economics, Virginia Tech, Blacksburg, Virginia &emsp; Zip: 24060
 E-Mail: yzc@vt.edu
-PDF version of my complete CV: 
-[English Version](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0)       [中英文版](https://pan.baidu.com/s/1ouPqWIFD0MJMc7WImsy-Tw)(提取码:ynl3)
+My CV: [English Version](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0)       [中英文版](https://pan.baidu.com/s/1ouPqWIFD0MJMc7WImsy-Tw)(提取码:ynl3)
 ## Job Market Paper
 [Do Connections Pay Off in the Bitcoin Market?](https://www.dropbox.com/home/ZichaoYang%20JMP), SQL and R source code [download](https://www.dropbox.com/home/ZichaoYang%20JMP) 
 ## Peer-reviewed Publication
