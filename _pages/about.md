@@ -15,7 +15,7 @@ My CV: [English Version](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_od
 ## Job Market Paper
 [Do Connections Pay Off in the Bitcoin Market?](https://www.dropbox.com/home/ZichaoYang%20JMP), SQL and R source code [download](https://www.dropbox.com/home/ZichaoYang%20JMP) 
 ## Peer-reviewed Publication
-[Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), Tsang, K.P. & Yang, Z. (2020) , accepted by *Economics Letters*
+[Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), Tsang, K.P. & Yang, Z. (2020) , *Economics Letters*
 ## Working Papers
 [The Market For Bitcoin Transactions](https://ssrn.com/abstract=3554458) (March 2020, with Kwok Ping Tsang, R&R)
 [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang, submitted)
