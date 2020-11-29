@@ -22,7 +22,7 @@ Research Statement: [download](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R
 [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 ## Teaching
 **Instructor**
-ECON2006 Principles of Macroeconomics (Fall 2020)
+ECON2006 Principles of Macroeconomics (Fall 2020, Winter 2020)
 ECON2005 Principles of Microeconomics (Spring 2020)
 
 **Teaching Assistant**
