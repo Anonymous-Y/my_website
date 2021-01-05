@@ -20,15 +20,16 @@ Published in *Economics Letters*, September 2020
 
 [Download paper here](https://doi.org/10.1016/j.econlet.2020.109379)
 
-## Working Paper
-**1. The Market for Bitcoin Transactions**
-Available on SSRN, March 2020, R&R
+**The Market for Bitcoin Transactions**
+forthcoming, *Journal of Internantional Financial Market, Institution & Money*
 
 **Abstract** Transaction fees in the bitcoin system work differently from those in conventional payment systems due to the design of the bitcoin mining algorithm. In particular, transaction fees and transaction volume in the bitcoin system increase whenever the network is congested, and our VAR results confirm that is indeed the case. To account for the empirical findings, we build a model where users and miners together determine transaction fees and transaction volume. Even though the mechanism of fluctuating transaction fees in bitcoin introduces an extra cost of uncertainty to users, a back-of-envelope calculation shows that the cost of using the bitcoin network for transactions is still smaller than the cost of using the current conventional payment system with a fixed transaction fee rate. However, this calculation may underestimate the cost due to the crowding-out effect on small transactions during the congested period.
 
 [Download paper here](https://ssrn.com/abstract=3554458)
 
-**2. The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
+## Working Paper
+
+**The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
 Available on SSRN, April 2020, Submitted
 
 **Abstract** Under the stay-at-home orders issued by states, economic activities are reduced or put on hold by some states across the U.S. to control the spread of COVID-19. By combining several sources of data, we estimate the output loss due to such restrictions using a network approach. Based on our most conservative estimates, the measures as of April 15, 2020 reduce 26% of total US output per period, and about 43% of which is due to the input-output connections in the production network. Using a SIR model with an inter-state infection network, we also calculate the cost of reducing each infection to be approximately 150,000 dollars during the period of March 19 to April 15, 2020. Simulation results of various hypothetical stay-at-home orders show that the unit cost of infection reduction of the existing order is about 13% higher than the local minimum.
