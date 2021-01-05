@@ -17,8 +17,8 @@ Research Statement: [download](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R
 [Do Connections Pay Off in the Bitcoin Market?](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0), SQL and R source code [download](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0) 
 ## Peer-reviewed Publication
 [Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), Tsang, K.P. & Yang, Z. (2020) , *Economics Letters*
+[The Market For Bitcoin Transactions](https://ssrn.com/abstract=3554458) Tsang, K.P. & Yang, Z., forthcoming , *Journal of International Financial Markets, Institutions and Money*
 ## Working Papers
-[The Market For Bitcoin Transactions](https://ssrn.com/abstract=3554458) (March 2020, with Kwok Ping Tsang, R&R, *Journal of International Financial Markets, Institutions and Money*)
 [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 ## Teaching
 **Instructor**
