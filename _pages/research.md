@@ -21,11 +21,11 @@ Published in *Economics Letters*, September 2020
 [Download paper here](https://doi.org/10.1016/j.econlet.2020.109379)
 
 **The Market for Bitcoin Transactions**
-forthcoming, *Journal of Internantional Financial Market, Institution & Money*
+Published in *Journal of Internantional Financial Market, Institution & Money*, January 2021
 
 **Abstract** Transaction fees in the bitcoin system work differently from those in conventional payment systems due to the design of the bitcoin mining algorithm. In particular, transaction fees and transaction volume in the bitcoin system increase whenever the network is congested, and our VAR results confirm that is indeed the case. To account for the empirical findings, we build a model where users and miners together determine transaction fees and transaction volume. Even though the mechanism of fluctuating transaction fees in bitcoin introduces an extra cost of uncertainty to users, a back-of-envelope calculation shows that the cost of using the bitcoin network for transactions is still smaller than the cost of using the current conventional payment system with a fixed transaction fee rate. However, this calculation may underestimate the cost due to the crowding-out effect on small transactions during the congested period.
 
-[Download paper here](https://ssrn.com/abstract=3554458)
+[Download paper here](https://doi.org/10.1016/j.intfin.2021.101282)
 
 ## Working Paper
 
