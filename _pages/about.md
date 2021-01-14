@@ -18,7 +18,7 @@ Research Statement: [download](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R
 ## Peer-reviewed Publication
 1. [Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), Tsang, K.P. & Yang, Z. (2020) , *Economics Letters*
 
-2. [The Market For Bitcoin Transactions](https://doi.org/10.1016/j.intfin.2021.101282) Tsang, K.P. & Yang, Z. (2021) , *Journal of International Financial Markets, Institutions and Money*
+2. [The Market For Bitcoin Transactions](https://doi.org/10.1016/j.intfin.2021.101282), Tsang, K.P. & Yang, Z. (2021) , *Journal of International Financial Markets, Institutions and Money*
 ## Working Papers
 [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 ## Teaching
