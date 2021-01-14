@@ -12,7 +12,7 @@ SQL and R source code [download](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAk
 
 [Download paper here](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0)
  
-## Publication
+## Publications
 **Price dispersion in bitcoin exchanges**
 Published in *Economics Letters*, September 2020
 
