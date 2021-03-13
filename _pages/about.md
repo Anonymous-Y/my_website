@@ -15,7 +15,7 @@ My CV: [English Version](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_od
 Research Statement: [download](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0)         Teaching Statement: [download](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0)
 
 ## Job Market Paper
-1. [Do Connections Pay Off in the Bitcoin Market?](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0), SQL and R source code [download](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0) 
+1. [Do Connections Pay Off in the Bitcoin Market?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803959), SQL and R source code [download](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0) 
 
 ## Publications
 1. [Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), Tsang, K.P. & Yang, Z. (2020) , *Economics Letters*
