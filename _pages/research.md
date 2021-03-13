@@ -10,7 +10,7 @@ SQL and R source code [download](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAk
 
 **Abstract** I study the trading behavior of investors in this relatively new and unregulated bitcoin market. By parsing transaction data from the bitcoin blockchain, I search for addresses that are connected based on their trading behavior and identify the bit- coin investor network. I find that, from June 2016 to May 2019, addresses that are connected in the network earn 20.75% higher return than their unconnected peers on average. Furthermore, the return difference also exists among these connected ad- dresses. By dividing the connected addresses into ten groups I find the addresses in the top two groups earn higher returns than the rest connected addresses. Among the addresses inside the top two groups, I find that, compared with degree centrality, higher eigenvector centrality is a more related indicator to higher returns.
 
-[Download paper here](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0)
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803959)
  
 ## Publications
 **Price dispersion in bitcoin exchanges**
