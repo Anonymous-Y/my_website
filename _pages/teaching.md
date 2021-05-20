@@ -6,7 +6,7 @@ author_profile: true
 
 ## Virginia Tech
 **Instructor, Macroeconomics (Intro Level)**
-*August 2020 - Now*
+*August 2020 - January 2021*
 * Teach the intro-level macroeconomics
 * Teaching method: online
 
