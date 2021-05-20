@@ -3,14 +3,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-## Job Market Paper
-**Do Connections Pay Off in the Bitcoin Market?**
-SQL and R source code [download](https://www.dropbox.com/sh/u9fonkhbnkxpree/AAAkEqAL0LfGGGnSy_xhVPJVa?dl=0) 
-
-**Abstract** I study the trading behavior of investors in this relatively new and unregulated bitcoin market. By parsing transaction data from the bitcoin blockchain, I search for addresses that are connected based on their trading behavior and identify the bit- coin investor network. I find that, from June 2016 to May 2019, addresses that are connected in the network earn 20.75% higher return than their unconnected peers on average. Furthermore, the return difference also exists among these connected ad- dresses. By dividing the connected addresses into ten groups I find the addresses in the top two groups earn higher returns than the rest connected addresses. Among the addresses inside the top two groups, I find that, compared with degree centrality, higher eigenvector centrality is a more related indicator to higher returns.
-
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803959)
  
 ## Publications
 **Price dispersion in bitcoin exchanges**
@@ -28,6 +20,13 @@ Published in *Journal of Internantional Financial Market, Institution & Money*, 
 [Download paper here](https://doi.org/10.1016/j.intfin.2021.101282)
 
 ## Working Paper
+
+**Do Connections Pay Off in the Bitcoin Market?**
+Available on SSRN, May 2021, Submitted
+
+**Abstract** This paper identifies the bitcoin investor network and studies the relationship between connections and returns. Using transaction data recorded in the bitcoin blockchain from 2015 to 2020, we reach three conclusions. First, connectedness is not strongly correlated with higher returns in the first four years. However, the correlation becomes strong and significant in 2019 and 2020. Second, returns also differ among those connected addresses. By dividing the connected addresses into ten decile groups based on their centrality, we find that the top 20% most-connected addresses earn higher returns than their peers during most of our sample period. Third, eigenvector centrality is more related to higher returns than degree centrality for the top 20% most-connected addresses, implying that the quality of connections may matter more than quantity among those highly connected addresses.
+
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803959)
 
 **The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
 Available on SSRN, April 2020, Submitted
