@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 ## Zichao Yang (杨子超)
-Ph.D. Candidate
-Department of Economics, Virginia Tech, Blacksburg, Virginia &emsp; Zip: 24060
 E-Mail: yzc@vt.edu
-My CV: [English Version](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0)       [中英文版](https://pan.baidu.com/s/1ouPqWIFD0MJMc7WImsy-Tw)(提取码:ynl3)
-Research Statement: [download](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0)         Teaching Statement: [download](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0)
+My CV: [English Version](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0) 
 
 ## Publications
 1. [Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), Tsang, K.P. & Yang, Z. (2020) , *Economics Letters*
