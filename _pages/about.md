@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Zichao Yang (杨子超)
-E-Mail: yzc@vt.edu
+E-Mail: yang_zichao@outlook.com
 My CV: [English Version](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0) 
 
 ## Publications
