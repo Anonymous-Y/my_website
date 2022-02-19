@@ -5,29 +5,28 @@ author_profile: true
 ---
  
 ## Publications
-**Price dispersion in bitcoin exchanges**
-Published in *Economics Letters*, September 2020
+**Do Connections Pay Off in the Bitcoin Market?**
+Published in *Journal of Empirical Finance*, February 2022 (with Kwok Ping Tsang)
 
-**Abstract** Bitcoin is traded in a number of exchanges, and there is a large and time-varying price dispersion among them. We identify the sources of price dispersion using a standard time-varying vector autoregression model with stochastic volatility, and we find that shocks to transaction fees and bitcoin price growth explain on average 20%, and sometimes more than 60%, of the variation of price dispersion.
+**Abstract** This paper identifies the bitcoin investor network and studies the relationship between connections and returns. Using transaction data recorded in the bitcoin blockchain from 2015 to 2020, we reach three conclusions. First, connectedness is not strongly correlated with higher returns in the first four years. However, the correlation becomes strong and significant in 2019 and 2020. Second, returns also differ among those connected addresses. By dividing the connected addresses into ten decile groups based on their centrality, we find that the top 20% most-connected addresses earn higher returns than their peers during most of our sample period. Third, eigenvector centrality is more related to higher returns than degree centrality for the top 20% most-connected addresses, implying that the quality of connections may matter more than quantity among those highly connected addresses.
 
-[Download paper here](https://doi.org/10.1016/j.econlet.2020.109379)
+[Download paper here](https://doi.org/10.1016/j.jempfin.2022.02.001)
 
 **The Market for Bitcoin Transactions**
-Published in *Journal of Internantional Financial Market, Institution & Money*, January 2021
+Published in *Journal of Internantional Financial Market, Institution & Money*, January 2021 (with Kwok Ping Tsang)
 
 **Abstract** Transaction fees in the bitcoin system work differently from those in conventional payment systems due to the design of the bitcoin mining algorithm. In particular, transaction fees and transaction volume in the bitcoin system increase whenever the network is congested, and our VAR results confirm that is indeed the case. To account for the empirical findings, we build a model where users and miners together determine transaction fees and transaction volume. Even though the mechanism of fluctuating transaction fees in bitcoin introduces an extra cost of uncertainty to users, a back-of-envelope calculation shows that the cost of using the bitcoin network for transactions is still smaller than the cost of using the current conventional payment system with a fixed transaction fee rate. However, this calculation may underestimate the cost due to the crowding-out effect on small transactions during the congested period.
 
 [Download paper here](https://doi.org/10.1016/j.intfin.2021.101282)
 
+**Price dispersion in bitcoin exchanges**
+Published in *Economics Letters*, September 2020 (with Kwok Ping Tsang)
+
+**Abstract** Bitcoin is traded in a number of exchanges, and there is a large and time-varying price dispersion among them. We identify the sources of price dispersion using a standard time-varying vector autoregression model with stochastic volatility, and we find that shocks to transaction fees and bitcoin price growth explain on average 20%, and sometimes more than 60%, of the variation of price dispersion.
+
+[Download paper here](https://doi.org/10.1016/j.econlet.2020.109379)
+
 ## Working Paper
-
-**Do Connections Pay Off in the Bitcoin Market?**
-Available on SSRN, May 2021, Submitted
-
-**Abstract** This paper identifies the bitcoin investor network and studies the relationship between connections and returns. Using transaction data recorded in the bitcoin blockchain from 2015 to 2020, we reach three conclusions. First, connectedness is not strongly correlated with higher returns in the first four years. However, the correlation becomes strong and significant in 2019 and 2020. Second, returns also differ among those connected addresses. By dividing the connected addresses into ten decile groups based on their centrality, we find that the top 20% most-connected addresses earn higher returns than their peers during most of our sample period. Third, eigenvector centrality is more related to higher returns than degree centrality for the top 20% most-connected addresses, implying that the quality of connections may matter more than quantity among those highly connected addresses.
-
-[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803959)
-
 **The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
 Available on SSRN, April 2020, Submitted
 
