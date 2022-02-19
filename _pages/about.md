@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Zichao Yang (杨子超)
 E-Mail: yang_zichao@outlook.com
-My CV: [download](https://www.dropbox.com/sh/skbbf0ap5fmyfey/AAAf3R1QE_odi2Rx6aDEabvKa?dl=0) 
+My CV: [download](https://www.dropbox.com/s/j0iplo2jqonvytw/ZichaoYang_CV%20short.pdf?dl=0)
 
 ## Publications
 1. [Do Connections Pay Off in the Bitcoin Market?](https://doi.org/10.1016/j.jempfin.2022.02.001), Tsang, K.P. & Yang, Z. (2022) , *Journal of Empirical Finance*
