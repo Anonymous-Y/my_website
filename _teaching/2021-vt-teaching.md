@@ -1,5 +1,5 @@
 ---
-title: "Courses in Virginia Tech"
+title: "Courses at Virginia Tech"
 collection: teaching
 type: "Undergrad & Grad Courses"
 permalink: /teaching/2021-vt-teaching
