@@ -11,6 +11,9 @@ redirect_from:
 E-Mail: yang_zichao@outlook.com
 My CV: [download](https://www.dropbox.com/s/h9n7a8ndpxmotej/ZichaoYang_CV%20short.pdf?dl=0)
 
+## Current Research Interests
+Cryptocurrencies, CBDC, FinTech
+
 ## Publications
 1. [Do Connections Pay Off in the Bitcoin Market?](https://doi.org/10.1016/j.jempfin.2022.02.001), Tsang, K.P. & Yang, Z. (2022) , *Journal of Empirical Finance*
 2. [The Market For Bitcoin Transactions](https://doi.org/10.1016/j.intfin.2021.101282), Tsang, K.P. & Yang, Z. (2021) , *Journal of International Financial Markets, Institutions and Money*
