@@ -1,7 +1,7 @@
 ---
-title: "Courses at Huazhong University of Science and Technology"
+title: "Course at Huazhong University of Science and Technology"
 collection: teaching
-type: "Undergrad Courses"
+type: "Undergrad Course"
 permalink: /teaching/2015-hust-teaching
 venue: "HUST, Department of Economics"
 excerpt: " "
