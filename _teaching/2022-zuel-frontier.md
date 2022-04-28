@@ -1,7 +1,7 @@
 ---
 title: "Frontier of Technology and Economics II"
 collection: teaching
-type: "Grad Courses"
+type: "Grad Course"
 permalink: /teaching/2022-zuel-frontier
 venue: "Zhongnan University of Economics and Law, Wenlan School of Business"
 excerpt: " "
