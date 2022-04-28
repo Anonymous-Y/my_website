@@ -9,4 +9,4 @@ date: 2022-04-28
 location: "Wuhan, China"
 ---
 
-[Paper List](https://Anonymous-Y.github.io/files/zuel/Frontier of Technology and Economics II/paper_list.md)
+[Paper List](https://Anonymous-Y.github.io/files/zuel/frontier_of_technology_and_economics_ii/paper_list.md)
