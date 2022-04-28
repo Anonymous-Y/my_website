@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Zichao Yang (杨子超)
-Associate Professor (W/O tenure), Wenlan School of Business, ZUEL
+Associate Professor (tenure track), Wenlan School of Business, ZUEL
 E-Mail: yang_zichao@outlook.com
 My CV: [download](https://www.dropbox.com/s/h9n7a8ndpxmotej/ZichaoYang_CV%20short.pdf?dl=0)
 
