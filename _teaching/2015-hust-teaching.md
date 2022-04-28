@@ -1,5 +1,5 @@
 ---
-title: "Huazhong University of Science and Technology"
+title: "Courses at Huazhong University of Science and Technology"
 collection: teaching
 type: "Undergrad Courses"
 permalink: /teaching/2015-hust-teaching
