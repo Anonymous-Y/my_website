@@ -24,7 +24,7 @@ Presentations are scheduled on Jun 3rd, Jun 10th and 17th , 90 minutes per perso
 
 Please send me the name of your paper before May 13th.
 
-The list of papers that you can choose to present:
+You can choose from the following papers to present:
 
 **Risks and Returns of Cryptocurrency** (RFS, 2021)
 
