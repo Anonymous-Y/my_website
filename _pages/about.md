@@ -21,11 +21,14 @@ My CV: [download](https://www.dropbox.com/s/h9n7a8ndpxmotej/ZichaoYang_CV%20shor
 1. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
 ## Teaching
-**Instructor**
+**Instructor, ZUEL**
+Frontier of Technology and Economics II (Spring 2022)
+
+**Instructor, VT**
 ECON2006 Principles of Macroeconomics (Fall 2020, Winter 2020)
 ECON2005 Principles of Microeconomics (Spring 2020)
 
-**Teaching Assistant**
+**Teaching Assistant, VT**
 ECON3004 Managerial Economics (Fall 2017 - Fall 2019)
 ECON5016 Advanced Topics in Macro (Fall 2018)
 ECON2005 Principles of Microeconomics (Fall 2016, Spring 2017)
