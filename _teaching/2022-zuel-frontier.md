@@ -15,6 +15,11 @@ location: "Wuhan, China"
 
 In this lecture, we mainly talk about bitcoin and the blockchain technology behind it.
 
+# Guest Speakers
+
+1. [Yu Bai](https://sites.google.com/view/yubai90/home), Research Fellow at Bocconi University
+Topic: Bayesian vector autoregressions (BVARs) and its applications.
+
 
 # Class Requirements
 
