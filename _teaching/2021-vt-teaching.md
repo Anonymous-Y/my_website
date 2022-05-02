@@ -3,7 +3,7 @@ title: "Courses at Virginia Tech"
 collection: teaching
 type: "Undergrad & Grad Courses"
 permalink: /teaching/2021-vt-teaching
-venue: "Virginia Tech, Department of Economics"
+venue: "Department of Economics, Virginia Tech"
 excerpt: " "
 date: 2021-05-01
 location: "Blacksburg, VA"
