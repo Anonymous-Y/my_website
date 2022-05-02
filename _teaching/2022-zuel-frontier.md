@@ -47,11 +47,11 @@ This is a theory paper. This paper studies currency competition.
 
 This is a theory paper. This paper studies currency competition.
 
-[Common Risk Factors in Cryptocurrency](https://doi.org/10.1111/jofi.13119) (JOF, 2022)
+[Common Risk Factors in Cryptocurrency](https://doi.org/10.1111/jofi.13119) (JF, 2022)
 
 This is an empirical paper. This paper studies the factors that drive crypto returns.
 
-[Equilibrium Bitcoin Pricing](https://ssrn.com/abstract=3261063) (JOF, Forthcoming)
+[Equilibrium Bitcoin Pricing](https://ssrn.com/abstract=3261063) (JF, Forthcoming)
 
 This is a theory paper. This paper studies equilibrium bitcoin pricing.
 
