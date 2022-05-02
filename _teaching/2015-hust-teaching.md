@@ -3,7 +3,7 @@ title: "Course at Huazhong University of Science and Technology"
 collection: teaching
 type: "Undergrad Course"
 permalink: /teaching/2015-hust-teaching
-venue: "HUST, Department of Economics"
+venue: "Department of Economics, HUST"
 excerpt: " "
 date: 2015-10-01
 location: "Wuhan, Hubei, China"
