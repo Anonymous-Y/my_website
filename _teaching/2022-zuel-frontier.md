@@ -3,7 +3,7 @@ title: "Frontier of Technology and Economics II"
 collection: teaching
 type: "Grad Course"
 permalink: /teaching/2022-zuel-frontier
-venue: "ZUEL, Wenlan School of Business"
+venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2022-04-28
 location: "Wuhan, China"
