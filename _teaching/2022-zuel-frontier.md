@@ -20,6 +20,18 @@ In this lecture, we mainly talk about bitcoin and the blockchain technology behi
 [Yu Bai](https://sites.google.com/view/yubai90/home), Research Fellow at Bocconi University
 *Bayesian vector autoregressions (BVARs) and its applications*
 
+Yangfan Sun, Associate Professor in Wenlan School of Business, ZUEL
+*TBD*
+
+[Cheng Li](https://chengli.weebly.com), Professor in Wenlan School of Business, ZUEL
+*TBD*
+
+[Abdelaziz Alsharawy](https://sites.google.com/a/vt.edu/alsharawy/), Postdoctoral Research Associate at Princeton University
+*The latest development in Neuroeconomics*
+
+Lin Zhao, Assistant Professor in Wenlan School of Business, ZUEL
+*TBD*
+
 
 # Class Requirements
 
