@@ -11,7 +11,7 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/528a7beaae7232fc87d98f856e2d24c5ecee9f67/files/zuel/frontier_of_technology_and_economics_ii/letcure_1.pdf)
+[Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/27486d8a77d48b912fbc9763814e8c5a83b953d9/files/zuel/frontier_of_technology_and_economics_ii/letcure_1.pdf)
 
 In this lecture, we mainly talk about bitcoin and the blockchain technology behind it.
 
@@ -37,7 +37,7 @@ Lin Zhao, Assistant Professor in Wenlan School of Business, ZUEL
 
 # Class Requirements
 
-## 1. Presentation
+**1. Presentation**
 
 Presentations are scheduled on Jun 3rd, Jun 10th and 17th , 90 minutes per person, slides should be written in English.  
 
@@ -77,8 +77,7 @@ This is a theory paper. This paper studies bitcoin mining.
 
 This is a theory paper. This paper studies cryptocurrency market fragility.
 
-
-## 2. Referee Report
+**2. Referee Report**
 
 Write a referee report for one of the papers presented by your classmates. 2-4 pages, 1.5 line space, font: Times New Roman, font size: 12.
 
