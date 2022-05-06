@@ -26,7 +26,7 @@ Cryptocurrencies, CBDC, FinTech
 
 ## Teaching
 **Instructor, ZUEL**
-Frontier of Technology and Economics II (Spring 2022)
+[Frontier of Technology and Economics II](https://github.com/Anonymous-Y/my_website/blob/26ed79c0a35a543058edfa4b458c0d8e6f58f5d7/_teaching/2022-zuel-frontier.md) (Spring 2022)
 
 **Instructor, VT**
 ECON2006 Principles of Macroeconomics (Fall 2020, Winter 2020)
