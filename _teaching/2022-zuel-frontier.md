@@ -17,6 +17,8 @@ In this lecture, we mainly talk about bitcoin and the blockchain technology behi
 
 # Guest Speakers
 
+To join the Zoom meeting, please click [here](https://virginiatech.zoom.us/j/85398946300).
+
 [Yu Bai](https://sites.google.com/view/yubai90/home), Research Fellow at Bocconi University
 *Bayesian vector autoregressions (BVARs) and its applications*
 
