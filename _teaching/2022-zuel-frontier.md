@@ -23,7 +23,7 @@ To join the Zoom meeting, please click [here](https://virginiatech.zoom.us/j/853
 *Bayesian vector autoregressions (BVARs) and its applications*
 
 Yangfan Sun, Associate Professor in Wenlan School of Business, ZUEL
-*TBD*
+*Fintech Lending*
 
 [Cheng Li](https://chengli.weebly.com), Professor in Wenlan School of Business, ZUEL
 *TBD*
