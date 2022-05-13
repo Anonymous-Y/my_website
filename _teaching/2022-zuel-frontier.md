@@ -17,7 +17,7 @@ In this lecture, we mainly talk about bitcoin and the blockchain technology behi
 
 [Lecture Note 2](https://github.com/Anonymous-Y/my_website/blob/fcf888882356485de53a0c74fb03655e0c1e21ae/files/ZUEL/frontier_of_technology_and_economics_ii/lecture_2.pdf)
 
-In this lecture, we mainly talk about BIP, Forks, and different consensus algorithms.
+In this lecture, we mainly talk about BIPs, Forks, and different consensus algorithms.
 
 # Guest Speakers
 
