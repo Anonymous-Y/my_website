@@ -29,7 +29,7 @@ Yangfan Sun, Associate Professor in Wenlan School of Business, ZUEL
 *TBD*
 
 [Abdelaziz AlSharawy](https://sites.google.com/a/vt.edu/alsharawy/), Postdoctoral Research Associate at Princeton University
-*The latest development in Neuroeconomics*
+*Uncovering the black box of economic decision-making: what is neuroeconomics?*
 
 Lin Zhao, Assistant Professor in Wenlan School of Business, ZUEL
 *TBD*
@@ -79,5 +79,5 @@ This is a theory paper. This paper studies cryptocurrency market fragility.
 
 **2. Referee Report**
 
-Write a referee report for one of the papers presented by your classmates. 2-4 pages, 1.5 line space, font: Times New Roman, font size: 12.
+Write a referee report for one of the papers presented by your classmates. 2-3 pages, 1.5 line space, font: Times New Roman, font size: 12.
 
