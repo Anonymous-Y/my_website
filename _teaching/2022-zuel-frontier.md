@@ -30,7 +30,7 @@ Yangfan Sun, Associate Professor in Wenlan School of Business, ZUEL
 *Fintech Lending*
 
 [Cheng Li](https://chengli.weebly.com), Professor in Wenlan School of Business, ZUEL
-*TBD*
+*Game Theory and Law*
 
 [Abdelaziz AlSharawy](https://sites.google.com/a/vt.edu/alsharawy/), Postdoctoral Research Associate at Princeton University
 *Uncovering the black box of economic decision-making: what is neuroeconomics?*
