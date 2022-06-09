@@ -35,7 +35,7 @@ Yangfan Sun, Associate Professor in Wenlan School of Business, ZUEL
 [Abdelaziz AlSharawy](https://sites.google.com/a/vt.edu/alsharawy/), Postdoctoral Research Associate at Princeton University
 *Uncovering the black box of economic decision-making: what is neuroeconomics?*
 
-Zibin Xu, Associate professor at City University of Hong Kong
+Zibin Xu, Associate professor at the City University of Hong Kong
 *Biased Personalized Recommendation under Compliance Rules*
 
 Lin Zhao, Assistant Professor in Wenlan School of Business, ZUEL
