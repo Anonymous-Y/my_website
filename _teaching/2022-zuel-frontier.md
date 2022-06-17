@@ -87,4 +87,4 @@ This is a theory paper. This paper studies cryptocurrency market fragility.
 **2. Referee Report**
 
 Write a referee report for one of the papers presented by your classmates. 2-3 pages, 1.5 line space, font: Times New Roman, font size: 12.
-
+[Referee Report Template Download](https://github.com/Anonymous-Y/my_website/blob/a5dab7fc6a5d65fd8c27a53e2bc2097eb49af3e4/files/ZUEL/frontier_of_technology_and_economics_ii/Referee_Report_Template.pdf)
