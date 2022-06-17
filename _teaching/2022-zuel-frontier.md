@@ -39,7 +39,7 @@ Zibin Xu, Associate professor at the City University of Hong Kong
 *Biased Personalized Recommendation under Compliance Rules*
 
 Lin Zhao, Assistant Professor in Wenlan School of Business, ZUEL
-*Mechanism Design*
+*Credence Goods*
 
 
 # Class Requirements
