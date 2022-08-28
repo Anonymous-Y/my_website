@@ -11,7 +11,7 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/10e1d3aadc371263cc8327c7da746f6400870504/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
+[Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/bcfdf8be15eca456d62d7428221430974a8aa5fc/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
 
 Lecture Note 1 covers *Part 1: Introduction* in the textbook.
 
