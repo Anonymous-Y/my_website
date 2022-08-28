@@ -11,9 +11,9 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/4534d5409553730a5f7fcb2d5f59b36ee52e3d11/files/ZUEL/frontier_of_technology_and_economics_ii/letcure_1.pdf)
+[Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/10e1d3aadc371263cc8327c7da746f6400870504/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
 
-In this lecture, we mainly talk about bitcoin and the blockchain technology behind it.
+Lecture Note 1 covers *Part 1: Introduction* in the textbook.
 
 
 # Homework
