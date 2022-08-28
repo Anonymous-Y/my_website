@@ -24,6 +24,7 @@ TBD
 # Class Requirements
 
 1. Homework (30%)
+
 You will have 4-6 HW assignments throughout this semester.
 
 HW can be done in groups but each of you need to turn in your own HW.
