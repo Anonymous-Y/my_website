@@ -17,6 +17,7 @@ In this lecture, we mainly talk about bitcoin and the blockchain technology behi
 
 
 # Homework
+
 TBD
 
 
@@ -24,10 +25,14 @@ TBD
 
 1. Homework (30%)
 You will have 4-6 HW assignments throughout this semester.
+
 HW can be done in groups but each of you need to turn in your own HW.
+
 HW deadlines are HARD deadlines. If you do not have a good reason (e.g. medical emergency), I will deduct 10-50 points based on how late your HW is turned in.
 
 2. Final Exam (70%)
+
 I may curve your score based on the performance of the whole class. 
+
 Relax, I will not lower your score unless you are caught cheating in the exam. 
 
