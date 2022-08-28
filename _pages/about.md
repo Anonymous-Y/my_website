@@ -34,8 +34,3 @@ Cryptocurrencies, CBDC, FinTech
 **Instructor, VT**
 ECON2006 Principles of Macroeconomics (Fall 2020, Winter 2020)
 ECON2005 Principles of Microeconomics (Spring 2020)
-
-**Teaching Assistant, VT**
-ECON3004 Managerial Economics (Fall 2017 - Fall 2019)
-ECON5016 Advanced Topics in Macro (Fall 2018)
-ECON2005 Principles of Microeconomics (Fall 2016, Spring 2017)
