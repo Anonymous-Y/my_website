@@ -34,7 +34,7 @@ HW deadlines are HARD deadlines. If you do not have a good reason (e.g. medical 
 
 **II. Presentation (30%)**
 
-Try to form a study group (2-3 people per group) by the end of this week. Each group will have 90 minutes to present their replication of a paper in the last 3 weeks. 
+Try to form a study group (2-3 people per group) by the end of this week. Each group will have 90 minutes to present their replication results of a chosen paper in the last 3 weeks. 
 
 Please send me the names of your group members and the paper you choose before **September 6th**. 
 
