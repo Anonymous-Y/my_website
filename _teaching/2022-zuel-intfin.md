@@ -40,5 +40,5 @@ Please send me the names of your group members and the paper you choose before *
 
 **III. Final Report (40%)**
 
-Each group needs to turn in one report to describe the paper replication process in detail. For example, the obstacles you overcome or other issues you find in the paper you replicate. Also, please clearly state in your report each team member's contribution to this project.   
+Each group needs to turn in one report to describe the paper replication process in detail. For example, the obstacles you overcome or other issues you find in the original paper. Also, please clearly state in your report each team member's contribution to this project.   
 
