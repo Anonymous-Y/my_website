@@ -15,7 +15,9 @@ location: "Wuhan, China"
 
 Lecture Note 1 covers Chapter 1 & 2 in the textbook.
 
+[Lecture Note 2](https://github.com/Anonymous-Y/my_website/blob/19e6658e32e6b94d79e59374c91c9b29335b919e/files/ZUEL/international_finance/slide2.pdf)
 
+Lecture Note 2 covers Chapter 3 in the textbook.
 
 # Homework
 
