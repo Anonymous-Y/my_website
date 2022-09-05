@@ -15,6 +15,12 @@ location: "Wuhan, China"
 
 Lecture Note 1 covers *Part 1: Introduction* in the textbook.
 
+[Lecture Note 2](https://github.com/Anonymous-Y/my_website/blob/db9158a473841dbddf7b3be53e2b9bf2a9d84d14/files/ZUEL/financial_markets/FinancialMarket_2.pdf)
+
+[Python Code](https://github.com/Anonymous-Y/my_website/blob/accd93688723f9676324c1624099bf42b5a6ddfe/files/ZUEL/financial_markets/numpy_financial_fun.py)
+
+Lecture Note 2 covers *Chapter 4: The Meaning of Interest Rates*
+
 
 # Homework
 
