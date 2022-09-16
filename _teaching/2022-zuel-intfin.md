@@ -23,6 +23,7 @@ Lecture Note 2 covers Chapter 3 in the textbook.
 
 [Homework 1](https://github.com/Anonymous-Y/my_website/blob/49bcce60652e80316448f900cd933bfaab18fd61/files/ZUEL/international_finance/International%20Finance%20Homework%201.pdf)
 
+[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU2dIWGJxVUJPckd5)
 
 # Class Requirements
 
