@@ -24,7 +24,9 @@ Lecture Note 2 covers *Chapter 4: The Meaning of Interest Rates*
 
 # Homework
 
-TBD
+[Homework 1](https://github.com/Anonymous-Y/my_website/blob/523e0ca5bc51ea819890fab4e670931039aeaddf/files/ZUEL/financial_markets/Financial%20Markets%20Homework%201.pdf)
+
+[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU1FtT2xEamVaYUdh)
 
 
 # Class Requirements
