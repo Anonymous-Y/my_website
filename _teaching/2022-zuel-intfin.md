@@ -13,11 +13,15 @@ location: "Wuhan, China"
 
 [Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/a255ef9a2c5f1f7e0f1330e4d5529baecb3cda2f/files/ZUEL/international_finance/IntelFin_1.pdf)
 
-Lecture Note 1 covers Chapter 1 & 2 in the textbook.
+Lecture Note 1 covers Chapter 1 & 2
 
 [Lecture Note 2](https://github.com/Anonymous-Y/my_website/blob/19e6658e32e6b94d79e59374c91c9b29335b919e/files/ZUEL/international_finance/slide2.pdf)
 
-Lecture Note 2 covers Chapter 3 in the textbook.
+Lecture Note 2 covers Chapter 3
+
+[Lecture Note 3](https://github.com/Anonymous-Y/my_website/blob/152c9ff7baba6701acd25b07279910c0f88657a3/files/ZUEL/international_finance/slide3.pdf)
+
+Lecture Note 3 covers Chapter 4
 
 # Homework
 
