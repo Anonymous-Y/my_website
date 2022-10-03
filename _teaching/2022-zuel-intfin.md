@@ -23,7 +23,7 @@ Lecture Slides 2 covers Chapter 3
 
 Lecture Slides 3 covers Chapter 4
 
-[LectureSlides 4](https://github.com/Anonymous-Y/my_website/blob/67db942d804fd96257dd9aaed40b310e854212da/files/ZUEL/international_finance/slide4.pdf)
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/67db942d804fd96257dd9aaed40b310e854212da/files/ZUEL/international_finance/slide4.pdf)
 
 Lecture Slides 4 covers Chapter 6
 
