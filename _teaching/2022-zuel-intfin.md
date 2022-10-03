@@ -11,21 +11,21 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/a255ef9a2c5f1f7e0f1330e4d5529baecb3cda2f/files/ZUEL/international_finance/IntelFin_1.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/a255ef9a2c5f1f7e0f1330e4d5529baecb3cda2f/files/ZUEL/international_finance/IntelFin_1.pdf)
 
-Lecture Note 1 covers Chapter 1 & 2
+Lecture Slides 1 covers Chapter 1 & 2
 
-[Lecture Note 2](https://github.com/Anonymous-Y/my_website/blob/19e6658e32e6b94d79e59374c91c9b29335b919e/files/ZUEL/international_finance/slide2.pdf)
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/19e6658e32e6b94d79e59374c91c9b29335b919e/files/ZUEL/international_finance/slide2.pdf)
 
-Lecture Note 2 covers Chapter 3
+Lecture Slides 2 covers Chapter 3
 
-[Lecture Note 3](https://github.com/Anonymous-Y/my_website/blob/152c9ff7baba6701acd25b07279910c0f88657a3/files/ZUEL/international_finance/slide3.pdf)
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/152c9ff7baba6701acd25b07279910c0f88657a3/files/ZUEL/international_finance/slide3.pdf)
 
-Lecture Note 3 covers Chapter 4
+Lecture Slides 3 covers Chapter 4
 
-[Lecture Note 4](https://github.com/Anonymous-Y/my_website/blob/67db942d804fd96257dd9aaed40b310e854212da/files/ZUEL/international_finance/slide4.pdf)
+[LectureSlides 4](https://github.com/Anonymous-Y/my_website/blob/67db942d804fd96257dd9aaed40b310e854212da/files/ZUEL/international_finance/slide4.pdf)
 
-Lecture Note 4 covers Chapter 6
+Lecture Slides 4 covers Chapter 6
 
 # Homework
 
@@ -51,5 +51,9 @@ Please send me the names of your group members and the paper you choose before *
 
 **III. Final Report (40%)**
 
-Each group needs to turn in one report to describe the paper replication process in detail. For example, the obstacles you overcome or other issues you find in the original paper. Also, please clearly state in your report each team member's contribution to this project.   
+Each group needs to turn in one report to describe the paper replication process in detail. For example, the obstacles you overcome or other issues you find in the original paper. Also, please clearly state in your report each team member's contribution to this project.
+
+**Final Report DUE DATE:** 2022.11.30 11:59PM
+
+[Final Report Submisssion Portal](https://docs.qq.com/form/page/DU1hBZWxxRmpWVk1k)
 
