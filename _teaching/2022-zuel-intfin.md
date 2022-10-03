@@ -23,7 +23,7 @@ Lecture Note 2 covers Chapter 3
 
 Lecture Note 3 covers Chapter 4
 
-[Lecture Note 4](https://github.com/Anonymous-Y/my_website/blob/a355ef05f976b1ee0c1b1ed9c604a641bc99129d/files/ZUEL/international_finance/slide4.pdf)
+[Lecture Note 4](https://github.com/Anonymous-Y/my_website/blob/67db942d804fd96257dd9aaed40b310e854212da/files/ZUEL/international_finance/slide4.pdf)
 
 Lecture Note 4 covers Chapter 6
 
