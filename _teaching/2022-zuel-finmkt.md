@@ -11,15 +11,23 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/bcfdf8be15eca456d62d7428221430974a8aa5fc/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/bcfdf8be15eca456d62d7428221430974a8aa5fc/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
 
-Lecture Note 1 covers *Part 1: Introduction* in the textbook.
+Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
-[Lecture Note 2](https://github.com/Anonymous-Y/my_website/blob/db9158a473841dbddf7b3be53e2b9bf2a9d84d14/files/ZUEL/financial_markets/FinancialMarket_2.pdf)
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/8b68525b5ad5010393de2da546e18cdd53f9b2e0/files/ZUEL/financial_markets/FinancialMarket_2.pdf)
 
 [Python Code](https://github.com/Anonymous-Y/my_website/blob/accd93688723f9676324c1624099bf42b5a6ddfe/files/ZUEL/financial_markets/numpy_financial_fun.py)
 
-Lecture Note 2 covers *Chapter 4: The Meaning of Interest Rates*
+Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*
+
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/8b68525b5ad5010393de2da546e18cdd53f9b2e0/files/ZUEL/financial_markets/FinancialMarket_3.pdf)
+
+Lecture Slides 3 covers *Chapter 5: The Bahavior of Interest Rates*
+
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/8b68525b5ad5010393de2da546e18cdd53f9b2e0/files/ZUEL/financial_markets/FinnacialMarket_4.pdf)
+
+Lecture Slides 4 covers *Chapter 6: The Risk and Term Structure of Interest Rates*
 
 
 # Homework
