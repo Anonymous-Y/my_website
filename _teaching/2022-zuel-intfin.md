@@ -33,6 +33,10 @@ Lecture Slides 4 covers Chapter 6
 
 [Homework 1 Submission Portal](https://docs.qq.com/form/page/DU2dIWGJxVUJPckd5)
 
+[Homework 2](https://github.com/Anonymous-Y/my_website/blob/2e052897c77749336235ef3043b7aeee63941a4d/files/ZUEL/international_finance/International%20Finance%20Homework%202.pdf)
+
+[Homework 2 Submission Portal](https://docs.qq.com/form/page/DU3VZU2dQRVFMSWVD)
+
 # Class Requirements
 
 **I. Homework (30%)**
@@ -55,5 +59,5 @@ Each group needs to turn in one report to describe the paper replication process
 
 **Final Report DUE DATE:** 2022.11.30 11:59PM
 
-[Final Report Submisssion Portal](https://docs.qq.com/form/page/DU1hBZWxxRmpWVk1k)
+Please submit your group's final report, source code and dataset (if applicable) to my email: yang_zichao@outlook.com
 
