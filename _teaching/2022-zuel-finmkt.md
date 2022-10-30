@@ -33,6 +33,14 @@ Lecture Slides 4 covers *Chapter 6: The Risk and Term Structure of Interest Rate
 
 Lecture Slides 5 covers *Chapter 7: The Stock Market, the Theory of Rational Expectations, and the Efficient Market Hypothesis*
 
+[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/6da6e217ce093acf323d2d2f9036ac4f37137562/files/ZUEL/financial_markets/FinancialMarket_6.pdf)
+
+Lecture Slides 6 covers *Chapter 8: An Economic Analysis of Financial Structure*
+
+[Lecture Slides 7](https://github.com/Anonymous-Y/my_website/blob/6da6e217ce093acf323d2d2f9036ac4f37137562/files/ZUEL/financial_markets/FinancialMarket_7.pdf)
+
+Lecture Slides 7 covers *Chapter 9 & Chapter 12*
+
 
 # Homework
 
