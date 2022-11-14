@@ -41,6 +41,14 @@ Lecture Slides 6 covers *Chapter 8: An Economic Analysis of Financial Structure*
 
 Lecture Slides 7 covers *Chapter 9 & Chapter 12*
 
+[Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/2eff75bc15ec565d2829da14e5b6ab4b8e4256da/files/ZUEL/financial_markets/FinancialMarket_8.pdf)
+
+Lecture Slides 8 covers *The Money Markets*
+
+[Lecture Slides 9](https://github.com/Anonymous-Y/my_website/blob/2eff75bc15ec565d2829da14e5b6ab4b8e4256da/files/ZUEL/financial_markets/FinancialMarket_9.pdf)
+
+Lecture Slides 9 covers *The Bond Markets*
+
 
 # Homework
 
@@ -51,6 +59,10 @@ Lecture Slides 7 covers *Chapter 9 & Chapter 12*
 [Homework 2](https://github.com/Anonymous-Y/my_website/blob/1876b2384ff5e7bad9e4cbaa0d8c0f947d49a244/files/ZUEL/financial_markets/Financial%20Markets%20Homework%202.pdf)
 
 [Homework 2 Submission Portal](https://docs.qq.com/form/page/DU1RkVnJ1dGhwRXBN)
+
+[Homework 3](https://github.com/Anonymous-Y/my_website/blob/2eff75bc15ec565d2829da14e5b6ab4b8e4256da/files/ZUEL/financial_markets/Financial%20Markets%20Homework%203.pdf)
+
+[Homework 3 Submission Portal](https://docs.qq.com/form/page/DU3JsTVBmd0ZiVXBD)
 
 
 # Class Requirements
