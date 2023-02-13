@@ -43,11 +43,27 @@ Lecture Slides 7 covers *Chapter 9 & Chapter 12*
 
 [Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/2eff75bc15ec565d2829da14e5b6ab4b8e4256da/files/ZUEL/financial_markets/FinancialMarket_8.pdf)
 
-Lecture Slides 8 covers *The Money Markets*
+Lecture Slides 8 covers *Chapter 11: The Money Markets*
 
 [Lecture Slides 9](https://github.com/Anonymous-Y/my_website/blob/2eff75bc15ec565d2829da14e5b6ab4b8e4256da/files/ZUEL/financial_markets/FinancialMarket_9.pdf)
 
-Lecture Slides 9 covers *The Bond Markets*
+Lecture Slides 9 covers *Chapter 12: The Bond Markets*
+
+[Lecture Sildes 10](https://github.com/Anonymous-Y/my_website/blob/92885dc2c03127bb8d0125de3f10576b4cc6553c/files/ZUEL/financial_markets/FinancialMarket_10.pdf)
+
+Lecture Slides 10 covers *Chapter 13: The Stock Market*
+
+[Lecture Slides 11](https://github.com/Anonymous-Y/my_website/blob/92885dc2c03127bb8d0125de3f10576b4cc6553c/files/ZUEL/financial_markets/FinancialMarket_11.pdf)
+
+Lecture Slides 11 covers *Chapter 14: The Mortgage Market*
+
+[Lecture Slides 12](https://github.com/Anonymous-Y/my_website/blob/92885dc2c03127bb8d0125de3f10576b4cc6553c/files/ZUEL/financial_markets/FinancialMarket_12.pdf)
+
+Lecture Slides 12 covers *Chapter 15: The Foreign Exchange Market*
+
+[Lecture Slides 13](https://github.com/Anonymous-Y/my_website/blob/92885dc2c03127bb8d0125de3f10576b4cc6553c/files/ZUEL/financial_markets/FinancialMarket_13.pdf)
+
+Lecture Slides 13 covers *Chapter 16: The International Financial System*
 
 
 # Homework
