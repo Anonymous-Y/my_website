@@ -27,7 +27,7 @@ Cryptocurrencies, CBDC, Digital Economy
 ## Teaching
 **Instructor, ZUEL**
 *Undergrad Course*
-[Financail Markets](https://yzc.me/teaching/2022-zuel-finmkt) (Fall 2022)
+[Financial Markets](https://yzc.me/teaching/2022-zuel-finmkt) (Fall 2022)
 *Grad Courses*
 [International Finance](https://yzc.me/teaching/2022-zuel-intfin) (Fall 2022)
 [Frontier of Technology and Economics II](https://yzc.me/teaching/2022-zuel-frontier) (Spring 2022)
