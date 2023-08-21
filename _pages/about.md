@@ -22,7 +22,8 @@ Cryptocurrencies, CBDC, Digital Economy
 
 
 ## Working Paper
-1. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
+1. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang)
+2. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
 ## Teaching
 **Instructor, ZUEL**
