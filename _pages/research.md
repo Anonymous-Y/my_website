@@ -27,6 +27,13 @@ Published in *Economics Letters*, September 2020 (with Kwok Ping Tsang)
 [Download paper here](https://doi.org/10.1016/j.econlet.2020.109379)
 
 ## Working Paper
+**Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings**
+Available on SSRN, August 2023
+
+**Abstract** Based on a record of dissents on FOMC votes and transcripts of the meetings from 1976 to 2017, we develop a deep learning model based on self-attention modules to create a measure of the level of disagreement for each member in each meeting. While dissents are rare, we find that members often have reservations with the policy decision. The level of disagreement is mostly driven by current or predicted macroeconomic data, and personal characteristics of the members play almost no role. We also use our model to evaluate speeches made by members between meetings, and we find a weak correlation between the level of disagreement revealed in them and that of the following meeting. Finally, we find that the level of disagreement increases whenever monetary policy action is more aggressive.
+
+[Download paper here](https://ssrn.com/abstract=4546049)
+
 **The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
 Available on SSRN, April 2020, Submitted
 
