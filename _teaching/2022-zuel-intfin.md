@@ -11,7 +11,7 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/a255ef9a2c5f1f7e0f1330e4d5529baecb3cda2f/files/ZUEL/international_finance/IntelFin_1.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/4fe236cb2335635c246722d7e59eab61eee9eefb/files/ZUEL/international_finance/slide1.pdf)
 
 Lecture Slides 1 covers Chapter 1 & 2
 
