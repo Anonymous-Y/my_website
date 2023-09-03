@@ -4,6 +4,22 @@ permalink: /research/
 author_profile: true
 ---
  
+## Working Paper
+**Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings**
+Available on SSRN, August 2023
+
+**Abstract** Based on a record of dissents on FOMC votes and transcripts of the meetings from 1976 to 2017, we develop a deep learning model based on self-attention modules to create a measure of disagreement for each member in each meeting. While dissents are rare, we find that members often have reservations with the policy decision. The level of disagreement is mostly driven by current or predicted macroeconomic data at both the individual and meeting levels, while personal characteristics of the members matter only at the individual level. We also use our model to evaluate speeches made by members between meetings, and we find a weak correlation between the level of disagreement revealed in them and that of the following meeting. Finally, we find that the level of disagreement increases whenever monetary policy action is more aggressive.
+
+[Download paper here](https://ssrn.com/abstract=4546049)
+
+**The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
+Available on SSRN, April 2020, Submitted
+
+**Abstract** Under the stay-at-home orders issued by states, economic activities are reduced or put on hold by some states across the U.S. to control the spread of COVID-19. By combining several sources of data, we estimate the output loss due to such restrictions using a network approach. Based on our most conservative estimates, the measures as of April 15, 2020 reduce 26% of total US output per period, and about 43% of which is due to the input-output connections in the production network. Using a SIR model with an inter-state infection network, we also calculate the cost of reducing each infection to be approximately 150,000 dollars during the period of March 19 to April 15, 2020. Simulation results of various hypothetical stay-at-home orders show that the unit cost of infection reduction of the existing order is about 13% higher than the local minimum.
+
+[Download paper here](https://ssrn.com/abstract=3571866)
+
+
 ## Publications
 **Do Connections Pay Off in the Bitcoin Market?**
 Published in *Journal of Empirical Finance*, February 2022 (with Kwok Ping Tsang)
@@ -25,18 +41,3 @@ Published in *Economics Letters*, September 2020 (with Kwok Ping Tsang)
 **Abstract** Bitcoin is traded in a number of exchanges, and there is a large and time-varying price dispersion among them. We identify the sources of price dispersion using a standard time-varying vector autoregression model with stochastic volatility, and we find that shocks to transaction fees and bitcoin price growth explain on average 20%, and sometimes more than 60%, of the variation of price dispersion.
 
 [Download paper here](https://doi.org/10.1016/j.econlet.2020.109379)
-
-## Working Paper
-**Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings**
-Available on SSRN, August 2023
-
-**Abstract** Based on a record of dissents on FOMC votes and transcripts of the meetings from 1976 to 2017, we develop a deep learning model based on self-attention modules to create a measure of the level of disagreement for each member in each meeting. While dissents are rare, we find that members often have reservations with the policy decision. The level of disagreement is mostly driven by current or predicted macroeconomic data, and personal characteristics of the members play almost no role. We also use our model to evaluate speeches made by members between meetings, and we find a weak correlation between the level of disagreement revealed in them and that of the following meeting. Finally, we find that the level of disagreement increases whenever monetary policy action is more aggressive.
-
-[Download paper here](https://ssrn.com/abstract=4546049)
-
-**The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
-Available on SSRN, April 2020, Submitted
-
-**Abstract** Under the stay-at-home orders issued by states, economic activities are reduced or put on hold by some states across the U.S. to control the spread of COVID-19. By combining several sources of data, we estimate the output loss due to such restrictions using a network approach. Based on our most conservative estimates, the measures as of April 15, 2020 reduce 26% of total US output per period, and about 43% of which is due to the input-output connections in the production network. Using a SIR model with an inter-state infection network, we also calculate the cost of reducing each infection to be approximately 150,000 dollars during the period of March 19 to April 15, 2020. Simulation results of various hypothetical stay-at-home orders show that the unit cost of infection reduction of the existing order is about 13% higher than the local minimum.
-
-[Download paper here](https://ssrn.com/abstract=3571866)
