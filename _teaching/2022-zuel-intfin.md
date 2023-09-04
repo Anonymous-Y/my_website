@@ -15,9 +15,9 @@ location: "Wuhan, China"
 
 Lecture Slides 1 covers Chapter 1 & 2
 
-<!--[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/19e6658e32e6b94d79e59374c91c9b29335b919e/files/ZUEL/international_finance/slide2.pdf)-->
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/6f2451eeefeb5e1948e43435305c63e924769507/files/ZUEL/international_finance/slide2.pdf)
 
-<!--Lecture Slides 2 covers Chapter 3-->
+Lecture Slides 2 covers Chapter 3
 
 <!--[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/152c9ff7baba6701acd25b07279910c0f88657a3/files/ZUEL/international_finance/slide3.pdf)-->
 
