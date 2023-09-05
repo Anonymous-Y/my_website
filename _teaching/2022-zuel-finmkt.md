@@ -11,15 +11,15 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/e5e5a29fcb1003762db4e7d8ec3823f6934e2602/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/2f8c4d8cdbf9dd249e4a9f59b12576b82ff4e04d/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
 
 Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
-<!--[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/8b68525b5ad5010393de2da546e18cdd53f9b2e0/files/ZUEL/financial_markets/FinancialMarket_2.pdf)-->
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/2f8c4d8cdbf9dd249e4a9f59b12576b82ff4e04d/files/ZUEL/financial_markets/FinancialMarket_2.pdf)
 
-<!--[Python Code](https://github.com/Anonymous-Y/my_website/blob/accd93688723f9676324c1624099bf42b5a6ddfe/files/ZUEL/financial_markets/numpy_financial_fun.py)-->
+[Python Code](https://github.com/Anonymous-Y/my_website/blob/2f8c4d8cdbf9dd249e4a9f59b12576b82ff4e04d/files/ZUEL/financial_markets/numpy_financial_fun.py)
 
-<!--Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*-->
+Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*
 
 <!--[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/8b68525b5ad5010393de2da546e18cdd53f9b2e0/files/ZUEL/financial_markets/FinancialMarket_3.pdf)-->
 
