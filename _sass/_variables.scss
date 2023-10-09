@@ -28,11 +28,10 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 $roboto                     : "Roboto", serif;
-$nocturno                   : "Nocturno", serif;
 
-$global-font-family         : $nocturno;
-$header-font-family         : $nocturno;
-$caption-font-family        : $nocturno;
+$global-font-family         : $roboto;
+$header-font-family         : $roboto;
+$caption-font-family        : $roboto;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
