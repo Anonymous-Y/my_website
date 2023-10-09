@@ -26,11 +26,11 @@ Lecture Slides 3 covers Chapter 4
 [Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/3b76f79aa8a2d055ca5959567e51a2b2e77adc26/files/ZUEL/international_finance/slide4.pdf)
 Lecture Slides 4 covers Chapter 6
 
-<!--# Homework-->
+# Homework
 
-<!--[Homework 1](https://github.com/Anonymous-Y/my_website/blob/49bcce60652e80316448f900cd933bfaab18fd61/files/ZUEL/international_finance/International%20Finance%20Homework%201.pdf)-->
+[Homework 1](https://github.com/Anonymous-Y/my_website/blob/f18b3cb421df59bc2ef8ab842fdf11d5cd73e355/files/ZUEL/international_finance/International%20Finance%20Homework%201.pdf)
 
-<!--[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU2dIWGJxVUJPckd5)-->
+[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU0xQR2trcFphVm5q)
 
 <!--[Homework 2](https://github.com/Anonymous-Y/my_website/blob/2e052897c77749336235ef3043b7aeee63941a4d/files/ZUEL/international_finance/International%20Finance%20Homework%202.pdf)-->
 
