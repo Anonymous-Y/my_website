@@ -26,6 +26,7 @@ Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*
 Lecture Slides 3 covers *Chapter 5: The Bahavior of Interest Rates*
 
 [Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/418fb29c27ae8a137b72aa7d4ca00a93514f3f21/files/ZUEL/financial_markets/FinancialMarket_4.pdf)
+
 Lecture Slides 4 covers *Chapter 6: The Risk and Term Structure of Interest Rates*
 
 [Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/418fb29c27ae8a137b72aa7d4ca00a93514f3f21/files/ZUEL/financial_markets/FinancialMarket_5.pdf)
@@ -67,9 +68,9 @@ Lecture Slides 5 covers *Chapter 7: The Stock Market, the Theory of Rational Exp
 
 # Homework
 
-<!--[Homework 1](https://github.com/Anonymous-Y/my_website/blob/523e0ca5bc51ea819890fab4e670931039aeaddf/files/ZUEL/financial_markets/Financial%20Markets%20Homework%201.pdf)-->
+[Homework 1](https://github.com/Anonymous-Y/my_website/blob/2acf79e25946fd040256046c7bcc3f2078bf85b8/files/ZUEL/financial_markets/Financial%20Markets%20Homework%201.pdf)
 
-<!--[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU1FtT2xEamVaYUdh)-->
+[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU1BQYnB2dml5Q2hq)
 
 <!--[Homework 2](https://github.com/Anonymous-Y/my_website/blob/1876b2384ff5e7bad9e4cbaa0d8c0f947d49a244/files/ZUEL/financial_markets/Financial%20Markets%20Homework%202.pdf)-->
 
