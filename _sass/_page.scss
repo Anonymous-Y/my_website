@@ -61,6 +61,7 @@
 
   /* paragraph indents */
   p {
+    text-align: justify;  /* make words distribute evenly between margins */
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
