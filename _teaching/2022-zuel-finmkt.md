@@ -21,17 +21,16 @@ Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
 Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*
 
-<!--[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/8b68525b5ad5010393de2da546e18cdd53f9b2e0/files/ZUEL/financial_markets/FinancialMarket_3.pdf)-->
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/418fb29c27ae8a137b72aa7d4ca00a93514f3f21/files/ZUEL/financial_markets/FinancialMarket_3.pdf)
 
-<!--Lecture Slides 3 covers *Chapter 5: The Bahavior of Interest Rates*-->
+Lecture Slides 3 covers *Chapter 5: The Bahavior of Interest Rates*
 
-<!--[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/1876b2384ff5e7bad9e4cbaa0d8c0f947d49a244/files/ZUEL/financial_markets/FinancialMarket_4.pdf)-->
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/418fb29c27ae8a137b72aa7d4ca00a93514f3f21/files/ZUEL/financial_markets/FinancialMarket_4.pdf)
+Lecture Slides 4 covers *Chapter 6: The Risk and Term Structure of Interest Rates*
 
-<!--Lecture Slides 4 covers *Chapter 6: The Risk and Term Structure of Interest Rates*-->
+[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/418fb29c27ae8a137b72aa7d4ca00a93514f3f21/files/ZUEL/financial_markets/FinancialMarket_5.pdf)
 
-<!--[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/1876b2384ff5e7bad9e4cbaa0d8c0f947d49a244/files/ZUEL/financial_markets/FinancialMarket_5.pdf)-->
-
-<!--Lecture Slides 5 covers *Chapter 7: The Stock Market, the Theory of Rational Expectations, and the Efficient Market Hypothesis*-->
+Lecture Slides 5 covers *Chapter 7: The Stock Market, the Theory of Rational Expectations, and the Efficient Market Hypothesis*
 
 <!--[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/6da6e217ce093acf323d2d2f9036ac4f37137562/files/ZUEL/financial_markets/FinancialMarket_6.pdf)-->
 
