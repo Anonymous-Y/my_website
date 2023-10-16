@@ -72,9 +72,9 @@ Lecture Slides 5 covers *Chapter 7: The Stock Market, the Theory of Rational Exp
 
 [Homework 1 Submission Portal](https://docs.qq.com/form/page/DU1BQYnB2dml5Q2hq)
 
-<!--[Homework 2](https://github.com/Anonymous-Y/my_website/blob/1876b2384ff5e7bad9e4cbaa0d8c0f947d49a244/files/ZUEL/financial_markets/Financial%20Markets%20Homework%202.pdf)-->
+[Homework 2](https://github.com/Anonymous-Y/my_website/blob/fd6071b750024c2b629b7e874a4bcae6e796b857/files/ZUEL/financial_markets/Financial%20Markets%20Homework%202.pdf)
 
-<!--[Homework 2 Submission Portal](https://docs.qq.com/form/page/DU1RkVnJ1dGhwRXBN)-->
+[Homework 2 Submission Portal](https://docs.qq.com/form/page/DU01zbWF6dHJNUmtG)
 
 <!--[Homework 3](https://github.com/Anonymous-Y/my_website/blob/2eff75bc15ec565d2829da14e5b6ab4b8e4256da/files/ZUEL/financial_markets/Financial%20Markets%20Homework%203.pdf)-->
 
