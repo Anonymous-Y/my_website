@@ -33,9 +33,9 @@ Lecture Slides 4 covers Chapter 6
 
 [Homework 1 Submission Portal](https://docs.qq.com/form/page/DU0xQR2trcFphVm5q)
 
-<!--[Homework 2](https://github.com/Anonymous-Y/my_website/blob/2e052897c77749336235ef3043b7aeee63941a4d/files/ZUEL/international_finance/International%20Finance%20Homework%202.pdf)-->
+[Homework 2](https://github.com/Anonymous-Y/my_website/blob/55e6eca3840d92d372115c39717eea61e4f20e14/files/ZUEL/international_finance/International%20Finance%20Homework%202.pdf)
 
-<!--[Homework 2 Submission Portal](https://docs.qq.com/form/page/DU3VZU2dQRVFMSWVD)-->
+[Homework 2 Submission Portal](https://docs.qq.com/form/page/DU2xhT0RhYmdCQVJO)
 
 # Class Requirements
 
