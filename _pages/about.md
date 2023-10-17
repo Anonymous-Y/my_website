@@ -13,7 +13,7 @@ E-Mail: yang_zichao@outlook.com
 My CV: [download](https://www.dropbox.com/s/dzt349wppvektho/ZichaoYang_CV.pdf?dl=0)
 
 ## Current Research Interests
-Cryptocurrency, CBDC, Central Bank
+Cryptocurrency, CBDC, Central Banking
 
 ## Working Paper
 1. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang)
