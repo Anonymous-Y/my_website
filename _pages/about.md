@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 ## Zichao Yang (杨子超)
-Associate Professor (contract-based), Wenlan School of Business, ZUEL
+Associate Professor (Without Tenure), Wenlan School of Business, ZUEL
 E-Mail: yang_zichao@outlook.com
 My CV: [download](https://www.dropbox.com/s/dzt349wppvektho/ZichaoYang_CV.pdf?dl=0)
 
 ## Current Research Interests
-Cryptocurrency, CBDC, Central Banking
+Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
-## Working Paper
+## Working Papers
 1. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang)
 2. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
@@ -23,6 +23,10 @@ Cryptocurrency, CBDC, Central Banking
 1. [Do Connections Pay Off in the Bitcoin Market?](https://doi.org/10.1016/j.jempfin.2022.02.001), Tsang, K.P. & Yang, Z. (2022) , *Journal of Empirical Finance*
 2. [The Market For Bitcoin Transactions](https://doi.org/10.1016/j.intfin.2021.101282), Tsang, K.P. & Yang, Z. (2021) , *Journal of International Financial Markets, Institutions and Money*
 3. [Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), Tsang, K.P. & Yang, Z. (2020) , *Economics Letters*
+
+## Selected Works in Progress
+1. Deanonymize Bitcoin Transactions, with Kwok Ping Tsang
+2. Intellectual Property High Court and Intellectual Property Protection in China, with Qian Wang
 
 ## Teaching
 **Instructor, ZUEL**
