@@ -10,7 +10,7 @@ redirect_from:
 ## Zichao Yang (杨子超)
 Associate Professor (Without Tenure), Wenlan School of Business, ZUEL
 E-Mail: yang_zichao@outlook.com
-My CV: [download](https://www.dropbox.com/scl/fi/v66bxsz7pj1fizdxlawv1/ZichaoYang_CV.pdf?rlkey=ne4oaz5jdf82h33x7xi03u84q&dl=0)
+My CV: [download](https://www.dropbox.com/scl/fi/yaiikhg3go95vl1977z9v/ZichaoYang_CV.pdf?rlkey=tlj5dkl142l5la7u2hs99bi3s&dl=0)
 
 ## Current Research Interests
 Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
