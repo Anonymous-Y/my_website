@@ -37,7 +37,7 @@ Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 [International Finance](https://yzc.me/teaching/zuel-intfin) (Fall 2022, 2023)
 [Frontier of Technology and Economics II](https://yzc.me/teaching/zuel-frontier) (Spring 2022)
 *Workshop Session*
-[Blockchain Technology and Its Impact on the Global Economy](https//yzc.me/teaching/btc-talk) (Spring 2023)
+[Blockchain Technology and Its Impact on the Global Economy](https://yzc.me/teaching/btc-talk) (Spring 2023)
 
 **Instructor, VT**
 ECON2006 Principles of Macroeconomics (Fall 2020, Winter 2020)
