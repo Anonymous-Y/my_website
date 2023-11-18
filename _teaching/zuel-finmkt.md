@@ -2,7 +2,7 @@
 title: "Financial Markets"
 collection: teaching
 type: "Undergrad Course"
-permalink: /teaching/2022-zuel-finmkt
+permalink: /teaching/zuel-finmkt
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2023-08-29
