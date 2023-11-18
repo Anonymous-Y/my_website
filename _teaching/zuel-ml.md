@@ -22,7 +22,7 @@ Lecture Slides 1 covers Machine Learning Basics
 
 **Final Report (100%)**
 
-Each student needs to turn in one proposal stating how you can apply these machine learning models to your current research. (2-3 pages, Times New Roman, 12pt, 1.5 line space)
+Each student needs to turn in one proposal stating how they can apply these machine learning models to their current research. (2-3 pages, Times New Roman, 12pt, 1.5 line space)
 
 <!--**Final Report DUE DATE:** 2022.11.30 11:59PM-->
 
