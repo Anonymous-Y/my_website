@@ -2,7 +2,7 @@
 title: "International Finance"
 collection: teaching
 type: "Grad Course"
-permalink: /teaching/2022-zuel-intfin
+permalink: /teaching/zuel-intfin
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2023-08-28
