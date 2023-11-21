@@ -74,9 +74,9 @@ Lecture Slides 10 covers *Chapter 13: The Stock Market*, [Lecture 10 Math Note](
 
 [Homework 2 Submission Portal](https://docs.qq.com/form/page/DU01zbWF6dHJNUmtG)
 
-<!--[Homework 3](https://github.com/Anonymous-Y/my_website/blob/2eff75bc15ec565d2829da14e5b6ab4b8e4256da/files/ZUEL/financial_markets/Financial%20Markets%20Homework%203.pdf)-->
+[Homework 3](https://github.com/Anonymous-Y/my_website/blob/9ea7496451b66028dfd36591d77e96e0a19259b7/files/ZUEL/financial_markets/Financial%20Markets%20Homework%203.pdf)
 
-<!--[Homework 3 Submission Portal](https://docs.qq.com/form/page/DU3JsTVBmd0ZiVXBD)-->
+[Homework 3 Submission Portal](https://docs.qq.com/form/page/DU2hHcnB2eEtrV1Nn)
 
 
 # Class Requirements
