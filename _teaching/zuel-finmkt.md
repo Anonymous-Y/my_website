@@ -17,9 +17,7 @@ Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
 [Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/2f8c4d8cdbf9dd249e4a9f59b12576b82ff4e04d/files/ZUEL/financial_markets/FinancialMarket_2.pdf)
 
-[Python Code](https://github.com/Anonymous-Y/my_website/blob/2f8c4d8cdbf9dd249e4a9f59b12576b82ff4e04d/files/ZUEL/financial_markets/numpy_financial_fun.py)
-
-Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*
+Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*, [Lecture 2 Python Code](https://github.com/Anonymous-Y/my_website/blob/2f8c4d8cdbf9dd249e4a9f59b12576b82ff4e04d/files/ZUEL/financial_markets/numpy_financial_fun.py)
 
 [Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/418fb29c27ae8a137b72aa7d4ca00a93514f3f21/files/ZUEL/financial_markets/FinancialMarket_3.pdf)
 
@@ -33,25 +31,25 @@ Lecture Slides 4 covers *Chapter 6: The Risk and Term Structure of Interest Rate
 
 Lecture Slides 5 covers *Chapter 7: The Stock Market, the Theory of Rational Expectations, and the Efficient Market Hypothesis*
 
-<!--[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/6da6e217ce093acf323d2d2f9036ac4f37137562/files/ZUEL/financial_markets/FinancialMarket_6.pdf)-->
+[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_6.pdf)
 
-<!--Lecture Slides 6 covers *Chapter 8: An Economic Analysis of Financial Structure*-->
+Lecture Slides 6 covers *Chapter 8: An Economic Analysis of Financial Structure*
 
-<!--[Lecture Slides 7](https://github.com/Anonymous-Y/my_website/blob/6da6e217ce093acf323d2d2f9036ac4f37137562/files/ZUEL/financial_markets/FinancialMarket_7.pdf)-->
+[Lecture Slides 7](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_7.pdf)
 
-<!--Lecture Slides 7 covers *Chapter 9 & Chapter 12*-->
+Lecture Slides 7 covers *Chapter 9 & Chapter 12*
 
-<!--[Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/2eff75bc15ec565d2829da14e5b6ab4b8e4256da/files/ZUEL/financial_markets/FinancialMarket_8.pdf)-->
+[Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_8.pdf)
 
-<!--Lecture Slides 8 covers *Chapter 11: The Money Markets*-->
+Lecture Slides 8 covers *Chapter 11: The Money Markets*
 
-<!--[Lecture Slides 9](https://github.com/Anonymous-Y/my_website/blob/2eff75bc15ec565d2829da14e5b6ab4b8e4256da/files/ZUEL/financial_markets/FinancialMarket_9.pdf)-->
+[Lecture Slides 9](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_9.pdf)
 
-<!--Lecture Slides 9 covers *Chapter 12: The Bond Markets*-->
+Lecture Slides 9 covers *Chapter 12: The Bond Markets*, [Lecture 9 Math Note](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_9_MathNote.pdf)
 
-<!--[Lecture Sildes 10](https://github.com/Anonymous-Y/my_website/blob/92885dc2c03127bb8d0125de3f10576b4cc6553c/files/ZUEL/financial_markets/FinancialMarket_10.pdf)-->
+[Lecture Sildes 10](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_10.pdf)
 
-<!--Lecture Slides 10 covers *Chapter 13: The Stock Market*-->
+Lecture Slides 10 covers *Chapter 13: The Stock Market*, [Lecture 10 Math Note](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_10_MathNote.pdf)
 
 <!--[Lecture Slides 11](https://github.com/Anonymous-Y/my_website/blob/92885dc2c03127bb8d0125de3f10576b4cc6553c/files/ZUEL/financial_markets/FinancialMarket_11.pdf)-->
 
