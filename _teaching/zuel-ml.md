@@ -19,23 +19,23 @@ Lecture Slides 1 covers Machine Learning Basics
 
 Lecture Slides 2 covers ML methods for regression 
 
-[Lecture Slides 3]()
+Lecture Slides 3
 
 Lecture Slides 3 covers ML methods for classification
 
-[Lecture Slides 4]()
+Lecture Slides 4
 
 Lecture Slides 4 covers fully connected neural network
 
-[Lecture Slides 5]()
+Lecture Slides 5
 
 Lecture Slides 5 covers CNN
 
-[Lectrure Slides 6]()
+Lectrure Slides 6
 
 Lecture Slides 6 covers RNN
 
-[Lectrure Slides 7]()
+Lectrure Slides 7
 
 Lecture Slides 7 covers Transformer
 
