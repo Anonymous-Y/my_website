@@ -17,11 +17,11 @@ Lecture Slides 1 covers Machine Learning Basics
 
 [Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/d22d813569abcaae0eb8dc324cc797794012e6e1/files/ZUEL/machine_learning_in_econ/regression.pdf)
 
-Lecture Slides 2 covers common ML methods for regression 
+Lecture Slides 2 covers ML methods for regression 
 
 [Lecture Slides 3]
 
-Lecture Slides 3 covers commnon ML methods for classification
+Lecture Slides 3 covers ML methods for classification
 
 [Lecture Slides 4]
 
