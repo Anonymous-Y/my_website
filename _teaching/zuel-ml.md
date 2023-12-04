@@ -15,6 +15,33 @@ location: "Wuhan, China"
 
 Lecture Slides 1 covers Machine Learning Basics
 
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/d22d813569abcaae0eb8dc324cc797794012e6e1/files/ZUEL/machine_learning_in_econ/regression.pdf)
+
+Lecture Slides 2 covers common ML methods for regression 
+
+[Lecture Slides 3]
+
+Lecture Slides 3 covers commnon ML methods for classification
+
+[Lecture Slides 4]
+
+Lecture Slides 4 covers fully connected neural network
+
+[Lecture Slides 5]
+
+Lecture Slides 5 covers CNN
+
+[Lectrure Slides 6]
+
+Lecture Slides 6 covers RNN
+
+[Lectrure Slides 7]
+
+Lecture Slides 7 covers Transformer
+
+[Lectrure Slides 8](https://github.com/Anonymous-Y/my_website/blob/d22d813569abcaae0eb8dc324cc797794012e6e1/files/ZUEL/machine_learning_in_econ/nlp.pdf)
+
+Lecture Slides 8 covers Large Language Model
 
 
 # Class Requirements
