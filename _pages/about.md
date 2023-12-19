@@ -31,9 +31,10 @@ Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 ## Teaching
 **Instructor, ZUEL**
 *Undergrad Course*
-[Machine Learning in Economics](https://yzc.me/teaching/zuel-ml) (Fall, 2023)
+Machine Learning in Finance (Spring, 2024)
 [Financial Markets](https://yzc.me/teaching/zuel-finmkt) (Fall 2022, 2023)
 *Grad Courses*
+[Machine Learning in Economics](https://yzc.me/teaching/zuel-ml) (Fall, 2023)
 [International Finance](https://yzc.me/teaching/zuel-intfin) (Fall 2022, 2023)
 [Frontier of Technology and Economics II](https://yzc.me/teaching/zuel-frontier) (Spring 2022)
 *Workshop Session*
