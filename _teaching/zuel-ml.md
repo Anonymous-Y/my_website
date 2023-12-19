@@ -51,6 +51,6 @@ Lecture Slides 8 covers Large Language Model
 
 Each student needs to turn in one proposal stating how they can apply these machine learning models to their current research. (2-3 pages, Times New Roman, 12pt, 1.5 line space)
 
-<!--**Final Report DUE DATE:** 2022.11.30 11:59PM-->
+**Final Report DUE DATE:** 2024.01.21 11:59PM
 
 Please submit your proposal to my email: yang_zichao@outlook.com
