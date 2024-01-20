@@ -23,7 +23,7 @@ Lecture Slides 2 covers ML methods for regression
 
 Lecture Slides 3 covers ML methods for classification
 
-Lecture Slides 4
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/83b87bdc492d600220ce62edd05c0b626d9771ec/files/ZUEL/machine_learning_in_econ/dfn.pdf)
 
 Lecture Slides 4 covers fully connected neural network
 
