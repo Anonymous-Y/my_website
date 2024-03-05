@@ -29,4 +29,4 @@ Students are required to form study groups, each consisting of 2 to 3 members, a
 Each study group needs to submit a report detailing the application of machine learning models to their Kaggle project. Additionally, please clearly state in your report each team member's contribution to this project. (under 20 pages, Times New Roman, 12pt, 1.5 line space)
 
 **Final Report DUE DATE:** TBA
-Please submit your report to this portal: TBA
+Please submit your report here: TBA
