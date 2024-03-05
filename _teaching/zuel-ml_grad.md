@@ -2,7 +2,7 @@
 title: "Machine Learning In Economics"
 collection: teaching
 type: "Grad Course"
-permalink: /teaching/zuel-ml
+permalink: /teaching/zuel-ml_grad
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2023-11-18
