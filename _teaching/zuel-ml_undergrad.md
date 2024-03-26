@@ -23,7 +23,7 @@ Lecture 3: The Case for Financial Machine Learning
 
 Lecture 4: The Virtues of Complex Models
 
-[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/41aea828dae5a88ddb512a87543019e4c8efe202/files/ZUEL/machine_learning_in_finance/lecture4.pdf)
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/7e954ff973eb48b6d482bbb9dd02cbb556bdef2e/files/ZUEL/machine_learning_in_finance/lecture4.pdf)
 
 # Class Requirements
 
