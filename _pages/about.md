@@ -26,7 +26,7 @@ Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
 ## Selected Works in Progress
 1. Deanonymize Bitcoin Transactions, with Kwok Ping Tsang
-2. Intellectual Property High Court and Intellectual Property Protection in China, with Qian Wang
+2. Intellectual Property High Court and Intellectual Property Protection in China, with Qian Wan
 
 ## Teaching
 **Instructor, ZUEL**
