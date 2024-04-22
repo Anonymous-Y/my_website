@@ -25,7 +25,7 @@ Lecture 4: The Virtues of Complex Models
 
 [Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/7e954ff973eb48b6d482bbb9dd02cbb556bdef2e/files/ZUEL/machine_learning_in_finance/lecture4.pdf)
 
-Lecture 5: Return Prediction Part I, covers penalized linear models, dimension redcution, tree models, ensemble learning
+Lecture 5: Return Prediction Part I, covers penalized linear models, dimension reduction, tree models, ensemble learning
 
 [Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/c6a622aa916429b54b97cea3d8a1f414917b85f7/files/ZUEL/machine_learning_in_finance/lecture5.pdf)
 
