@@ -13,7 +13,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "Baskerville", Georgia, Times, serif;
+$serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
@@ -30,9 +30,9 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 $roboto                     : "Roboto", serif;
 
-$global-font-family         : $georgia;
-$header-font-family         : $georgia;
-$caption-font-family        : $georgia;
+$global-font-family         : $garamond;
+$header-font-family         : $garamond;
+$caption-font-family        : $garamond;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
