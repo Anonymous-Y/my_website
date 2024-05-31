@@ -11,25 +11,27 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-Lecture 1: Introduction to Machine Learning
-
 [Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/08c0b795b5109af48d3399769bea137bae41cf6b/files/ZUEL/machine_learning_in_finance/Lecture_1.pdf)
+
+Lecture 1: Introduction to Machine Learning
 
 Lecture 2: Python Review
 
-Lecture 3: The Case for Financial Machine Learning
-
 [Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/41aea828dae5a88ddb512a87543019e4c8efe202/files/ZUEL/machine_learning_in_finance/lecture3.pdf)
 
-Lecture 4: The Virtues of Complex Models
+Lecture 3: The Case for Financial Machine Learning
 
 [Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/7e954ff973eb48b6d482bbb9dd02cbb556bdef2e/files/ZUEL/machine_learning_in_finance/lecture4.pdf)
 
-Lecture 5: Return Prediction Part I, covers penalized linear models, dimension reduction, tree models, ensemble learning
+Lecture 4: The Virtues of Complex Models
 
 [Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/c6a622aa916429b54b97cea3d8a1f414917b85f7/files/ZUEL/machine_learning_in_finance/lecture5.pdf)
 
-Lecture 6: Return Prediciton Part II, covers neural network, large language models
+Lecture 5: Return Prediction Part I, covers penalized linear models, dimension reduction, tree models, ensemble learning
+
+[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/d0d595e3889e5c42d4bc2fd03e255cc075105384/files/ZUEL/machine_learning_in_finance/lecture6.pdf)
+
+Lecture 6: Return Prediciton Part II, covers fully connected neural network, convolutional neural network, transformer, large language model and its local deployment
 
 # Class Requirements
 
