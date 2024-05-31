@@ -25,23 +25,19 @@ Lecture Slides 3 covers ML methods for classification
 
 [Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/83b87bdc492d600220ce62edd05c0b626d9771ec/files/ZUEL/machine_learning_in_econ/dfn.pdf)
 
-Lecture Slides 4 covers fully connected neural network
+Lecture Slides 4 covers Fully Connected Neural Network
 
-Lecture Slides 5
+[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/07317631a8b47e230c516685530ed03f6b1f21ad/files/ZUEL/machine_learning_in_econ/cnn.pdf)
 
-Lecture Slides 5 covers CNN
+Lecture Slides 5 covers Convolutional Neural Network
 
-Lectrure Slides 6
+[Lectrure Slides 6](https://github.com/Anonymous-Y/my_website/blob/d22d813569abcaae0eb8dc324cc797794012e6e1/files/ZUEL/machine_learning_in_econ/nlp.pdf)
 
-Lecture Slides 6 covers RNN
+Lecture Slides 6 covers Large Language Model
 
-Lectrure Slides 7
+Lectrure Slides 7 (Optional)
 
-Lecture Slides 7 covers Transformer
-
-[Lectrure Slides 8](https://github.com/Anonymous-Y/my_website/blob/d22d813569abcaae0eb8dc324cc797794012e6e1/files/ZUEL/machine_learning_in_econ/nlp.pdf)
-
-Lecture Slides 8 covers Large Language Model
+Lecture Slides 7 covers RNN
 
 
 # Class Requirements
