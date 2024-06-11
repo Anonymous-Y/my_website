@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=925LTrAAAAAJ"
-  email            : "yang_zichao@outlook.com"
+  email            : # "your email address"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
