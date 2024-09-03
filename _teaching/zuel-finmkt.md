@@ -11,7 +11,7 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/2f8c4d8cdbf9dd249e4a9f59b12576b82ff4e04d/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/78439c3d978b309bfc698f39b490aafcc64711ff/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
 
 Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
