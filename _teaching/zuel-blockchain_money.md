@@ -11,7 +11,7 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/08c0b795b5109af48d3399769bea137bae41cf6b/files/ZUEL/machine_learning_in_finance/Lecture_1.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/0c3e8a3c4647810de437f41855a73d1ee725d07d/files/ZUEL/blockchain_and_digital_money/intro.pdf)
 
 Lecture 1: Introduction to Bitcoin
 
