@@ -11,7 +11,7 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/54fe4b38f87bbf3acfb10071a5b3daab28dc64cd/files/ZUEL/machine_learning_in_econ/basics.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/afa4f263c6751c9ff166afaefff49fad068155bd/files/ZUEL/machine_learning_in_econ/basics.pdf)
 
 Lecture Slides 1 covers Machine Learning Basics
 
