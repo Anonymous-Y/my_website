@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
  
-## Working Paper
+## Working Papers
 **Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform**
 Available Upon Request, September 2024
 
