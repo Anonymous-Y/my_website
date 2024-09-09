@@ -5,6 +5,12 @@ author_profile: true
 ---
  
 ## Working Paper
+**Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform**
+Available Upon Request, September 2024
+
+**Abstract** This paper examines the impact of intellectual property judicial institution on innovation, focusing on the intellectual property courts (IPCs) reform in China. We find that IPCs reform leads to a significant 14% increase in the number of invention patents at the city level, equating to an average rise of 172 annually. Notably, we rule out the possibility of inter-city spatial transfer of patents, indicating that the effect of the IPCs reform on innovation is not a zero-sum game among cities. Furthermore, we also witness improvements in patent quality. Mechanism analyses suggest that the IPCs reform enhances the judicial environment for intellectual property protection. This is primarily evidenced by increased social satisfaction with judicial protection of intellectual property, shorter case durations, and higher plaintiff winning rates in intellectual property cases.
+
+
 **Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings**
 Available on SSRN, August 2023
 

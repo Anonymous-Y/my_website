@@ -16,8 +16,9 @@ My CV: [download](https://www.dropbox.com/scl/fi/yaiikhg3go95vl1977z9v/ZichaoYan
 Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
 ## Working Papers
-1. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang)
-2. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
+1. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform (September 2024, with Liyang Wan, Qian Wan and Ying Zhao)
+2. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang)
+3. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
 ## Publications
 1. [Do Connections Pay Off in the Bitcoin Market?](https://doi.org/10.1016/j.jempfin.2022.02.001), Tsang, K.P. & Yang, Z. (2022) , *Journal of Empirical Finance*
@@ -26,7 +27,6 @@ Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
 ## Selected Works in Progress
 1. Deanonymize Bitcoin Transactions, with Kwok Ping Tsang
-2. Intellectual Property High Court and Intellectual Property Protection in China, with Qian Wan
 
 ## Teaching
 **Instructor, ZUEL**
