@@ -5,7 +5,7 @@ type: "Grad Course"
 permalink: /teaching/zuel-ml_grad
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
-date: 2023-11-18
+date: 2024-09-18
 location: "Wuhan, China"
 ---
 

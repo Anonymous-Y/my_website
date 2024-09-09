@@ -5,7 +5,7 @@ type: "Undergrad Course"
 permalink: /teaching/zuel-finmkt
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
-date: 2023-08-29
+date: 2024-09-09
 location: "Wuhan, China"
 ---
 
