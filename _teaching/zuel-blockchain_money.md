@@ -17,11 +17,11 @@ Lecture 1: Introduction to Bitcoin
 
 # Class Requirements
 
-**Project & Presentation (50%)**
-Students are required to form study groups, each consisting of 2 to 3 members, and collaboratively work on a project related to blockchain or digital money. At the end of this semester, each group needs to present their findings and project outcomes.
+**Final Project**
 
-**Final Report (50%)**
-Each study group needs to submit a project report. Additionally, please clearly state in your report each team member's contribution to this project. (under 20 pages, Times New Roman, 12pt, 1.5 line space)
+For your final project, you will collaborate in teams (2-3 members) to explore a topic of your choice related to blockchain technology and digital money. The project aims to allow you to delve deeply into an area of interest, whether through an economic analysis or by developing a coding project that demonstrates practical applications of blockchain concepts. At the end of this semester, each group needs to present their research findings or demonstrate their application.
 
-**Final Report DUE DATE:** TBD
+Detailed final project instructions: [link]()
+
+**Final Project Report DUE DATE:** TBD
 Please submit your report here: TBD
