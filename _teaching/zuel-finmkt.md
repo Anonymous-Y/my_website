@@ -15,13 +15,13 @@ location: "Wuhan, China"
 
 Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
-<!---[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/2f8c4d8cdbf9dd249e4a9f59b12576b82ff4e04d/files/ZUEL/financial_markets/FinancialMarket_2.pdf)--->
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/financial_markets/FinancialMarket_2.pdf)
 
-<!---Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*, [Lecture 2 Python Code](https://github.com/Anonymous-Y/my_website/blob/2f8c4d8cdbf9dd249e4a9f59b12576b82ff4e04d/files/ZUEL/financial_markets/numpy_financial_fun.py)--->
+Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*, [Lecture 2 Python Code](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/financial_markets/numpy_financial_fun.py)
 
-<!---[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/418fb29c27ae8a137b72aa7d4ca00a93514f3f21/files/ZUEL/financial_markets/FinancialMarket_3.pdf)--->
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/financial_markets/FinancialMarket_3.pdf)
 
-<!---Lecture Slides 3 covers *Chapter 5: The Bahavior of Interest Rates*--->
+Lecture Slides 3 covers *Chapter 5: The Bahavior of Interest Rates*
 
 <!---[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/418fb29c27ae8a137b72aa7d4ca00a93514f3f21/files/ZUEL/financial_markets/FinancialMarket_4.pdf)--->
 
@@ -70,9 +70,9 @@ Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
 # Homework
 
-<!---[Homework 1](https://github.com/Anonymous-Y/my_website/blob/2acf79e25946fd040256046c7bcc3f2078bf85b8/files/ZUEL/financial_markets/Financial%20Markets%20Homework%201.pdf)--->
+[Homework 1]()
 
-<!---[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU1BQYnB2dml5Q2hq)--->
+[Homework 1 Submission Portal]()
 
 <!---[Homework 2](https://github.com/Anonymous-Y/my_website/blob/fd6071b750024c2b629b7e874a4bcae6e796b857/files/ZUEL/financial_markets/Financial%20Markets%20Homework%202.pdf)--->
 

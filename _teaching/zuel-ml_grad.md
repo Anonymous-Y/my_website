@@ -15,13 +15,13 @@ location: "Wuhan, China"
 
 Lecture Slides 1 covers Machine Learning Basics
 
-<!---[[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/d22d813569abcaae0eb8dc324cc797794012e6e1/files/ZUEL/machine_learning_in_econ/regression.pdf)--->
+[[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/machine_learning_in_econ/regression.pdf)
 
-<!---Lecture Slides 2 covers ML methods for regression--->
+Lecture Slides 2 covers ML methods for regression
 
-<!---[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/6c4c2649ab9c196b89951c14fb752c4f3a04edbd/files/ZUEL/machine_learning_in_econ/svm_rf.pdf)--->
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/machine_learning_in_econ/svm_rf.pdf)
 
-<!---Lecture Slides 3 covers ML methods for classification--->
+Lecture Slides 3 covers ML methods for classification
 
 <!---[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/83b87bdc492d600220ce62edd05c0b626d9771ec/files/ZUEL/machine_learning_in_econ/dfn.pdf)--->
 
