@@ -15,6 +15,10 @@ location: "Wuhan, China"
 
 Lecture 1: Introduction to Bitcoin
 
+[Lecture Slides 2]()
+
+Lecture 2: Public Key Cryptography and Bitcoin Addresses
+
 # Class Requirements
 
 **Final Project**
