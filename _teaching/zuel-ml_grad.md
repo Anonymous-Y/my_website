@@ -15,7 +15,7 @@ location: "Wuhan, China"
 
 Lecture Slides 1 covers Machine Learning Basics
 
-[[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/machine_learning_in_econ/regression.pdf)
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/machine_learning_in_econ/regression.pdf)
 
 Lecture Slides 2 covers ML methods for regression
 

@@ -15,9 +15,10 @@ location: "Wuhan, China"
 
 Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
-[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/financial_markets/FinancialMarket_2.pdf)
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/financial_markets/FinancialMarket_2.pdf), [Lecture 2 Python Code](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/financial_markets/numpy_financial_fun.py)
 
-Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*, [Lecture 2 Python Code](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/financial_markets/numpy_financial_fun.py)
+
+Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*
 
 [Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/99ce08a0ec7ca8befa0bd2afde7a7d49b3259863/files/ZUEL/financial_markets/FinancialMarket_3.pdf)
 
