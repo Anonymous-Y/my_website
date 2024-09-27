@@ -70,9 +70,9 @@ Lecture Slides 3 covers *Chapter 5: The Bahavior of Interest Rates*
 
 # Homework
 
-[Homework 1]()
+[Homework 1](https://github.com/Anonymous-Y/my_website/blob/383f4b1b15b3abba3eacf6b2ba49c338b84dcfbe/files/ZUEL/financial_markets/Financial%20Markets%20Homework%201.pdf)
 
-[Homework 1 Submission Portal]()
+[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU2FyWnpPV0lBeGla)
 
 <!---[Homework 2](https://github.com/Anonymous-Y/my_website/blob/fd6071b750024c2b629b7e874a4bcae6e796b857/files/ZUEL/financial_markets/Financial%20Markets%20Homework%202.pdf)--->
 
