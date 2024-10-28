@@ -23,17 +23,17 @@ Lecture Slides 2 covers ML methods for regression
 
 Lecture Slides 3 covers ML methods for classification
 
-<!---[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/83b87bdc492d600220ce62edd05c0b626d9771ec/files/ZUEL/machine_learning_in_econ/dfn.pdf)--->
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/83b87bdc492d600220ce62edd05c0b626d9771ec/files/ZUEL/machine_learning_in_econ/dfn.pdf)
 
-<!---Lecture Slides 4 covers Fully Connected Neural Network--->
+Lecture Slides 4 covers Fully Connected Neural Network
 
-<!---[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/07317631a8b47e230c516685530ed03f6b1f21ad/files/ZUEL/machine_learning_in_econ/cnn.pdf)--->
+[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/07317631a8b47e230c516685530ed03f6b1f21ad/files/ZUEL/machine_learning_in_econ/cnn.pdf)
 
-<!---Lecture Slides 5 covers Convolutional Neural Network--->
+Lecture Slides 5 covers Convolutional Neural Network
 
-<!---[Lectrure Slides 6](https://github.com/Anonymous-Y/my_website/blob/d22d813569abcaae0eb8dc324cc797794012e6e1/files/ZUEL/machine_learning_in_econ/nlp.pdf)--->
+[Lectrure Slides 6](https://github.com/Anonymous-Y/my_website/blob/d22d813569abcaae0eb8dc324cc797794012e6e1/files/ZUEL/machine_learning_in_econ/nlp.pdf)
 
-<!---Lecture Slides 6 covers Large Language Model--->
+Lecture Slides 6 covers Large Language Model
 
 
 # Class Requirements
@@ -43,6 +43,6 @@ Lecture Slides 3 covers ML methods for classification
 
 Each student needs to turn in one proposal stating how they can apply these machine learning models to their current research. (2-3 pages, Times New Roman, 12pt, 1.5 line space)
 
-**Final Report DUE DATE:** TBD
+**Final Report DUE DATE:** 2024-12-27 23:59
 
-Please submit your proposal to my email: yang_zichao@outlook.com
+Please submit your proposal [here](https://docs.qq.com/form/page/DU0p5U1NyU2JJa1VY). 
