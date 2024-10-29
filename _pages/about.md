@@ -12,14 +12,18 @@ Associate Professor (Without Tenure), Wenlan School of Business, ZUEL
 E-Mail: yang_zichao A-T outlook.com
 My CV: [download](https://www.dropbox.com/scl/fi/yaiikhg3go95vl1977z9v/ZichaoYang_CV.pdf?rlkey=tlj5dkl142l5la7u2hs99bi3s&dl=0)
 
-🔔**Update Alert**🔔 Curious about the data behind my projects? Visit [digitecon.org](https://www.digitecon.org) and start exploring!
+🔔**Update Alert!** 🔔 Curious about the data behind my projects? Visit [digitecon.org](https://www.digitecon.org) and start exploring!
 
 ## Current Research Interests
 Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
 ## Working Papers
 1. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform (September 2024, with Liyang Wan, Qian Wan and Ying Zhao)
-2. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang) [[Hidden Dissent Index Download]](https://www.digitecon.org/hidden-dissent-index)
+
+2. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang)
+
+   [[Hidden Dissent Index Download]](https://www.digitecon.org/hidden-dissent-index)
+
 3. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
 ## Publications
