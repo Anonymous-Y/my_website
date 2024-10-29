@@ -6,12 +6,12 @@ author_profile: true
 
 ## Working Papers
 **ESG Rating Disagreement and Corporate Total Factor Productivity:Inference and Prediction**
-Available on SSRN, October 2024
+Available on SSRN, October 2024, Under Review
 [[Download Paper]](https://ssrn.com/abstract=4936528)
 **Abstract** This paper examines how ESG rating disagreement (Dis) affects corporate total factor productivity (TFP) in China based on data of A-share listed companies from 2015 to 2022. We find that Dis reduces TFP, especially in state-owned, non-capital-intensive, and low-pollution firms. Mechanism analysis shows that green innovation strengthens the dampening effect of Dis on TFP, and that Dis lowers corporate TFP by increasing financing constraints. Furthermore, XGBoost regression demonstrates that Dis plays a significant role in predicting TFP, with SHAP showing that the dampening effect of ESG rating disagreement on TFP is still pronounced in firms with large Dis values.
 
 **Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform**
-Available Upon Request, September 2024
+Available Upon Request, September 2024, Under Review
 
 **Abstract** This paper examines the impact of intellectual property judicial institution on innovation, focusing on the intellectual property courts (IPCs) reform in China. We find that IPCs reform leads to a significant 14% increase in the number of invention patents at the city level, equating to an average rise of 172 annually. Notably, we rule out the possibility of inter-city spatial transfer of patents, indicating that the effect of the IPCs reform on innovation is not a zero-sum game among cities. Furthermore, we also witness improvements in patent quality. Mechanism analyses suggest that the IPCs reform enhances the judicial environment for intellectual property protection. This is primarily evidenced by increased social satisfaction with judicial protection of intellectual property, shorter case durations, and higher plaintiff winning rates in intellectual property cases.
 
@@ -21,7 +21,7 @@ Available on SSRN, August 2023, update coming soon...
 **Abstract** Based on a record of dissents on FOMC votes and transcripts of the meetings from 1976 to 2017, we develop a deep learning model based on self-attention mechanism to create a measure of disagreement for members in each meeting. While dissents are rare, we find that members often have reservations with the policy decision, and the level of disagreement is mostly driven by current or predicted macroeconomic data.  Using our model to evaluate speeches made by members between meetings, we find that the informational content of speeches is low if we can only compare them to speeches made by the chair. Disagreement strongly correlates with data from the Summary of Economic Projections and a measure of monetary policy sub-optimality, suggesting that disagreement is driven by both members' different preferences and their different views about the future.
 
 **The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
-Available on SSRN, April 2020, Submitted
+Available on SSRN, April 2020
 [[Download Paper]](https://ssrn.com/abstract=3571866)
 **Abstract** Under the stay-at-home orders issued by states, economic activities are reduced or put on hold by some states across the U.S. to control the spread of COVID-19. By combining several sources of data, we estimate the output loss due to such restrictions using a network approach. Based on our most conservative estimates, the measures as of April 15, 2020 reduce 26% of total US output per period, and about 43% of which is due to the input-output connections in the production network. Using a SIR model with an inter-state infection network, we also calculate the cost of reducing each infection to be approximately 150,000 dollars during the period of March 19 to April 15, 2020. Simulation results of various hypothetical stay-at-home orders show that the unit cost of infection reduction of the existing order is about 13% higher than the local minimum.
 
