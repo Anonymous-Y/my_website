@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Working Papers
+**Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings**
+Available on SSRN, August 2023, Update: November 2024
+[[Download Paper]](https://ssrn.com/abstract=4546049)
+**Abstract** Based on a record of dissents on FOMC votes and transcripts of the meetings from 1976 to 2017, we develop a deep learning model based on self-attention mechanism to create a measure of disagreement for members in each meeting. While dissents are rare, we find that members often have reservations with the policy decision, and the level of disagreement is mostly driven by current or predicted macroeconomic data.  Using our model to evaluate speeches made by members between meetings, we find that the informational content of speeches is low if we can only compare them to speeches made by the chair. Disagreement strongly correlates with data from the Summary of Economic Projections and a measure of monetary policy sub-optimality, suggesting that disagreement is driven by both members' different preferences and their different views about the future.
+
 **ESG Rating Disagreement and Corporate Total Factor Productivity:Inference and Prediction**
 Available on SSRN, October 2024, Under Review
 [[Download Paper]](https://ssrn.com/abstract=4936528)
@@ -14,11 +19,6 @@ Available on SSRN, October 2024, Under Review
 Available Upon Request, September 2024, Under Review
 
 **Abstract** This paper examines the impact of intellectual property judicial institution on innovation, focusing on the intellectual property courts (IPCs) reform in China. We find that IPCs reform leads to a significant 14% increase in the number of invention patents at the city level, equating to an average rise of 172 annually. Notably, we rule out the possibility of inter-city spatial transfer of patents, indicating that the effect of the IPCs reform on innovation is not a zero-sum game among cities. Furthermore, we also witness improvements in patent quality. Mechanism analyses suggest that the IPCs reform enhances the judicial environment for intellectual property protection. This is primarily evidenced by increased social satisfaction with judicial protection of intellectual property, shorter case durations, and higher plaintiff winning rates in intellectual property cases.
-
-**Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings**
-Available on SSRN, August 2023, update coming soon...
-[[Download Paper]](https://ssrn.com/abstract=4546049)
-**Abstract** Based on a record of dissents on FOMC votes and transcripts of the meetings from 1976 to 2017, we develop a deep learning model based on self-attention mechanism to create a measure of disagreement for members in each meeting. While dissents are rare, we find that members often have reservations with the policy decision, and the level of disagreement is mostly driven by current or predicted macroeconomic data.  Using our model to evaluate speeches made by members between meetings, we find that the informational content of speeches is low if we can only compare them to speeches made by the chair. Disagreement strongly correlates with data from the Summary of Economic Projections and a measure of monetary policy sub-optimality, suggesting that disagreement is driven by both members' different preferences and their different views about the future.
 
 **The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
 Available on SSRN, April 2020
