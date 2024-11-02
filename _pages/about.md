@@ -18,7 +18,7 @@ My CV: [download](https://www.dropbox.com/scl/fi/yaiikhg3go95vl1977z9v/ZichaoYan
 Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
 ## Working Papers
-1. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang, Update: November 2024)
+1. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang), Update: November 2024
 
    [[Hidden Dissent Index Download]](https://www.digitecon.org/hidden-dissent-index)
 
