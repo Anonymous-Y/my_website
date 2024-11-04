@@ -75,9 +75,9 @@ Lecture Slides 7 covers *Chapter 9 & Chapter 12*
 
 [Homework 1 Submission Portal](https://docs.qq.com/form/page/DU2FyWnpPV0lBeGla)
 
-<!---[Homework 2](https://github.com/Anonymous-Y/my_website/blob/fd6071b750024c2b629b7e874a4bcae6e796b857/files/ZUEL/financial_markets/Financial%20Markets%20Homework%202.pdf)--->
+[Homework 2](https://github.com/Anonymous-Y/my_website/blob/8b3fc48ca8ec324228f0f23fe7570168eba5c7e0/files/ZUEL/financial_markets/Financial%20Markets%20Homework%202.pdf)
 
-<!---[Homework 2 Submission Portal](https://docs.qq.com/form/page/DU01zbWF6dHJNUmtG)--->
+[Homework 2 Submission Portal](https://docs.qq.com/form/page/DU1hEV3lwZENCZ05h)
 
 <!---[Homework 3](https://github.com/Anonymous-Y/my_website/blob/9ea7496451b66028dfd36591d77e96e0a19259b7/files/ZUEL/financial_markets/Financial%20Markets%20Homework%203.pdf)--->
 
