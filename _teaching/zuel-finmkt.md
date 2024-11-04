@@ -24,21 +24,21 @@ Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*
 
 Lecture Slides 3 covers *Chapter 5: The Bahavior of Interest Rates*
 
-<!---[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/418fb29c27ae8a137b72aa7d4ca00a93514f3f21/files/ZUEL/financial_markets/FinancialMarket_4.pdf)--->
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/36b4fa91285c1ef1461a11b8d0c956d3717754e1/files/ZUEL/financial_markets/FinancialMarket_4.pdf)
 
-<!---Lecture Slides 4 covers *Chapter 6: The Risk and Term Structure of Interest Rates*--->
+Lecture Slides 4 covers *Chapter 6: The Risk and Term Structure of Interest Rates*
 
-<!---[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/d965bfa1625ab93a066cf3bcdb4e8269286cecd9/files/ZUEL/financial_markets/FinancialMarket_5.pdf)--->
+[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/36b4fa91285c1ef1461a11b8d0c956d3717754e1/files/ZUEL/financial_markets/FinancialMarket_5.pdf)
 
-<!---Lecture Slides 5 covers *Chapter 7: The Stock Market, the Theory of Rational Expectations, and the Efficient Market Hypothesis*--->
+Lecture Slides 5 covers *Chapter 7: The Stock Market, the Theory of Rational Expectations, and the Efficient Market Hypothesis*
 
-<!---[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_6.pdf)--->
+[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/36b4fa91285c1ef1461a11b8d0c956d3717754e1/files/ZUEL/financial_markets/FinancialMarket_6.pdf)
 
-<!---Lecture Slides 6 covers *Chapter 8: An Economic Analysis of Financial Structure*--->
+Lecture Slides 6 covers *Chapter 8: An Economic Analysis of Financial Structure*
 
-<!---[Lecture Slides 7](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_7.pdf)--->
+[Lecture Slides 7](https://github.com/Anonymous-Y/my_website/blob/36b4fa91285c1ef1461a11b8d0c956d3717754e1/files/ZUEL/financial_markets/FinancialMarket_7.pdf)
 
-<!---Lecture Slides 7 covers *Chapter 9 & Chapter 12*--->
+Lecture Slides 7 covers *Chapter 9 & Chapter 12*
 
 <!---[Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_8.pdf)--->
 
