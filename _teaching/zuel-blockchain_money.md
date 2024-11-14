@@ -11,13 +11,21 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/c121e985d4c247ef19f6675037b05c9280531379/files/ZUEL/blockchain_and_digital_money/intro.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/6899f3c2a4fa1ae3cce81497fddf5466b3cc2a31/files/ZUEL/blockchain_and_digital_money/intro.pdf)
 
 Lecture 1: Introduction to Bitcoin
 
-[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/da9e8af8602901cef0f179fc7fdd520588004e80/files/ZUEL/blockchain_and_digital_money/keys_addresses.pdf)
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/6899f3c2a4fa1ae3cce81497fddf5466b3cc2a31/files/ZUEL/blockchain_and_digital_money/keys_addresses.pdf)
 
 Lecture 2: Public Key Cryptography and Bitcoin Addresses
+
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/6899f3c2a4fa1ae3cce81497fddf5466b3cc2a31/files/ZUEL/blockchain_and_digital_money/transactions.pdf)
+
+Lecture 3: Bitcoin Transactions
+
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/6899f3c2a4fa1ae3cce81497fddf5466b3cc2a31/files/ZUEL/blockchain_and_digital_money/blockchain.pdf)
+
+Lecture 4: Bitcoin Blockchian
 
 # Class Requirements
 
