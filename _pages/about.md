@@ -18,13 +18,13 @@ My CV: [download](https://www.dropbox.com/scl/fi/ufzagxkjcdu7rg6dyzu7w/ZichaoYan
 Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
 ## Working Papers
-1. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang), Update: November 2024
+1. [Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings](https://ssrn.com/abstract=4546049) (August 2023, with Kwok Ping Tsang), Update: November 2024, Under Review
 
    [[Hidden Dissent Index Download]](https://www.digitecon.org/hidden-dissent-index)
 
-2. [ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction](https://ssrn.com/abstract=4936528) (October 2024, with Zhanli Li)
+2. [ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction](https://ssrn.com/abstract=4936528) (October 2024, with Zhanli Li), R & R, *Finance Research Letters*
 
-3. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform (September 2024, with Liyang Wan, Qian Wan and Ying Zhao)
+3. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform (September 2024, with Liyang Wan, Qian Wan and Ying Zhao), R & R, *Journal of Development Economics*
 
 4. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
