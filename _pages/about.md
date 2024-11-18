@@ -22,9 +22,9 @@ Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
    [[Hidden Dissent Index Download]](https://www.digitecon.org/hidden-dissent-index)
 
-2. [ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction](https://ssrn.com/abstract=4936528) (October 2024, with Zhanli Li), R & R, *Finance Research Letters*
+2. [ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction](https://ssrn.com/abstract=4936528) (October 2024, with Zhanli Li), R&R, *Finance Research Letters*
 
-3. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform (September 2024, with Liyang Wan, Qian Wan and Ying Zhao), R & R, *Journal of Development Economics*
+3. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform (September 2024, with Liyang Wan, Qian Wan and Ying Zhao), R&R, *Journal of Development Economics*
 
 4. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
