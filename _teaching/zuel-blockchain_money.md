@@ -27,6 +27,14 @@ Lecture 3: Bitcoin Transactions
 
 Lecture 4: Bitcoin Blockchian
 
+[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/8c05eb56f0423f99a58ac455737f1c98e0dbe97e/files/ZUEL/blockchain_and_digital_money/eth_intro_tx.pdf)
+
+Lecture 5: Ethereum Introduction and Transaction Structure
+
+[Lecture Note 6]()
+
+Lecture Note 6: Build and Deploy A Smart Contract in Solidity
+
 # Class Requirements
 
 **Final Project**
