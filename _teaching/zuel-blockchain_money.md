@@ -31,7 +31,7 @@ Lecture 4: Bitcoin Blockchian
 
 Lecture 5: Ethereum Introduction and Transaction Structure
 
-[Lecture Note 6]()
+[Lecture Note 6](https://github.com/Anonymous-Y/my_website/blob/bd992664f385189da16709953728503773553aee/files/ZUEL/blockchain_and_digital_money/LectureNote6_State_Variables_Function_Contract.pdf)
 
 Lecture Note 6: Build and Deploy A Smart Contract in Solidity
 
