@@ -35,6 +35,8 @@ Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
 ## Selected Works in Progress
 1. Deanonymize Bitcoin Transactions, with Kwok Ping Tsang
+1. A Very English Phenomenon: Competition in the International Labor Market, with Xinquan Zhao
+1. Written in the Blockchain: The Anatomy of Deccentralized Betting Markets, with Kwok Ping Tsang
 
 ## Teaching
 **Instructor, ZUEL**
