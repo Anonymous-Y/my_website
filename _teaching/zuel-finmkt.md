@@ -46,11 +46,11 @@ Lecture Slides 8 covers *Chapter 11: The Money Markets*
 
 [Lecture Slides 9](https://github.com/Anonymous-Y/my_website/blob/ff48b7869f9b5845465f283e1cb5213b8e875173/files/ZUEL/financial_markets/FinancialMarket_9.pdf)
 
-<!---Lecture Slides 9 covers *Chapter 12: The Bond Markets*, [Lecture 9 Math Note](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_9_MathNote.pdf)--->
+Lecture Slides 9 covers *Chapter 12: The Bond Markets*, [Lecture 9 Math Note](https://github.com/Anonymous-Y/my_website/blob/da1b4efd4bf7ca444eb5f0537cded1369eb1e765/files/ZUEL/financial_markets/FinancialMarket_9_MathNote.pdf)
 
 [Lecture Sildes 10](https://github.com/Anonymous-Y/my_website/blob/ff48b7869f9b5845465f283e1cb5213b8e875173/files/ZUEL/financial_markets/FinancialMarket_10.pdf)
 
-<!---Lecture Slides 10 covers *Chapter 13: The Stock Market*, [Lecture 10 Math Note](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_10_MathNote.pdf)--->
+Lecture Slides 10 covers *Chapter 13: The Stock Market*, [Lecture 10 Math Note](https://github.com/Anonymous-Y/my_website/blob/da1b4efd4bf7ca444eb5f0537cded1369eb1e765/files/ZUEL/financial_markets/FinancialMarket_10_MathNote.pdf)
 
 <!---[Lecture Slides 11](https://github.com/Anonymous-Y/my_website/blob/76cb6e5c29f204e39ce7eb12fc90b487bebbfe14/files/ZUEL/financial_markets/FinancialMarket_11.pdf)--->
 
