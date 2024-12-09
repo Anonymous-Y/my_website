@@ -40,15 +40,15 @@ Lecture Slides 6 covers *Chapter 8: An Economic Analysis of Financial Structure*
 
 Lecture Slides 7 covers *Chapter 9 & Chapter 12*
 
-<!---[Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_8.pdf)--->
+[Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/ff48b7869f9b5845465f283e1cb5213b8e875173/files/ZUEL/financial_markets/FinancialMarket_8.pdf)
 
-<!---Lecture Slides 8 covers *Chapter 11: The Money Markets*--->
+Lecture Slides 8 covers *Chapter 11: The Money Markets*
 
-<!---[Lecture Slides 9](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_9.pdf)--->
+[Lecture Slides 9](https://github.com/Anonymous-Y/my_website/blob/ff48b7869f9b5845465f283e1cb5213b8e875173/files/ZUEL/financial_markets/FinancialMarket_9.pdf)
 
 <!---Lecture Slides 9 covers *Chapter 12: The Bond Markets*, [Lecture 9 Math Note](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_9_MathNote.pdf)--->
 
-<!---[Lecture Sildes 10](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_10.pdf)--->
+[Lecture Sildes 10](https://github.com/Anonymous-Y/my_website/blob/ff48b7869f9b5845465f283e1cb5213b8e875173/files/ZUEL/financial_markets/FinancialMarket_10.pdf)
 
 <!---Lecture Slides 10 covers *Chapter 13: The Stock Market*, [Lecture 10 Math Note](https://github.com/Anonymous-Y/my_website/blob/5c70950b6fd1fd6dfb18a7041110122a949b4b9d/files/ZUEL/financial_markets/FinancialMarket_10_MathNote.pdf)--->
 
@@ -79,7 +79,7 @@ Lecture Slides 7 covers *Chapter 9 & Chapter 12*
 
 [Homework 2 Submission Portal](https://docs.qq.com/form/page/DU1hEV3lwZENCZ05h)
 
-[Homework 3](https://github.com/Anonymous-Y/my_website/blob/9ea7496451b66028dfd36591d77e96e0a19259b7/files/ZUEL/financial_markets/Financial%20Markets%20Homework%203.pdf)
+[Homework 3](https://github.com/Anonymous-Y/my_website/blob/ff48b7869f9b5845465f283e1cb5213b8e875173/files/ZUEL/financial_markets/Financial%20Markets%20Homework%203.pdf)
 
 [Homework 3 Submission Portal](https://docs.qq.com/form/page/DU0RLU1NJTG9SbGxJ)
 
