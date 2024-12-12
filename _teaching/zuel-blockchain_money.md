@@ -35,6 +35,10 @@ Lecture 5: Ethereum Introduction and Transaction Structure
 
 Lecture 6: Build and Deploy A Smart Contract in Solidity
 
+[Lecture Slides 7](https://github.com/Anonymous-Y/my_website/blob/4873c25327f61ed7cd0ad841630b3851abc0c4ef/files/ZUEL/blockchain_and_digital_money/eth_account_blocks.pdf)
+
+Lecture 7: Ethereum Account and Blockchain Structure 
+
 # Class Requirements
 
 **Final Project**
