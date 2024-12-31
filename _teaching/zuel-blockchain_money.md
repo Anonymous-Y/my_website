@@ -47,5 +47,5 @@ For your final project, you will collaborate in teams (2-3 members) to explore a
 
 Detailed final project instructions: [link](https://github.com/Anonymous-Y/my_website/blob/896932a81a76b0f444aa5e503feec0cd69c41006/files/ZUEL/blockchain_and_digital_money/Blockchain_and_Digital_Money_Final_Project.md)
 
-**Final Project Report DUE DATE:** 2025-01-10 23: 59
+**Final Project Report DUE DATE:** 2025-01-12 23: 59
 Please submit your report here: [link](https://docs.qq.com/form/page/DU1Z6SVdYZnhVbnVa)
