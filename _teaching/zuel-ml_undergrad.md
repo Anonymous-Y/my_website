@@ -11,7 +11,7 @@ location: "Wuhan, China"
 
 # Lecture Notes
 
-[Lecture Slides 1]()
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/6ef83e398d43803685df6da2fb8800e0bf8a1335/files/ZUEL/machine_learning_in_finance/Lecture_1.pdf)
 
 Lecture 1: Introduction to Machine Learning
 
