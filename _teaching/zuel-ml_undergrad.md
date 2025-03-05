@@ -15,9 +15,9 @@ location: "Wuhan, China"
 
 Lecture 1: Introduction to Machine Learning
 
-<!-- [Lecture Slides 2]()-->
+[Lecture Slides 2]()
 
-<!-- Lecture 2: Python Review -->
+Lecture 2: Python Review & Launch your own AI assistant
 
 <!-- [Lecture Slides 3]() -->
 
