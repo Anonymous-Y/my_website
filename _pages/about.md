@@ -22,16 +22,18 @@ Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 
    [[Hidden Dissent Index Download]](https://www.digitecon.org/hidden-dissent-index)
 
-2. [ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction](https://ssrn.com/abstract=4936528) (October 2024, with Zhanli Li), R&R, *Finance Research Letters*
-
 3. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform (September 2024, with Liyang Wan, Qian Wan and Ying Zhao), R&R, *Journal of Development Economics*
 
 4. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
 ## Publications
-1. [Do Connections Pay Off in the Bitcoin Market?](https://doi.org/10.1016/j.jempfin.2022.02.001), Tsang, K.P. & Yang, Z. (2022) , *Journal of Empirical Finance*
-2. [The Market For Bitcoin Transactions](https://doi.org/10.1016/j.intfin.2021.101282), Tsang, K.P. & Yang, Z. (2021) , *Journal of International Financial Markets, Institutions and Money*
-3. [Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), Tsang, K.P. & Yang, Z. (2020) , *Economics Letters*
+4. [ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction](https://ssrn.com/abstract=4936528) Zhanli Li & Zichao Yang, Forthcoming, *Finance Research Letters*
+
+3. [Do Connections Pay Off in the Bitcoin Market?](https://doi.org/10.1016/j.jempfin.2022.02.001), [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/kwok-ping-tsang) & Zichao Yang (2022) , *Journal of Empirical Finance*
+
+2. [The Market For Bitcoin Transactions](https://doi.org/10.1016/j.intfin.2021.101282), [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/kwok-ping-tsang) & Zichao Yang (2021) , *Journal of International Financial Markets, Institutions and Money*
+
+1. [Price Dispersion in Bitcoin Exchanges](https://doi.org/10.1016/j.econlet.2020.109379), [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/kwok-ping-tsang) & Zichao Yang (2020) , *Economics Letters*
 
 ## Selected Works in Progress
 1. Deanonymize Bitcoin Transactions, with Kwok Ping Tsang
