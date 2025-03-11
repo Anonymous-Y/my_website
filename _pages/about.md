@@ -27,9 +27,7 @@ Cryptocurrencies, CBDC, Macroeconomics, Machine Learning, NLP
 4. [The Impact of Stay-at-Home Orders on US Output: A Network Perspective](https://ssrn.com/abstract=3571866) (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
 ## Publications
-1. [ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction](https://doi.org/10.1016/j.frl.2025.107127) Zhanli Li & Zichao Yang (2025), *Finance Research Letters* 
-
-   [[WP Version](https://ssrn.com/abstract=4936528)]
+1. [ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction](https://doi.org/10.1016/j.frl.2025.107127) Zhanli Li & Zichao Yang (2025), *Finance Research Letters* [[WP Version](https://ssrn.com/abstract=4936528)]
 
 2. [Do Connections Pay Off in the Bitcoin Market?](https://doi.org/10.1016/j.jempfin.2022.02.001), [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/kwok-ping-tsang) & Zichao Yang (2022) , *Journal of Empirical Finance* [[WP Version](https://ssrn.com/abstract=3803959)]
 
