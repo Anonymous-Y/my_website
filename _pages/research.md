@@ -31,15 +31,15 @@ Under the stay-at-home orders issued by states, economic activities are reduced 
 ## Publications
 
 **1. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction**
-<p style="margin-bottom: 0.2em;">Published in *Finance Research Letters*, May 2025 (with Zhanli Li)</p>
+<p style="margin-bottom: 0.2em;">Published in <i>Finance Research Letters</i>, May 2025 (with Zhanli Li)</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
-This paper examines how ESG rating disagreement (*Dis*) affects corporate total factor productivity (TFP) in China based on data of A-share listed companies from 2015 to 2022. We find that *Dis* reduces TFP, especially in state-owned, non-capital-intensive, low-pollution and high-tech firms, green innovation strengthens the dampening effect of *Dis* on TFP, and that *Dis* lowers corporate TFP by increasing financing constraints and weakening human capital. Furthermore, XGBoost regression demonstrates that *Dis* plays a significant role in predicting TFP, with SHAP showing that the dampening effect of ESG rating disagreement on TFP is still pronounced in firms with large *Dis* values.
+This paper examines how ESG rating disagreement (<i>Dis</i>) affects corporate total factor productivity (TFP) in China based on data of A-share listed companies from 2015 to 2022. We find that <i>Dis</i> reduces TFP, especially in state-owned, non-capital-intensive, low-pollution and high-tech firms, green innovation strengthens the dampening effect of <i>Dis</i> on TFP, and that <i>Dis</i> lowers corporate TFP by increasing financing constraints and weakening human capital. Furthermore, XGBoost regression demonstrates that <i>Dis</i> plays a significant role in predicting TFP, with SHAP showing that the dampening effect of ESG rating disagreement on TFP is still pronounced in firms with large <i>Dis</i> values.
 </details>
 <a href="https://doi.org/10.1016/j.frl.2025.107127" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4936528" class="wp-version-button" target="_blank">WP Version</a>
 
 **2. Do Connections Pay Off in the Bitcoin Market?**
-<p style="margin-bottom: 0.2em;">Published in *Journal of Empirical Finance*, February 2022 (with Kwok Ping Tsang)</p>
+<p style="margin-bottom: 0.2em;">Published in <i>Journal of Empirical Finance</i>, February 2022 (with Kwok Ping Tsang)</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
 This paper identifies the bitcoin investor network and studies the relationship between connections and returns. Using transaction data recorded in the bitcoin blockchain from 2015 to 2020, we reach three conclusions. First, connectedness is not strongly correlated with higher returns in the first four years. However, the correlation becomes strong and significant in 2019 and 2020. Second, returns also differ among those connected addresses. By dividing the connected addresses into ten decile groups based on their centrality, we find that the top 20% most-connected addresses earn higher returns than their peers during most of our sample period. Third, eigenvector centrality is more related to higher returns than degree centrality for the top 20% most-connected addresses, implying that the quality of connections may matter more than quantity among those highly connected addresses.
@@ -47,7 +47,7 @@ This paper identifies the bitcoin investor network and studies the relationship 
 <a href="https://doi.org/10.1016/j.jempfin.2022.02.001" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3803959" class="wp-version-button" target="_blank">WP Version</a>
 
 **3. The Market for Bitcoin Transactions**
-<p style="margin-bottom: 0.2em;">Published in *Journal of Internantional Financial Market, Institution & Money*, January 2021 (with Kwok Ping Tsang)</p>
+<p style="margin-bottom: 0.2em;">Published in <i>Journal of Internantional Financial Market, Institution & Money</i>, January 2021 (with Kwok Ping Tsang)</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
 Transaction fees in the bitcoin system work differently from those in conventional payment systems due to the design of the bitcoin mining algorithm. In particular, transaction fees and transaction volume in the bitcoin system increase whenever the network is congested, and our VAR results confirm that is indeed the case. To account for the empirical findings, we build a model where users and miners together determine transaction fees and transaction volume. Even though the mechanism of fluctuating transaction fees in bitcoin introduces an extra cost of uncertainty to users, a back-of-envelope calculation shows that the cost of using the bitcoin network for transactions is still smaller than the cost of using the current conventional payment system with a fixed transaction fee rate. However, this calculation may underestimate the cost due to the crowding-out effect on small transactions during the congested period.
@@ -55,7 +55,7 @@ Transaction fees in the bitcoin system work differently from those in convention
 <a href="https://doi.org/10.1016/j.intfin.2021.101282" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3554458" class="wp-version-button" target="_blank">WP Version</a>
 
 **4. Price dispersion in bitcoin exchanges**
-<p style="margin-bottom: 0.2em;">Published in *Economics Letters*, September 2020 (with Kwok Ping Tsang)</p>
+<p style="margin-bottom: 0.2em;">Published in <i>Economics Letters</i>, September 2020 (with Kwok Ping Tsang)</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
 Bitcoin is traded in a number of exchanges, and there is a large and time-varying price dispersion among them. We identify the sources of price dispersion using a standard time-varying vector autoregression model with stochastic volatility, and we find that shocks to transaction fees and bitcoin price growth explain on average 20%, and sometimes more than 60%, of the variation of price dispersion.
