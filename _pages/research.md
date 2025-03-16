@@ -9,8 +9,9 @@ author_profile: true
 <p style="margin-bottom: 0.2em;">Available on SSRN, August 2023, Update: November 2024</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
-Using FOMC votes and meeting transcripts from 1976–2018, we develop a deep learning model based on self-attention mechanism to quantify ``hidden dissent'' among members. Although explicit dissent is rare, we find that members often have reservations with the policy decision, and hidden dissent is mostly driven by current or predicted macroeconomic data. Additionally, hidden dissent strongly correlates with data from the Summary of Economic Projections and a measure of monetary policy sub-optimality, suggesting it reflects both divergent preferences and differing economic outlooks among members. Finally, financial markets show an immediate response to the hidden dissent disclosed through meeting minutes.
+Using FOMC votes and meeting transcripts from 1976–2018, we develop a deep learning model based on self-attention mechanism to quantify ''hidden dissent'' among members. Although explicit dissent is rare, we find that members often have reservations with the policy decision, and hidden dissent is mostly driven by current or predicted macroeconomic data. Additionally, hidden dissent strongly correlates with data from the Summary of Economic Projections and a measure of monetary policy sub-optimality, suggesting it reflects both divergent preferences and differing economic outlooks among members. Finally, financial markets show an immediate response to the hidden dissent disclosed through meeting minutes.
 </details>
+
 <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a>
 
 **2. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform**
