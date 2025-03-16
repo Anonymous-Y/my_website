@@ -39,3 +39,28 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom styles for collapsible abstracts */
+details {
+  margin-bottom: 0.5em;
+  margin-top: 0.2em;
+}
+
+details summary {
+  cursor: pointer;
+  display: inline-block;
+  font-weight: normal;
+  margin-right: 10px;
+}
+
+details summary:hover {
+  text-decoration: underline;
+}
+
+details[open] {
+  padding-bottom: 0.5em;
+}
+
+details[open] summary {
+  margin-bottom: 0.5em;
+}

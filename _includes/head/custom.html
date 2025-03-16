@@ -24,4 +24,238 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- Custom styles for collapsible abstracts and version buttons -->
+<style>
+  details {
+    margin-bottom: 0.5em;
+    margin-top: 0.2em;
+  }
+  
+  details summary {
+    cursor: pointer;
+    display: inline-block;
+    font-weight: normal;
+    margin-right: 10px;
+    margin-top: 0;
+    list-style: none;
+  }
+  
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  /* Fix spacing between paper info and buttons */
+  .page__content p {
+    margin-bottom: 0.5em;
+  }
+  
+  .page__content p + details {
+    margin-top: 0;
+  }
+  
+  /* Adjust spacing for paper titles */
+  .page__content strong {
+    display: block;
+    margin-top: 1.5em;
+    margin-bottom: 0.4em;
+  }
+  
+  /* First title in each section shouldn't have extra top margin */
+  .page__content h2 + strong {
+    margin-top: 0.8em;
+  }
+  
+  /* Reduce space after paper titles */
+  .page__content strong + p,
+  .page__content strong + br + p {
+    margin-top: 0.2em;
+  }
+  
+  /* Shared button styles for consistency */
+  .abstract-button, .wp-version-button, .pub-version-button {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-size: 0.9em;
+    transition: background-color 0.2s;
+    text-decoration: none !important;
+    color: #4a4a4a;
+    width: 150px;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 2px;
+  }
+  
+  /* Abstract button specific styles */
+  .abstract-button {
+    background-color: rgba(100, 100, 100, 0.2);  /* Gray with 0.3 opacity */
+    color: #333333;  /* Darker text for good contrast */
+    margin-top: 0;
+  }
+  
+  .abstract-button:hover {
+    background-color: rgba(100, 100, 100, 0.4);  /* Darker gray on hover */
+    text-decoration: none !important;
+    border-bottom: none !important;
+  }
+  
+  /* WP Version button specific styles */
+  .wp-version-button {
+    background-color: rgba(0, 118, 168, 0.7);  /* MATLAB blue with 0.7 opacity */
+    color: white;  /* White text for better contrast against blue */
+  }
+  
+  .wp-version-button:hover {
+    background-color: rgba(0, 118, 168, 0.9);  /* Darker MATLAB blue on hover */
+    text-decoration: none !important;
+    border-bottom: none !important;
+  }
+  
+  /* Pub Version button specific styles */
+  .pub-version-button {
+    background-color: rgba(128, 0, 0, 0.7);  /* Maroon with 0.7 opacity */
+    color: white;  /* White text for better contrast */
+  }
+  
+  .pub-version-button:hover {
+    background-color: rgba(128, 0, 0, 0.9);  /* Darker maroon on hover */
+    text-decoration: none !important;
+    border-bottom: none !important;
+  }
+  
+  /* Override any theme styles that might apply underlines */
+  a.wp-version-button:hover, 
+  a.wp-version-button:focus, 
+  a.wp-version-button:active,
+  a.pub-version-button:hover,
+  a.pub-version-button:focus,
+  a.pub-version-button:active,
+  .abstract-button:hover,
+  .abstract-button:focus,
+  .abstract-button:active {
+    text-decoration: none !important;
+    border-bottom: none !important;
+  }
+  
+  /* Override any theme styles that might apply underlines for emph-button */
+  a.emph-button,
+  a.emph-button:hover,
+  a.emph-button:focus,
+  a.emph-button:active {
+    text-decoration: none !important;
+    border-bottom: none !important;
+  }
+  
+  details[open] {
+    padding-bottom: 0.5em;
+  }
+  
+  details[open] summary {
+    margin-bottom: 0.5em;
+  }
+  
+  details[open] .abstract-button {
+    background-color: rgba(100, 100, 100, 0.5);  /* Match hover color when open */
+  }
+  
+  /* Justify the abstract text */
+  details {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+  }
+  
+  /* Keep summary left-aligned */
+  details summary {
+    text-align: left;
+  }
+
+  .abstract-button {
+    display: inline-block;
+    padding: 4px 8px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    font-size: 0.7em;
+    color: #333333;
+    background-color: rgba(100, 100, 100, 0.3);
+    border-radius: 3px;
+    transition: background-color 0.3s ease;
+  }
+
+  .abstract-button:hover {
+    background-color: rgba(100, 100, 100, 0.5);
+    text-decoration: none;
+  }
+
+  .abstract-button.open {
+    background-color: rgba(100, 100, 100, 0.5);
+  }
+  
+  .wp-version-button {
+    display: inline-block;
+    padding: 4px 8px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    font-size: 0.7em;
+    color: white;
+    background-color: rgba(0, 118, 168, 0.6);
+    border-radius: 3px;
+    transition: background-color 0.3s ease;
+  }
+
+  .wp-version-button:hover {
+    background-color: rgba(0, 118, 168, 0.8);
+    text-decoration: none;
+  }
+
+  .pub-version-button {
+    display: inline-block;
+    padding: 4px 8px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    font-size: 0.7em;
+    color: white;
+    background-color: rgba(128, 0, 0, 0.7);
+    border-radius: 3px;
+    transition: background-color 0.3s ease;
+  }
+
+  .pub-version-button:hover {
+    background-color: rgba(128, 0, 0, 0.9);
+    text-decoration: none;
+  }
+  
+  .emph-button {
+    display: inline-block;
+    padding: 4px 8px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    font-size: 0.7em;
+    color: white;
+    background-color: rgba(217, 83, 25, 0.8);  /* MATLAB orange/amber with opacity */
+    border-radius: 3px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .emph-button:hover {
+    background-color: rgba(217, 83, 25, 1.0);
+    text-decoration: none;
+  }
+
+  details {
+    margin-bottom: 15px;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+  }
+
+  details summary {
+    text-align: left;
+  }
+</style>
+
 <!-- end custom head snippets -->
