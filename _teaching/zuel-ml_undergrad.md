@@ -25,7 +25,7 @@ Lecture 2: Python Review & Launch your own AI assistant
 
 <!-- [Lecture Slides 4]() -->
 
-<!-- Lecture 4: The Virtues of Complex Models -->
+<!-- Lecture 4: The Virtues of Complex Models, covers shrinkage methods and basic machine learning concepts -->
 
 <!-- [Lecture Slides 5]() -->
 
