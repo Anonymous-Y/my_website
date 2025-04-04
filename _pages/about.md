@@ -16,7 +16,7 @@ My CV: [download](https://www.dropbox.com/scl/fi/3uxps0p9lnafdj4asw2q2/ZichaoYan
 🔔 Update Alert! 🔔 Curious about the data behind my projects? Visit [digitecon.org](https://www.digitecon.org) and start exploring!
 
 ## Current Research Interests
-Machine Learning, Cryptocurrencies, Macroeconomics
+Deep Learning, Cryptocurrencies, Macroeconomics
 
 ## Working Papers
 
