@@ -27,13 +27,17 @@ Lecture 3: The Case for Financial Machine Learning
 
 Lecture 4: The Virtues of Complex Models, covers shrinkage methods and basic machine learning concepts
 
-<!-- [Lecture Slides 5]() -->
+[Lecture Slides 5]() 
 
-<!-- Lecture 5: Return Prediction Part I, covers penalized linear models, dimension reduction, tree models, ensemble learning -->
+Lecture 5: Return Prediction Part I, covers penalized linear models, dimension reduction, tree models, ensemble learning
 
-<!-- [Lecture Slides 6]() -->
+Lecture Slides 6
 
-<!-- Lecture 6: Return Prediciton Part II, covers fully connected neural network, convolutional neural network, transformer, large language model and its local deployment -->
+Lecture 6: Return Prediction Part II, covers fully connected neural network, convolutional neural network, transformer, large language model and its local deployment
+
+Lecture Slides 7
+
+Lecture 7: Recent Development, covers reinforcement learning (RL)
 
 # Class Requirements
 
