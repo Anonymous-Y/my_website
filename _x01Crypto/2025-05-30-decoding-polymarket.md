@@ -25,7 +25,7 @@ Before we dive into the data, it's crucial to understand the smart contracts tha
 To navigate Polymarket's on-chain presence, familiarize yourself with these primary smart contract addresses on the Polygon network and their roles:
 
 | **Contract Name/Role**                 | **Polygon Address**                          | **Notes**                                                    |
-| -------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
+| :-------------------------------------- | :------------------------------------------ | :------------------------------------------------------------ |
 | **Conditional Tokens Framework (CTF)** | `0x4D97DCd97eC945f40cF65F87097ACe5EA0476045` | The core Gnosis contract for creating and managing ERC-1155 outcome shares. This is the engine that generates the very tokens you'll be analyzing. |
 | **CTF Exchange**                       | `0x4bFb41d5B3570DeFd03C39a9A4D8dE6Bd8B8982E` | The main exchange for settling trades in standard binary (YES/NO) markets through atomic swaps of outcome tokens and USDC. |
 | **NegRisk_CTFExchange**                | `0xC5d563A36AE78145C45a50134d48A1215220f80a` | A specialized exchange for the more complex multi-outcome markets that utilize the `NegRiskAdapter`. |
@@ -192,7 +192,7 @@ for abi_item in contract_abi:
         event_signature_to_event[signature_hash] = event_obj
 ```
 We get a mapping between the event IDs and the events inside this contract:
-```jason
+```json
 {'0xacffcc86834d0f1a64b0d5a675798deed6ff0bcfc2231edd3480e7288dba7ff4': <Event FeeCharged(address,uint256,uint256)>,
  '0xf9ffabca9c8276e99321725bcb43fb076a6c66a54b7f21c4e8146d8519b417dc': <Event NewAdmin(address,address)>,
  '0xf1e04d73c4304b5ff164f9d10c7473e2a1593b740674a6107975e2a7001c1e5c': <Event NewOperator(address,address)>,
@@ -291,13 +291,13 @@ When you decode the logs, you'll primarily be dealing with two types of events: 
 
 This event is emitted for each individual order that is filled or partially filled. Let's break down its key fields:
 
-- **`orderHash`**: A unique identifier for the order.
-- **`maker`**: The address of the user who placed the limit order (the liquidity provider).
-- **`taker`**: The address that filled the order. This can be another user or the exchange contract itself if multiple orders are matched.
-- **`makerAssetId`**: The ID of the asset the maker is providing. If it's `0`, the maker is offering USDC (a **Buy** order for an outcome token). If it's a long number (the `positionId`), the maker is offering an outcome token (a **Sell** order).
-- **`takerAssetId`**: The ID of the asset the taker is providing. The logic is the inverse of `makerAssetId`.
-- **`makerAmountFilled`**: The amount of the asset the maker has given out.
-- **`takerAmountFilled`**: The amount of the asset the taker has given out.
+- `orderHash`: A unique identifier for the order.
+- `maker`: The address of the user who placed the limit order (the liquidity provider).
+- `taker`: The address that filled the order. This can be another user or the exchange contract itself if multiple orders are matched.
+- `makerAssetId`: The ID of the asset the maker is providing. If it's `0`, the maker is offering USDC (a **Buy** order for an outcome token). If it's a long number (the `positionId`), the maker is offering an outcome token (a **Sell** order).
+- `takerAssetId`: The ID of the asset the taker is providing. The logic is the inverse of `makerAssetId`.
+- `makerAmountFilled`: The amount of the asset the maker has given out.
+- `takerAmountFilled`: The amount of the asset the taker has given out.
 
 **Example Interpretation:**
 
@@ -314,9 +314,9 @@ This event is emitted for each individual order that is filled or partially fill
     'event': 'OrderFilled'
 }
 ```
-- **The Maker (`0x3Cf3...`)** initiated a **SELL** order, providing **outcome tokens** (`makerAssetId` is not zero).
-- **The Taker (`0xd42F...`)** filled this order, providing **USDC** (`takerAssetId` is zero).
-- **The Trade:** The maker sold **10 outcome tokens** and received **3.3 USDC** in return.
+- The Maker (`0x3Cf3...`) initiated a **SELL** order, providing **outcome tokens** (`makerAssetId` is not zero).
+- The Taker (`0xd42F...`) filled this order, providing **USDC** (`takerAssetId` is zero).
+- The Trade: The maker sold **10 outcome tokens** and received **3.3 USDC** in return.
 
 ### The `OrdersMatched` Event
 
@@ -346,14 +346,12 @@ In a typical trade, a buyer and a seller are matched. You will see two `OrderFil
 
 The belowing `OrderFilled` and `OrdersMatched` logs record a slightly more complex case: a outcome token transactions between three bettors: bettors `0x8698...` and `0x5e9f...` sell outcome token `5031...` and bettor `0x6fd3...` buys the otucome token.
 
-
 | log_index | transaction_index |             block_number | orderHash |                                             maker |                                      taker |                               makerAssetId |                                      takerAssetId |                                 makerAmountFilled | takerAmountFilled |       event | takerOrderHash |                                   takerOrderMaker | block_timestamp |
-| --------: | ----------------: | --------------: | ----------------------: | --------: | ------------------------------------------------: | -----------------------------------------: | -----------------------------------------: | ------------------------------------------------: | ------------------------------------------------: | ----------------: | ----------: | -------------: | ------------------------------------------------: |
+| :-------- | :---------------- | :-------------- | :---------------------- | :-------- | :------------------------------------------------ | :----------------------------------------- | :----------------------------------------- | :------------------------------------------------ | :------------------------------------------------ | :---------------- | :---------- | :------------- | :------------------------------------------------ |
 |               152 |              34 |   51865340 | 0x46b375b7a0f526ef3e6c122f38aaa5a3390430546454... | 0x8698EdBeFd013dB6D087E3d09EEFa08e40bC35c1 | 0x32e3742A6DD363c3DFDba700b77f845Ec99aD066 | 5031583702443233421382704105772955621198964922... |                                                 0 |       111820000.0 |  34664200.0 |    OrderFilled |                                              None | None                                       | 2024-01-02 20:27:28 UTC |
 |               155 |              34 |   51865340 | 0x5e9f8e263b2b8bf538f91595472a0cb98d2bd3333b8d... | 0x3Cf3E8d5427aED066a7A5926980600f6C3Cf87B3 | 0x32e3742A6DD363c3DFDba700b77f845Ec99aD066 | 5031583702443233421382704105772955621198964922... |                                                 0 |        10000000.0 |   3100000.0 |    OrderFilled |                                              None | None                                       | 2024-01-02 20:27:28 UTC |
 |               157 |              34 |   51865340 | 0x6fd37744eff1c1c11e413b2395445c06c0bd04dd6f85... | 0x32e3742A6DD363c3DFDba700b77f845Ec99aD066 | 0xC5d563A36AE78145C45a50134d48A1215220f80a |                                                 0 | 5031583702443233421382704105772955621198964922... |        37764200.0 | 121820000.0 |    OrderFilled |                                              None | None   |     2024-01-02 20:27:28 UTC |                               
 |               158 |              34 |   51865340 |                                              None |                                       None      |                           None |                                                 0 | 5031583702443233421382704105772955621198964922... |        37764200.0 | 121820000.0 |  OrdersMatched | 0x6fd37744eff1c1c11e413b2395445c06c0bd04dd6f85... | 0x32e3742A6DD363c3DFDba700b77f845Ec99aD066 | 2024-01-02 20:27:28 UTC |
-
 
 Usually, we only need to focus on the maker side:
 
@@ -367,13 +365,11 @@ Usually, we only need to focus on the maker side:
 
 If two users want to bet on opposite outcomes of a binary market, the exchange can mint new tokens for them. In this case, both `OrderFilled` events will show `makerAssetId` as `0`, as both parties are providing USDC. The `takerAssetId` in each event will correspond to the "YES" and "NO" outcome tokens, respectively.
 
-
 | log_index | transaction_index | block_number |    maker |                                      taker |                               makerAssetId | takerAssetId |                                 makerAmountFilled | takerAmountFilled |        event | takerOrderHash |                                   takerOrderMaker |                            block_timestamp |                
-| --------: | ----------------: | -----------: | -------: | -----------------------------------------: | -----------------------------------------: | -----------: | ------------------------------------------------: | ----------------: | -----------: | -------------: | ------------------------------------------------: | -----------------------------------------: | 
+| :-------- | :---------------- | :----------- | :------- | :----------------------------------------- | :----------------------------------------- | :----------- | :------------------------------------------------ | :---------------- | :----------- | :------------- | :------------------------------------------------ | :----------------------------------------- | 
 |               137 |           44 | 54432034 | 0x351A72160E477863D13666c62ef1e7631B3940bB | 0xE0DbDB7F005f233f4510e4Ef7e53A2f76a8Df44E |            0 | 3473165777088344114087500151809875113887709547... |      3.960000e+09 | 6.000000e+09 |    OrderFilled |                                              None |                                       None | 2024-03-09 00:24:25+00:00 | 
 |               139 |           44 | 54432034 | 0xE0DbDB7F005f233f4510e4Ef7e53A2f76a8Df44E | 0xC5d563A36AE78145C45a50134d48A1215220f80a |            0 | 8802783960924362419341561417932867960261291649... |      2.040000e+09 | 6.000000e+09 |    OrderFilled |                                              None |                                       None | 2024-03-09 00:24:25+00:00 | 
 |               140 |           44 | 54432034 |                                       None |                                       None |            0 | 8802783960924362419341561417932867960261291649... |      2.040000e+09 | 6.000000e+09 |  OrdersMatched | 0x02a26ec7f7fade1ca26db91b6b5d5f277f28f0fd5a40... | 0xE0DbDB7F005f233f4510e4Ef7e53A2f76a8Df44E | 2024-03-09 00:24:25+00:00 |  
-
 
 In this case, bettor `0x351A7...` wants to buy 6000 `BidenLose` tokens (`3473...`) and bettor `0xE0Db...` wants to buy 6000 `BidenWin` tokens (`8802...`). Both are buy orders, but they want to bet on the opposite results, so Polymarket `NegRisk_CTFExchange` matched them together, took their USDC (3960 + 2040 = 6000 USDC) and minted new opposite tokens for these two users.
 
@@ -381,13 +377,11 @@ In this case, bettor `0x351A7...` wants to buy 6000 `BidenLose` tokens (`3473...
 
 If two users want to sell their opposing outcome tokens, the exchange can match them, burn the tokens, and release the collateral. Here, both `OrderFilled` events will show a non-zero `makerAssetId` (as they are both providing outcome tokens) and a `takerAssetId` of `0` (as they are both receiving USDC).
 
-
 | log_index | transaction_index | block_number | orderHash |                                             maker |                                      taker |                               makerAssetId |                                      takerAssetId | makerAmountFilled | takerAmountFilled |       event | takerOrderHash |                                   takerOrderMaker |                            block_timestamp |   
-| --------: | ----------------: | -----------: | --------: | ------------------------------------------------: | -----------------------------------------: | -----------------------------------------: | ------------------------------------------------: | ----------------: | ----------------: | ----------: | -------------: | ------------------------------------------------: | -----------------------------------------: | 
+| :-------- | :---------------- | :----------- | :-------- | :------------------------------------------------ | :----------------------------------------- | :----------------------------------------- | :------------------------------------------------ | :---------------- | :---------------- | :---------- | :------------- | :------------------------------------------------ | :----------------------------------------- | 
 |               293 |           74 |  51958552 | 0xb06de8c9f6c2035e5464f1328a69e56e6c2eb28958a4... | 0x64C1FFb0283a322bdBE54298713c8013E5E2160F | 0xff66A0aDa4122C5d9292Ffb7eC02922d167a7A07 | 4833104333661288389093875950949315923475504897... |                 0 |       206190000.0 | 123714000.0 |    OrderFilled |                                              None |                                       None | 2024-01-05 06:54:00+00:00 | 
 |               295 |           74 |  51958552 | 0x53085d51ac4ea1ddce4c3450bcdb5ff7402417f84883... | 0xff66A0aDa4122C5d9292Ffb7eC02922d167a7A07 | 0xC5d563A36AE78145C45a50134d48A1215220f80a | 2174263314346390629056905015582624153306727273... |                 0 |       206190000.0 |  82476000.0 |    OrderFilled |                                              None |                                       None | 2024-01-05 06:54:00+00:00 | 
 |               296 |           74 |  51958552 |                                              None |                                       None |                                       None | 2174263314346390629056905015582624153306727273... |                 0 |       206190000.0 |  82476000.0 |  OrdersMatched | 0x53085d51ac4ea1ddce4c3450bcdb5ff7402417f84883... | 0xff66A0aDa4122C5d9292Ffb7eC02922d167a7A07 | 2024-01-05 06:54:00+00:00 | 
-
 
 In this case, bettor `0x64C1...` wants to sell 206.19 `TrumpLose` tokens (`4833...`) and bettor `0xff66...` wants to sell 206.19 `TrumpWin` tokens (`2174...`). Their tokens represent the opposite results, so Polymarket `NegRisk_CTFExchange` matched them together, burned their token and sent the unlocked USDC (123.714 + 82.476 = 206.19 USDC) to these two users. (Remember: one locked USDC can mint out one pair of opposite tokens).
 
@@ -395,14 +389,12 @@ In this case, bettor `0x64C1...` wants to sell 206.19 `TrumpLose` tokens (`4833.
 
 This is where it gets interesting. Here is a scenario with three traders:
 
-
-| log_index | transaction_index | block_number | orderHash |                                             maker |                                      taker |                               makerAssetId |                                      takerAssetId | makerAmountFilled | takerAmountFilled |       event | takerOrderHash |                                   takerOrderMaker |                            block_timestamp |      
-| --------: | ----------------: | -----------: | --------: | ------------------------------------------------: | -----------------------------------------: | -----------------------------------------: | ------------------------------------------------: | ----------------: | ----------------: | ----------: | -------------: | ------------------------------------------------: | -----------------------------------------: | 
-|	300 |	70 |	51951654 |	0x0420e9f7b4867f52c63c2c7d5bbf8240a19ee77629fb...	| 0x8698EdBeFd013dB6D087E3d09EEFa08e40bC35c1 |	0xf0b049379BBD6399aD1C6704345a7CeC813968ec	| 2174263314346390629056905015582624153306727273...|	0	| 200000000.0 | 	84000000.0 |	OrderFilled |	None |	None |	2024-01-05 02:36:24 UTC |
-|	314	| 70 |	51951654 |	0x87b9de8b3dc9bdcbf7e05cb4dd4e6c6f4d7a461a8866...	| 0xd42F6a1634A3707e27cBae14ca966068E5D1047d |	0xf0b049379BBD6399aD1C6704345a7CeC813968ec |	0	| 4833104333661288389093875950949315923475504897... |	22095238.0 |	38095237.0 |	OrderFilled	| None |	None |	2024-01-05 02:36:24 UTC	|
-|	316 |	70	| 51951654 |	0x4cd69226a72cda1b9acc16b7cc4d350b8076f82635d1...	| 0xf0b049379BBD6399aD1C6704345a7CeC813968ec |	0xC5d563A36AE78145C45a50134d48A1215220f80a |	0	| 2174263314346390629056905015582624153306727273... |	99999999.0	| 238095237.0	| OrderFilled	| None |	None |	2024-01-05 02:36:24 UTC |
-|	317	| 70	| 51951654	| None	| None	| None |	0	| 2174263314346390629056905015582624153306727273... | 	99999999.0 |	238095237.0 |	OrdersMatched	| 0x4cd69226a72cda1b9acc16b7cc4d350b8076f82635d1... |	0xf0b049379BBD6399aD1C6704345a7CeC813968ec	| 2024-01-05 02:36:24 UTC|
-
+| log_index | transaction_index | block_number | orderHash                                       | maker                                      | taker                                      | makerAssetId                                    | takerAssetId                                    | makerAmountFilled | takerAmountFilled | event         | takerOrderHash                                  | takerOrderMaker                            | block_timestamp        |
+| :--------- | :----------------- | :------------ | :----------------------------------------------- | :------------------------------------------ | :------------------------------------------ | :----------------------------------------------- | :----------------------------------------------- | :----------------- | :----------------- | :------------- | :----------------------------------------------- | :------------------------------------------ | :----------------------- |
+| 300       | 70                | 51951654     | 0x0420e9f7b4867f52c63c2c7d5bbf8240a19ee77629fb... | 0x8698EdBeFd013dB6D087E3d09EEFa08e40bC35c1 | 0xf0b049379BBD6399aD1C6704345a7CeC813968ec | 2174263314346390629056905015582624153306727273... | 0                                               | 200000000.0       | 84000000.0        | OrderFilled   | None                                            | None                                       | 2024-01-05 02:36:24 UTC |
+| 314       | 70                | 51951654     | 0x87b9de8b3dc9bdcbf7e05cb4dd4e6c6f4d7a461a8866... | 0xd42F6a1634A3707e27cBae14ca966068E5D1047d | 0xf0b049379BBD6399aD1C6704345a7CeC813968ec | 0                                               | 4833104333661288389093875950949315923475504897... | 22095238.0        | 38095237.0        | OrderFilled   | None                                            | None                                       | 2024-01-05 02:36:24 UTC |
+| 316       | 70                | 51951654     | 0x4cd69226a72cda1b9acc16b7cc4d350b8076f82635d1... | 0xf0b049379BBD6399aD1C6704345a7CeC813968ec | 0xC5d563A36AE78145C45a50134d48A1215220f80a | 0                                               | 2174263314346390629056905015582624153306727273... | 99999999.0        | 238095237.0       | OrderFilled   | None                                            | None                                       | 2024-01-05 02:36:24 UTC |
+| 317       | 70                | 51951654     | None                                            | None                                       | None                                       | 0                                               | 2174263314346390629056905015582624153306727273... | 99999999.0        | 238095237.0       | OrdersMatched | 0x4cd69226a72cda1b9acc16b7cc4d350b8076f82635d1... | 0xf0b049379BBD6399aD1C6704345a7CeC813968ec | 2024-01-05 02:36:24 UTC |
 
 In this case, bettor `0x8698...` sells 200 `TrumpWin` tokens (`2174...`) for 84 USDC, bettor `0xd42F...` buys 38.095237 `TrumLose` tokens (`4833...`) for 22.095238 USDC, bettor `0xf0b0...` buys 238.095237 `TrumpWin` tokens (`2174...`) for 99.999999 USDC. 
 

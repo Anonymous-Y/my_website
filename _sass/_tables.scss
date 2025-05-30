@@ -31,8 +31,15 @@ td {
   padding: 0.5em;
   border-bottom: 1px solid $light-gray;
   border-right: 1px solid $light-gray;
+  white-space: nowrap; /* Prevent text wrapping in data cells */
 }
 
 tr, td, th {
   vertical-align: middle;
+}
+
+/* Added wrapper for horizontal scrolling */
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1em; /* to match table's original margin */
 }

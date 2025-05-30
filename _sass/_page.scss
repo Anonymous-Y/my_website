@@ -59,6 +59,22 @@
     font-size: 1em;
   }
 
+  /* Ensure strong tags within paragraphs and list items are inline */
+  p > strong,
+  li > strong {
+    display: inline !important; /* Override other strong styles */
+    margin-top: 0 !important;    /* Reset conflicting margins */
+    margin-bottom: 0 !important; /* Reset conflicting margins */
+  }
+
+  /* Make tables scrollable */
+  table {
+    display: block; /* Needed for overflow-x to work on table */
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Optional: Improve scrolling on mobile */
+  }
+
   /* paragraph indents */
   p {
     text-align: justify;  /* make words distribute evenly between margins */
