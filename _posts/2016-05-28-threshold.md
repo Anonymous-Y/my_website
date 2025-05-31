@@ -10,7 +10,7 @@ tags:
 
 * **Part One: Slides**  
 
-Threshold Model Presentation Slides: [download](threshold_presentation.pdf)
+Threshold Model Presentation Slides: [download](_posts/threshold_presentation.pdf)
 
 * **Part Two: R code for this lecture**
 
