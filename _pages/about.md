@@ -56,7 +56,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 ### Teaching
 
 Instructor, ZUEL
-- *Undergrad Course*
+- *Undergrad Courses*
   - [Machine Learning in Finance](https://yzc.me/teaching/zuel-ml_undergrad) (Spring 2024, 2025)
   - [Blockchain and Digital Money](https://yzc.me/teaching/zuel-blockchain_money) (Fall 2024)
   - [Financial Markets](https://yzc.me/teaching/zuel-finmkt) (Fall 2022, 2023, 2024)
