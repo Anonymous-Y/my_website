@@ -10,65 +10,7 @@ tags:
 
 * **Part One: Slides**  
 
-![slide 1](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_01.jpg)  
-
-![slide 2](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_02.jpg)  
-
-![slide 3](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_03.jpg)  
-
-![slide 4](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_04.jpg)  
-
-![slide 5](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_05.jpg)  
-
-![slide 6](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_06.jpg)  
-
-![slide 7](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_07.jpg)  
-
-![slide 8](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_08.jpg)  
-
-![slide 9](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_09.jpg)  
-
-![slide 10](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_10.jpg)  
-
-![slide 11](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_11.jpg)  
-
-![slide 12](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_12.jpg)  
-
-![slide 13](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_13.jpg)  
-
-![slide 14](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_14.jpg)  
-
-![slide 15](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_15.jpg)  
-
-![slide 16](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_16.jpg)  
-
-![slide 17](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_17.jpg)  
-
-![slide 18](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_18.jpg)  
-
-![slide 19](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_19.jpg)  
-
-![slide 20](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_20.jpg)  
-
-![slide 21](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_21.jpg)  
-
-![slide 22](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_22.jpg)  
-
-![slide 23](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_23.jpg)  
-
-![slide 24](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_24.jpg)  
-
-![slide 25](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_25.jpg)  
-
-![slide 26](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_26.jpg)  
-
-![slide 27](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_27.jpg)  
-
-![slide 28](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_28.jpg)  
-
-![slide 29](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_29.jpg)  
-
-![slide 30](https://raw.githubusercontent.com/Anonymous-Y/BlogImage/master/threshold/presentation_%E9%A1%B5%E9%9D%A2_30.jpg)  
+Threshold Model Presentation Slides: [download](threshold_presentation.pdf)
 
 * **Part Two: R code for this lecture**
 
