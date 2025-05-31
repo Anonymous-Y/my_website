@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "Old Posts"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
@@ -15,5 +15,25 @@ redirect_from:
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  {% include archive-single.html %}
+  {% assign read_time = post.content | number_of_words | divided_by: site.words_per_minute | round %}
+  <div class="list__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h2>
+      <p class="page__meta">
+        {% if read_time > 0 %}
+            <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}
+            <span class="meta-separator"> | </span>
+        {% endif %}
+        <span class="published-date">
+            <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> 
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+        </span>
+      </p>
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncatewords: 75 }}</p>
+      {% endif %}
+    </article>
+  </div>
 {% endfor %}

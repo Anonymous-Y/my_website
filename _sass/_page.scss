@@ -57,14 +57,28 @@
 
   p, li, dl {
     font-size: 1em;
+    /* Reset any unusual white-space handling */
+    white-space: normal !important;
+    word-break: normal !important;
   }
 
-  /* Ensure strong tags within paragraphs and list items are inline */
+  /* Ensure strong tags are treated as inline and don't cause breaks */
+  strong, b {
+    display: inline !important;
+    white-space: normal !important; /* Prevent whitespace issues within/around strong tag */
+    margin: 0 !important;      /* Reset any conflicting margins */
+    padding: 0 !important;     /* Reset any conflicting padding */
+    vertical-align: baseline !important; /* Ensure it aligns with surrounding text */
+  }
+
+  /* More specific rule for strong within paragraphs */
   p > strong,
-  li > strong {
-    display: inline !important; /* Override other strong styles */
-    margin-top: 0 !important;    /* Reset conflicting margins */
-    margin-bottom: 0 !important; /* Reset conflicting margins */
+  p > b,
+  li > strong,
+  li > b {
+    display: inline !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
 
   /* Make tables scrollable */
@@ -247,6 +261,7 @@
   color: mix(#fff, $gray, 25%);
   font-family: $times;
   font-size: $type-size-6;
+  margin-bottom: 0.5em;
 
   p {
     margin: 0;
@@ -257,12 +272,35 @@
   }
 }
 
+.published-date {
+  font-family: $times;
+  font-size: inherit; /* Inherit font size from .page__meta for consistency */
+  /* color is inherited from .page__meta */
+}
+
+.published-date-single {
+  /* Ensure this matches the parent .page__meta font size */
+  font-size: inherit; 
+}
+
+.meta-separator {
+  /* Styles for the separator, if needed, e.g., margin */
+  margin: 0 0.5em;
+}
+
 .page__meta-title {
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
 }
 
+.archive__item-title {
+  margin-bottom: 0.25em;
+}
+
+.archive__item-excerpt {
+  margin-top: 0.5em;
+}
 
 /*
    Page taxonomy
@@ -415,4 +453,13 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+/* Add more space below metadata line on single post pages */
+article.page {
+  header {
+    .page__meta {
+      margin-bottom: 1.5em; /* Adjust as needed */
+    }
+  }
 }
