@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 ## Zichao Yang (杨子超)
-Assistant Professor, Wenlan School of Business, ZUEL
-E-Mail: yang_zichao A-T outlook.com
+Assistant Professor, Wenlan School of Business, ZUEL\\
+E-Mail: yang_zichao A-T outlook.com\\
 My CV: [download](https://www.dropbox.com/scl/fi/3uxps0p9lnafdj4asw2q2/ZichaoYangCV_202503.pdf?rlkey=7kcykqc2byb7e9a3ci2aj8h59&dl=0)
-
 
 🔔 Update Alert! 🔔 Curious about the data behind my projects? Visit [digitecon.org](https://www.digitecon.org) and start exploring!
 
-## Current Research Interests
+### Current Research Interests
 Deep Learning, Cryptocurrencies, Macroeconomics
 
-## Working Papers
+### Working Papers
 
 1. Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings(August 2023, with Kwok Ping Tsang), Update: November 2024, Under Review
 
@@ -32,7 +31,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
    <a href="https://ssrn.com/abstract=3571866" class="wp-version-button" target="_blank">WP Version</a>
 
-## Publications
+### Publications
 1. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction, Zhanli Li & Zichao Yang (2025), *Finance Research Letters*
 
    <a href="https://doi.org/10.1016/j.frl.2025.107127" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4936528" class="wp-version-button" target="_blank">WP Version</a>
@@ -49,27 +48,26 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
    <a href="https://doi.org/10.1016/j.econlet.2020.109379" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3590831" class="wp-version-button" target="_blank">WP Version</a>
 
-## Selected Works in Progress
+### Selected Works in Progress
 1. Deanonymize Bitcoin Transactions, with Kwok Ping Tsang
 2. A Very English Phenomenon: Competition in the International Labor Market, with Xinquan Zhao
 3. Written in the Blockchain: The Anatomy of Deccentralized Betting Markets, with Kwok Ping Tsang
 
-## Teaching
-**Instructor, ZUEL**
-*Undergrad Course*
-[Machine Learning in Finance](https://yzc.me/teaching/zuel-ml_undergrad) (Spring 2024, 2025)
-[Blockchain and Digital Money](https://yzc.me/teaching/zuel-blockchain_money) (Fall 2024)
-[Financial Markets](https://yzc.me/teaching/zuel-finmkt) (Fall 2022, 2023, 2024)
-Introduction to the Digital Economy (Spring 2024,2025, Co-Instructor)
+### Teaching
 
-*Grad Courses*
-[Machine Learning in Economics](https://yzc.me/teaching/zuel-ml_grad) (Fall 2023, 2024)
-[International Finance](https://yzc.me/teaching/zuel-intfin) (Fall 2022, 2023)
-[Frontier of Technology and Economics II](https://yzc.me/teaching/zuel-frontier) (Spring 2022)
+Instructor, ZUEL
+- *Undergrad Course*
+  - [Machine Learning in Finance](https://yzc.me/teaching/zuel-ml_undergrad) (Spring 2024, 2025)
+  - [Blockchain and Digital Money](https://yzc.me/teaching/zuel-blockchain_money) (Fall 2024)
+  - [Financial Markets](https://yzc.me/teaching/zuel-finmkt) (Fall 2022, 2023, 2024)
+  - Introduction to the Digital Economy (Spring 2024, 2025, Co-Instructor)
+- *Grad Courses*
+  - [Machine Learning in Economics](https://yzc.me/teaching/zuel-ml_grad) (Fall 2023, 2024)
+  - [International Finance](https://yzc.me/teaching/zuel-intfin) (Fall 2022, 2023)
+  - [Frontier of Technology and Economics II](https://yzc.me/teaching/zuel-frontier) (Spring 2022)
+- *Workshop Session*
+  - [Blockchain Technology and Its Impact on the Global Economy](https://yzc.me/teaching/btc-talk) (Spring 2023)
 
-*Workshop Session*
-[Blockchain Technology and Its Impact on the Global Economy](https://yzc.me/teaching/btc-talk) (Spring 2023)
-
-**Instructor, VT**
-ECON2006 Principles of Macroeconomics (Fall 2020, Winter 2020)
-ECON2005 Principles of Microeconomics (Spring 2020)
+Instructor, VT
+- ECON2006 Principles of Macroeconomics (Fall 2020, Winter 2020)
+- ECON2005 Principles of Microeconomics (Spring 2020)
