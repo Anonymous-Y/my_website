@@ -31,7 +31,7 @@ Crypto Decoded, Bit by Bit.
         </span>
       </p>
       {% if post.excerpt %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}</p>
       {% endif %}
     </article>
   </div>
