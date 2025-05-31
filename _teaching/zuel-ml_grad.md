@@ -9,7 +9,7 @@ date: 2024-09-18
 location: "Wuhan, China"
 ---
 
-# Lecture Notes
+## Lecture Notes
 
 [Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/afa4f263c6751c9ff166afaefff49fad068155bd/files/ZUEL/machine_learning_in_econ/basics.pdf)
 
@@ -36,7 +36,7 @@ Lecture Slides 5 covers Convolutional Neural Network
 Lecture Slides 6 covers Large Language Model
 
 
-# Class Requirements
+## Class Requirements
 
 
 **Final Report (100%)**

@@ -9,7 +9,7 @@ date: 2024-09-09
 location: "Wuhan, China"
 ---
 
-# Lecture Notes
+## Lecture Notes
 
 [Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/78439c3d978b309bfc698f39b490aafcc64711ff/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
 
@@ -69,7 +69,7 @@ Lecture Slides 10 covers *Chapter 13: The Stock Market*, [Lecture 10 Math Note](
 <!---Lecture Slides 14 covers *Chapter 24: Hedging with Financial Derivatives*--->
 
 
-# Homework
+## Homework
 
 [Homework 1](https://github.com/Anonymous-Y/my_website/blob/383f4b1b15b3abba3eacf6b2ba49c338b84dcfbe/files/ZUEL/financial_markets/Financial%20Markets%20Homework%201.pdf)
 
@@ -84,7 +84,7 @@ Lecture Slides 10 covers *Chapter 13: The Stock Market*, [Lecture 10 Math Note](
 [Homework 3 Submission Portal](https://docs.qq.com/form/page/DU0RLU1NJTG9SbGxJ)
 
 
-# Class Requirements
+## Class Requirements
 
 **I. Homework (30%)**
 

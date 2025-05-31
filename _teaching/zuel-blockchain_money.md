@@ -9,7 +9,7 @@ date: 2024-09-06
 location: "Wuhan, China"
 ---
 
-# Lecture Notes
+## Lecture Notes
 
 [Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/6899f3c2a4fa1ae3cce81497fddf5466b3cc2a31/files/ZUEL/blockchain_and_digital_money/intro.pdf)
 
@@ -39,7 +39,7 @@ Lecture 6: Build and Deploy A Smart Contract in Solidity
 
 Lecture 7: Ethereum Account and Blockchain Structure 
 
-# Class Requirements
+## Class Requirements
 
 **Final Project**
 
@@ -48,4 +48,5 @@ For your final project, you will collaborate in teams (2-3 members) to explore a
 Detailed final project instructions: [link](https://github.com/Anonymous-Y/my_website/blob/896932a81a76b0f444aa5e503feec0cd69c41006/files/ZUEL/blockchain_and_digital_money/Blockchain_and_Digital_Money_Final_Project.md)
 
 **Final Project Report DUE DATE:** 2025-01-12 23: 59
+
 Please submit your report here: [link](https://docs.qq.com/form/page/DU1Z6SVdYZnhVbnVa)

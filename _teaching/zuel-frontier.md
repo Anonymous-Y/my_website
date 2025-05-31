@@ -9,7 +9,7 @@ date: 2022-04-28
 location: "Wuhan, China"
 ---
 
-# Lecture Notes
+## Lecture Notes
 
 [Lecture Note 1](https://github.com/Anonymous-Y/my_website/blob/4534d5409553730a5f7fcb2d5f59b36ee52e3d11/files/ZUEL/frontier_of_technology_and_economics_ii/letcure_1.pdf)
 
@@ -19,7 +19,7 @@ In this lecture, we mainly talk about bitcoin and the blockchain technology behi
 
 In this lecture, we mainly talk about BIPs, Forks, and different consensus algorithms.
 
-# Guest Speakers
+## Guest Speakers
 
 To join the Zoom meeting, please click [here](https://virginiatech.zoom.us/j/85398946300).
 
@@ -42,7 +42,7 @@ Lin Zhao, Assistant Professor in Wenlan School of Business, ZUEL
 *Credence Goods*
 
 
-# Class Requirements
+## Class Requirements
 
 **1. Presentation**
 

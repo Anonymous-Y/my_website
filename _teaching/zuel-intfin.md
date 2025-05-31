@@ -9,7 +9,7 @@ date: 2023-08-28
 location: "Wuhan, China"
 ---
 
-# Lecture Notes
+## Lecture Notes
 
 <!---[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/4fe236cb2335635c246722d7e59eab61eee9eefb/files/ZUEL/international_finance/slide1.pdf)--->
 
@@ -27,7 +27,7 @@ location: "Wuhan, China"
 
 <!---Lecture Slides 4 covers Chapter 6--->
 
-# Homework
+## Homework
 
 <!---[Homework 1](https://github.com/Anonymous-Y/my_website/blob/f18b3cb421df59bc2ef8ab842fdf11d5cd73e355/files/ZUEL/international_finance/International%20Finance%20Homework%201.pdf)--->
 
@@ -37,7 +37,7 @@ location: "Wuhan, China"
 
 <!---[Homework 2 Submission Portal](https://docs.qq.com/form/page/DU2xhT0RhYmdCQVJO)--->
 
-# Class Requirements
+## Class Requirements
 
 **I. Homework (30%)**
 
