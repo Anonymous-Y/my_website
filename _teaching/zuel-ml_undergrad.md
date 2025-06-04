@@ -55,4 +55,4 @@ Each study group needs to submit a report detailing the application of machine l
 
 **Final Report DUE DATE:** 2025-07-06 23:59
 
-Please submit your report here: [Machine Learning Final Project Submiss Portal](https://docs.qq.com/form/page/DU3RMYUhsZHJLUVZG)
+Please submit your report here: [Submission Link](https://docs.qq.com/form/page/DU3RMYUhsZHJLUVZG)
