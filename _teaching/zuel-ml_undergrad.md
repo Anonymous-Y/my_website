@@ -31,7 +31,7 @@ Lecture 4: The Virtues of Complex Models, covers shrinkage methods and basic mac
 
 Lecture 5: Return Prediction Part I, covers penalized linear models, dimension reduction, tree models, ensemble learning
 
-Lecture Slides 6
+[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/be7867a6fc973d1e70fed23d070d1679d4ffe454/files/ZUEL/machine_learning_in_finance/lecture6.pdf)
 
 Lecture 6: Return Prediction Part II, covers fully connected neural network, convolutional neural network, transformer, large language model and its local deployment
 
