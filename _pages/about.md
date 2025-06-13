@@ -19,7 +19,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
 ### Working Papers
 
-1. Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings(August 2023, with Kwok Ping Tsang), Update: November 2024, Under Review
+1. Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings(August 2023, with Kwok Ping Tsang), Update: November 2024, R&R, *Journal of Economic Dynamics and Control*
 
    <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="https://www.digitecon.org/hidden-dissent-index" class="emph-button" target="_blank">Hidden Dissent Index Data</a>
 
