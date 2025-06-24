@@ -15,11 +15,12 @@ Using FOMC votes and meeting transcripts from 1976–2018, we develop a deep lea
 <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a>
 
 **2. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform**
-<p style="margin-bottom: 0.2em;">Available Upon Request, September 2024, Under Review</p>
+<p style="margin-bottom: 0.2em;">Available Upon Request, September 2024</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
 This paper examines the impact of intellectual property judicial institution on innovation, focusing on the intellectual property courts (IPCs) reform in China. We find that IPCs reform leads to a significant 14% increase in the number of invention patents at the city level, equating to an average rise of 172 annually. Notably, we rule out the possibility of inter-city spatial transfer of patents, indicating that the effect of the IPCs reform on innovation is not a zero-sum game among cities. Furthermore, we also witness improvements in patent quality. Mechanism analyses suggest that the IPCs reform enhances the judicial environment for intellectual property protection. This is primarily evidenced by increased social satisfaction with judicial protection of intellectual property, shorter case durations, and higher plaintiff winning rates in intellectual property cases.
 </details>
+
 
 **3. The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
 <p style="margin-bottom: 0.2em;">Available on SSRN, April 2020</p>
