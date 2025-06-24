@@ -401,7 +401,7 @@ In this case, bettor `0x8698...` sells 200 `TrumpWin` tokens (`2174...`) for 84 
 The `NegRisk_CTFExchange` can facilitate this complex transaction:
 
 1. **Direct Trade:** 200 of bettor `0xf0b0...`'s `TrumpWin` buy order are matched with bettor `0x8698...`'s sell order.
-2. **Minting:** The remaining 38.095237 `TrumpWin` from `0xf0b0...`'s order are matched with bettor `0xd42F...`'s "TrumpLose" order. The combined USDC is used to mint new pairs of outcome tokens.
+2. **Minting:** The remaining 38.095237 `TrumpWin` from `0xf0b0...`'s order are matched with bettor `0xd42F...`'s `TrumpLose` order. The combined USDC is used to mint new pairs of outcome tokens.
 
 By carefully analyzing the `OrderFilled` events for each participant, you can piece together the intricate logic of the exchange.
 
