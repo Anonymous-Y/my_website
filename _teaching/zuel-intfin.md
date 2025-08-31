@@ -5,13 +5,13 @@ type: "Grad Course"
 permalink: /teaching/zuel-intfin
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
-date: 2023-08-28
+date: 2025-08-31
 location: "Wuhan, China"
 ---
 
 ## Lecture Notes
 
-[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/4fe236cb2335635c246722d7e59eab61eee9eefb/files/ZUEL/international_finance/slide1.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/db2a13b08f7d3887af61be4e03297c7b34d9d72f/files/ZUEL/international_finance/slide1.pdf)
 
 Lecture Slides 1 covers Chapter 1 & 2
 

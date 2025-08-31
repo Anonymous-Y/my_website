@@ -5,13 +5,13 @@ type: "Undergrad Course"
 permalink: /teaching/zuel-finmkt
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
-date: 2024-09-09
+date: 2025-08-31
 location: "Wuhan, China"
 ---
 
 ## Lecture Notes
 
-[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/78439c3d978b309bfc698f39b490aafcc64711ff/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/db2a13b08f7d3887af61be4e03297c7b34d9d72f/files/ZUEL/financial_markets/FinancialMarket_1.pdf)
 
 Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 

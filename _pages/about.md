@@ -51,19 +51,19 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 ### Selected Works in Progress
 1. Deanonymize Bitcoin Transactions, with Kwok Ping Tsang
 2. A Very English Phenomenon: Competition in the International Labor Market, with Xinquan Zhao
-3. Written in the Blockchain: The Anatomy of Deccentralized Betting Markets, with Kwok Ping Tsang
+3. Written in the Blockchain: The Anatomy of Decentralized Betting Markets, with Kwok Ping Tsang
 
 ### Teaching
 
 Instructor, ZUEL
 - *Undergrad Courses*
   - [Machine Learning in Finance](https://yzc.me/teaching/zuel-ml_undergrad) (Spring 2024, 2025)
-  - [Blockchain and Digital Money](https://yzc.me/teaching/zuel-blockchain_money) (Fall 2024)
-  - [Financial Markets](https://yzc.me/teaching/zuel-finmkt) (Fall 2022, 2023, 2024)
-  - Introduction to the Digital Economy (Spring 2024, 2025, Co-Instructor)
+  - [Blockchain and Digital Money](https://yzc.me/teaching/zuel-blockchain_money) (Fall 2024, 2025)
+  - [Financial Markets](https://yzc.me/teaching/zuel-finmkt) (Fall 2022, 2023, 2024, 2025)
+  - Introduction to the Digital Economy (Co-Instructor, Spring 2024, 2025)
 - *Grad Courses*
-  - [Machine Learning in Economics](https://yzc.me/teaching/zuel-ml_grad) (Fall 2023, 2024)
-  - [International Finance](https://yzc.me/teaching/zuel-intfin) (Fall 2022, 2023)
+  - [Machine Learning in Economics](https://yzc.me/teaching/zuel-ml_grad) (Fall 2023, 2024, 2025)
+  - [International Finance](https://yzc.me/teaching/zuel-intfin) (Fall 2022, 2023, 2025)
   - [Frontier of Technology and Economics II](https://yzc.me/teaching/zuel-frontier) (Spring 2022)
 - *Workshop Session*
   - [Blockchain Technology and Its Impact on the Global Economy](https://yzc.me/teaching/btc-talk) (Spring 2023)
