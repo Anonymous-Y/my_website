@@ -5,7 +5,7 @@ type: "Undergrad Course"
 permalink: /teaching/zuel-blockchain_money
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
-date: 2024-09-06
+date: 2025-09-02
 location: "Wuhan, China"
 ---
 
@@ -25,7 +25,7 @@ Lecture 3: Bitcoin Transactions
 
 [Lecture Slides 4]
 
-Lecture 4: Bitcoin Blockchian
+Lecture 4: Bitcoin Blockchain
 
 [Lecture Slides 5]
 
