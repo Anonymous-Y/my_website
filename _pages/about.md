@@ -23,7 +23,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
    <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="https://www.digitecon.org/hidden-dissent-index" class="emph-button" target="_blank">Hidden Dissent Index Data</a>
 
-2. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform (September 2024, with Liyang Wan, Qian Wan and Ying Zhao), R&R, *Journal of Development Economics*
+2. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform (September 2024, with Liyang Wan, Qian Wan and Ying Zhao), Accepted, *Journal of Development Economics*
    
    <a href="mailto:yang_zichao@outlook.com" class="wp-version-button" target="_blank">WP Available</a> 
 
