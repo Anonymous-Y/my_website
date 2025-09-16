@@ -15,7 +15,7 @@ location: "Wuhan, China"
 
 Lecture 1: Introduction to Bitcoin
 
-[Lecture Slides 2]
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/221633d5ff33cef2b15d6ccc8d3f79da48456ee2/files/ZUEL/blockchain_and_digital_money/keys_addresses.pdf)
 
 Lecture 2: Public Key Cryptography and Bitcoin Addresses
 

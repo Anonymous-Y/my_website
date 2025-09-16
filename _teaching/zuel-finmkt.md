@@ -15,7 +15,7 @@ location: "Wuhan, China"
 
 Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
-[Lecture Slides 2], [Lecture 2 Python Code]
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/221633d5ff33cef2b15d6ccc8d3f79da48456ee2/files/ZUEL/financial_markets/FinancialMarket_2.pdf), [Lecture 2 Python Code]
 
 Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*
 
