@@ -14,15 +14,7 @@ Using FOMC votes and meeting transcripts from 1976–2018, we develop a deep lea
 
 <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a>
 
-**2. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform**
-<p style="margin-bottom: 0.2em;">Available Upon Request, September 2024</p>
-<details>
-<summary><span class="abstract-button">Abstract</span></summary>
-This paper examines the impact of intellectual property judicial institution on innovation, focusing on the intellectual property courts (IPCs) reform in China. We find that IPCs reform leads to a significant 14% increase in the number of invention patents at the city level, equating to an average rise of 172 annually. Notably, we rule out the possibility of inter-city spatial transfer of patents, indicating that the effect of the IPCs reform on innovation is not a zero-sum game among cities. Furthermore, we also witness improvements in patent quality. Mechanism analyses suggest that the IPCs reform enhances the judicial environment for intellectual property protection. This is primarily evidenced by increased social satisfaction with judicial protection of intellectual property, shorter case durations, and higher plaintiff winning rates in intellectual property cases.
-</details>
-
-
-**3. The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
+**2. The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
 <p style="margin-bottom: 0.2em;">Available on SSRN, April 2020</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
@@ -32,7 +24,15 @@ Under the stay-at-home orders issued by states, economic activities are reduced 
 
 ## Publications
 
-**1. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction**
+**5. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform**
+<p style="margin-bottom: 0.2em;">Published in <i>Journal of Development Economics</i>, February 2026 (with Liyang Wan, Qian Wan & Ying Zhao)</p>
+<details>
+<summary><span class="abstract-button">Abstract</span></summary>
+This paper examines the impact of intellectual property judicial institutions on innovation, focusing on the intellectual property courts (IPCs) reform in China. We find that IPCs reform leads to a significant 22.6 % increase in the number of invention patents at the city level, equating to an average rise of 215 annually. Notably, we rule out the possibility of inter-region and intra-conglomerate transfer of patents, indicating that the effect of the IPCs reform on innovation is not a zero-sum game among regions. Furthermore, we find that the IPCs reform alters the patent structure by shifting the focus from utility and design patents to invention patents; however, it does not appear to significantly improve invention patent quality. Mechanism analyses suggest that the IPCs reform increases social satisfaction with judicial protection of intellectual property, shorter case duration and higher plaintiff winning rates in intellectual property cases.
+</details>
+<a href="https://doi.org/10.1016/j.jdeveco.2025.103630" class="pub-version-button" target="_blank">Pub Version</a> <a href="mailto:yang_zichao@outlook.com" class="wp-version-button" target="_blank">WP Available</a>
+
+**4. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction**
 <p style="margin-bottom: 0.2em;">Published in <i>Finance Research Letters</i>, May 2025 (with Zhanli Li)</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
@@ -40,7 +40,8 @@ This paper examines how ESG rating disagreement (<i>Dis</i>) affects corporate t
 </details>
 <a href="https://doi.org/10.1016/j.frl.2025.107127" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4936528" class="wp-version-button" target="_blank">WP Version</a>
 
-**2. Do Connections Pay Off in the Bitcoin Market?**
+**3. Do Connections Pay Off in the Bitcoin Market?**
+
 <p style="margin-bottom: 0.2em;">Published in <i>Journal of Empirical Finance</i>, February 2022 (with Kwok Ping Tsang)</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
@@ -48,7 +49,7 @@ This paper identifies the bitcoin investor network and studies the relationship 
 </details>
 <a href="https://doi.org/10.1016/j.jempfin.2022.02.001" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3803959" class="wp-version-button" target="_blank">WP Version</a>
 
-**3. The Market for Bitcoin Transactions**
+**2. The Market for Bitcoin Transactions**
 <p style="margin-bottom: 0.2em;">Published in <i>Journal of Internantional Financial Market, Institution & Money</i>, January 2021 (with Kwok Ping Tsang)</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
@@ -56,10 +57,11 @@ Transaction fees in the bitcoin system work differently from those in convention
 </details>
 <a href="https://doi.org/10.1016/j.intfin.2021.101282" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3554458" class="wp-version-button" target="_blank">WP Version</a>
 
-**4. Price dispersion in bitcoin exchanges**
+**1. Price dispersion in bitcoin exchanges**
 <p style="margin-bottom: 0.2em;">Published in <i>Economics Letters</i>, September 2020 (with Kwok Ping Tsang)</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
 Bitcoin is traded in a number of exchanges, and there is a large and time-varying price dispersion among them. We identify the sources of price dispersion using a standard time-varying vector autoregression model with stochastic volatility, and we find that shocks to transaction fees and bitcoin price growth explain on average 20%, and sometimes more than 60%, of the variation of price dispersion.
 </details>
 <a href="https://doi.org/10.1016/j.econlet.2020.109379" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3590831" class="wp-version-button" target="_blank">WP Version</a>
+
