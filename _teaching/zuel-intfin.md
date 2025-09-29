@@ -19,19 +19,19 @@ Lecture Slides 1 covers Chapter 1 & 2
 
 Lecture Slides 2 covers Chapter 3
 
-[Lecture Slides 3]
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/45455a491a4578340ae296dcc568c745fcfb5b71/files/ZUEL/international_finance/slide3.pdf)
 
 Lecture Slides 3 covers Chapter 4
 
-[Lecture Slides 4]
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/45455a491a4578340ae296dcc568c745fcfb5b71/files/ZUEL/international_finance/slide4.pdf)
 
 Lecture Slides 4 covers Chapter 6
 
 ## Homework
 
-[Homework 1]
+[Homework 1](https://github.com/Anonymous-Y/my_website/blob/45455a491a4578340ae296dcc568c745fcfb5b71/files/ZUEL/international_finance/International%20Finance%20Homework%201.pdf)
 
-<!---[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU0xQR2trcFphVm5q)--->
+[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU29QS3hNQWpSYnVJ)
 
 [Homework 2]
 
@@ -41,7 +41,7 @@ Lecture Slides 4 covers Chapter 6
 
 **I. Homework (30%)**
 
-You will have 2-3 HW assignments throughout this semester.
+You will have 1-2 HW assignments throughout this semester.
 
 HW can be done in groups but each of you need to turn in your own HW.
 

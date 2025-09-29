@@ -19,11 +19,11 @@ Lecture Slides 1 covers *Part 1: Introduction* in the textbook.
 
 Lecture Slides 2 covers *Chapter 4: The Meaning of Interest Rates*
 
-[Lecture Slides 3]
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/45455a491a4578340ae296dcc568c745fcfb5b71/files/ZUEL/financial_markets/FinancialMarket_3.pdf)
 
 Lecture Slides 3 covers *Chapter 5: The Bahavior of Interest Rates*
 
-[Lecture Slides 4]
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/45455a491a4578340ae296dcc568c745fcfb5b71/files/ZUEL/financial_markets/FinancialMarket_4.pdf)
 
 Lecture Slides 4 covers *Chapter 6: The Risk and Term Structure of Interest Rates*
 
@@ -70,9 +70,9 @@ Lecture Slides 14 covers *Chapter 24: Hedging with Financial Derivatives*
 
 ## Homework
 
-[Homework 1]
+[Homework 1](https://github.com/Anonymous-Y/my_website/blob/45455a491a4578340ae296dcc568c745fcfb5b71/files/ZUEL/financial_markets/Financial%20Markets%20Homework%201.pdf)
 
-<!---[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU2FyWnpPV0lBeGla)--->
+[Homework 1 Submission Portal](https://docs.qq.com/form/page/DU3V0U0N3RFRTSFZ4)
 
 [Homework 2]
 
