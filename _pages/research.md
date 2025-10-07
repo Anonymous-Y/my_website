@@ -30,7 +30,7 @@ Under the stay-at-home orders issued by states, economic activities are reduced 
 <summary><span class="abstract-button">Abstract</span></summary>
 This paper examines the impact of intellectual property judicial institutions on innovation, focusing on the intellectual property courts (IPCs) reform in China. We find that IPCs reform leads to a significant 22.6 % increase in the number of invention patents at the city level, equating to an average rise of 215 annually. Notably, we rule out the possibility of inter-region and intra-conglomerate transfer of patents, indicating that the effect of the IPCs reform on innovation is not a zero-sum game among regions. Furthermore, we find that the IPCs reform alters the patent structure by shifting the focus from utility and design patents to invention patents; however, it does not appear to significantly improve invention patent quality. Mechanism analyses suggest that the IPCs reform increases social satisfaction with judicial protection of intellectual property, shorter case duration and higher plaintiff winning rates in intellectual property cases.
 </details>
-<a href="https://doi.org/10.1016/j.jdeveco.2025.103630" class="pub-version-button" target="_blank">Pub Version</a> <a href="mailto:yang_zichao@outlook.com" class="wp-version-button" target="_blank">WP Available</a>
+<a href="https://doi.org/10.1016/j.jdeveco.2025.103630" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=5569720" class="wp-version-button" target="_blank">WP Version</a>
 
 **4. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction**
 <p style="margin-bottom: 0.2em;">Published in <i>Finance Research Letters</i>, May 2025 (with Zhanli Li)</p>
