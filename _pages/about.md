@@ -19,11 +19,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
 ### Working Papers
 
-1. Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings(August 2023, with Kwok Ping Tsang), Update: November 2024, Accepted, *Journal of Economic Dynamics and Control*
-
-   <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="https://www.digitecon.org/hidden-dissent-index" class="emph-button" target="_blank">Hidden Dissent Index Data</a>
-
-2. The Impact of Stay-at-Home Orders on US Output: A Network Perspective (April 2020, with Shaowen Luo and Kwok Ping Tsang)
+1. The Impact of Stay-at-Home Orders on US Output: A Network Perspective (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
    <a href="https://ssrn.com/abstract=3571866" class="wp-version-button" target="_blank">WP Version</a>
 
@@ -32,20 +28,24 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 1. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform, [Liyang Wan](https://sites.google.com/view/liyangwan), Qian Wan, Zichao Yang & Ying Zhao (2026), *Journal of Development Economics*
 
    <a href="https://doi.org/10.1016/j.jdeveco.2025.103630" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=5569720" class="wp-version-button" target="_blank">WP Version</a>
+   
+2. Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2025), *Journal of Economic Dynamics and Control*
 
-2. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction, Zhanli Li & Zichao Yang (2025), *Finance Research Letters*
+   <a href="https://doi.org/10.1016/j.jedc.2025.105197" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="https://www.digitecon.org/hidden-dissent-index" class="emph-button" target="_blank">Hidden Dissent Index Data</a>
+
+3. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction, Zhanli Li & Zichao Yang (2025), *Finance Research Letters*
 
    <a href="https://doi.org/10.1016/j.frl.2025.107127" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4936528" class="wp-version-button" target="_blank">WP Version</a>
 
-3. Do Connections Pay Off in the Bitcoin Market?, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2022) , *Journal of Empirical Finance* 
+4. Do Connections Pay Off in the Bitcoin Market?, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2022) , *Journal of Empirical Finance* 
 
    <a href="https://doi.org/10.1016/j.jempfin.2022.02.001" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3803959" class="wp-version-button" target="_blank">WP Version</a>
 
-4. The Market For Bitcoin Transactions, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2021) , *Journal of International Financial Markets, Institutions and Money* 
+5. The Market For Bitcoin Transactions, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2021) , *Journal of International Financial Markets, Institutions and Money* 
 
    <a href="https://doi.org/10.1016/j.intfin.2021.101282" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3554458" class="wp-version-button" target="_blank">WP Version</a>
 
-5. Price Dispersion in Bitcoin Exchanges, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2020) , *Economics Letters*  
+6. Price Dispersion in Bitcoin Exchanges, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2020) , *Economics Letters*  
 
    <a href="https://doi.org/10.1016/j.econlet.2020.109379" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3590831" class="wp-version-button" target="_blank">WP Version</a>
 
