@@ -19,7 +19,7 @@ Lecture 1: Introduction to Bitcoin
 
 Lecture 2: Public Key Cryptography and Bitcoin Addresses
 
-[Lecture Slides 3]
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/1120b53bae1c9215c011b57a0d22db8e3ac17990/files/ZUEL/blockchain_and_digital_money/transactions.pdf)
 
 Lecture 3: Bitcoin Transactions
 
