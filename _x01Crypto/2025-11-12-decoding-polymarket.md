@@ -71,8 +71,8 @@ For single-outcome markets (i.e. Will Candidate A win the election?), the activi
 
 For multi-outcome markets (i.e. Who will win the election?), smart contract `NegRiskAdapter` calls `CTF` to initiate the operation. Hence, this activity is recorded in the logs emitted by both `CTF` and `NegRiskAdapter` under the event name `PositionSplit`.
 
-
 **Token Matching**
+
 Bettors don't have to wait for the market to resolve. They can sell their outcome tokens at any time. A sell order can be matched with a buy order from another bettor.
 
 For example:
