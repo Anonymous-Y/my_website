@@ -347,7 +347,7 @@ We now have a much clearer, structured output of the event's data.
 
 ## III. Interpreting the Data: `OrderFilled` and `OrdersMatched` Events
 
-When you decode the logs emitted by `NegRisk_CTF`, you'll primarily be dealing with two types of events: `OrderFilled` and `OrdersMatched`.
+When you decode the logs emitted by `NegRisk_CTFExchange`, you'll primarily be dealing with two types of events: `OrderFilled` and `OrdersMatched`.
 
 ### The `OrderFilled` Event
 
@@ -403,7 +403,7 @@ When an `OrdersMatched` event occurs, you will always see at least two correspon
 
 Even though the token minting and burning activities can be deduced through the `OrderFilled` event records. We can directly access related information through `PositionsSplit`, `PositionsMerge` events emitted by `NegRiskAdapter` (or `CTF`). Meanwhile, we can access the  `PositionsConverted` events to know which outcome's NO tokens are converted to which outcome's YES tokens via `indexSet`. 
 
-You can follow the same steps described in part II to download related information. The difference is now we need to look for the logs emitted by smart contract `NegRisk_CTF` instead of `NegRisk_CTFExchange`.
+You can follow the same steps described in part II to download related information. The difference is now we need to look for the logs emitted by smart contract `NegRiskAdapter` instead of `NegRisk_CTFExchange`.
 
 Let's break down its key fields:
 
