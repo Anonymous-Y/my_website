@@ -13,29 +13,31 @@ location: "Wuhan, China"
 
 [Lecture Slides 0](https://github.com/Anonymous-Y/my_website/blob/95ccf45a34b67d6a8eafbc9415339ddf62563f82/files/ZUEL/machine_learning_in_econ/Lecture0.pdf)
 
-Lecture Slides 0 coverts how to build your own AI assistants.
+Lecture Slides 0: Set Up Your Own AI Assistants.
 
 [Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/95ccf45a34b67d6a8eafbc9415339ddf62563f82/files/ZUEL/machine_learning_in_econ/basics.pdf)
 
-Lecture Slides 1 covers Machine Learning Basics
+Lecture Slides 1:  Machine Learning Basics
 
 [Lecture Slides 2]
 
-Lecture Slides 2 covers ML methods for regression
+Lecture Slides 2: ML methods for regression
 
 [Lecture Slides 3]
-Lecture Slides 3 covers ML methods for classification
+
+Lecture Slides 3: ML methods for classification
 
 [Lecture Slides 4]
-Lecture Slides 4 covers Fully Connected Neural Network
+
+Lecture Slides 4: Fully Connected Neural Network
 
 [Lecture Slides 5]
 
-Lecture Slides 5 covers Convolutional Neural Network
+Lecture Slides 5: Convolutional Neural Network
 
 [Lectrure Slides 6]
 
-Lecture Slides 6 covers Large Language Model
+Lecture Slides 6: Large Language Model
 
 
 ## Class Requirements
