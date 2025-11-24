@@ -39,11 +39,11 @@ Lecture Slides 6 covers *Chapter 8: An Economic Analysis of Financial Structure*
 
 Lecture Slides 7 covers *Chapter 9 & Chapter 12*
 
-[Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/95ccf45a34b67d6a8eafbc9415339ddf62563f82/files/ZUEL/financial_markets/FinancialMarket_8.pdf)
+[Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/dbb1fee41b8d79946fb5c75d04c7e0763aeed5ee/files/ZUEL/financial_markets/FinancialMarket_8.pdf)
 
 Lecture Slides 8 covers *Chapter 11: The Money Markets*
 
-[Lecture Slides 9]
+[Lecture Slides 9](https://github.com/Anonymous-Y/my_website/blob/dbb1fee41b8d79946fb5c75d04c7e0763aeed5ee/files/ZUEL/financial_markets/FinancialMarket_9.pdf)
 
 Lecture Slides 9 covers *Chapter 12: The Bond Markets*, [Lecture 9 Math Note]
 
