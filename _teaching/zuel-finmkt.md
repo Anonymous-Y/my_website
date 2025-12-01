@@ -80,7 +80,7 @@ Lecture Slides 14 covers *Chapter 24: Hedging with Financial Derivatives*
 
 [Homework 3]
 
-<!---[Homework 3 Submission Portal](https://docs.qq.com/form/page/DU0RLU1NJTG9SbGxJ)--->
+[Homework 3 Submission Portal](https://docs.qq.com/form/page/DU2dPb3ZOUWh6eGpN)
 
 
 ## Class Requirements
