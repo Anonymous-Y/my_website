@@ -78,7 +78,7 @@ Lecture Slides 14 covers *Chapter 24: Hedging with Financial Derivatives*
 
 [Homework 2 Submission Portal](https://docs.qq.com/form/page/DU0doakJOWVJNcHho)
 
-[Homework 3]
+[Homework 3](https://github.com/Anonymous-Y/my_website/blob/162600a2d375cf1289c028d65ac0c74570477225/files/ZUEL/financial_markets/Financial%20Markets%20Homework%203.pdf)
 
 [Homework 3 Submission Portal](https://docs.qq.com/form/page/DU2dPb3ZOUWh6eGpN)
 
