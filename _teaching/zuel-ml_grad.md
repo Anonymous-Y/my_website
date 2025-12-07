@@ -19,11 +19,11 @@ Lecture Slides 0: Set Up Your Own AI Assistants.
 
 Lecture Slides 1:  Machine Learning Basics
 
-[Lecture Slides 2]
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/9828e312316b0d5dbe25148e1b1cf4dfda95f2a5/files/ZUEL/machine_learning_in_econ/regression.pdf)
 
 Lecture Slides 2: ML methods for regression
 
-[Lecture Slides 3]
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/9828e312316b0d5dbe25148e1b1cf4dfda95f2a5/files/ZUEL/machine_learning_in_econ/svm_rf.pdf)
 
 Lecture Slides 3: ML methods for classification
 
@@ -35,7 +35,7 @@ Lecture Slides 4: Fully Connected Neural Network
 
 Lecture Slides 5: Convolutional Neural Network
 
-[Lectrure Slides 6]
+[Lecture Slides 6]
 
 Lecture Slides 6: Large Language Model
 

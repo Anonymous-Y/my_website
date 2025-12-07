@@ -47,7 +47,7 @@ Lecture Slides 8 covers *Chapter 11: The Money Markets*
 
 Lecture Slides 9 covers *Chapter 12: The Bond Markets*, [Lecture 9 Math Note]
 
-[Lecture Sildes 10]
+[Lecture Sildes 10](https://github.com/Anonymous-Y/my_website/blob/9828e312316b0d5dbe25148e1b1cf4dfda95f2a5/files/ZUEL/financial_markets/FinancialMarket_10.pdf)
 
 Lecture Slides 10 covers *Chapter 13: The Stock Market*, [Lecture 10 Math Note]
 
