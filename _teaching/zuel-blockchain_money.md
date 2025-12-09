@@ -35,9 +35,13 @@ Lecture 5: Ethereum Introduction and Transaction Structure
 
 Lecture 6: Build and Deploy A Smart Contract in Solidity
 
-[Lecture Slides 7]
+[Lecture Slides 7](https://github.com/Anonymous-Y/my_website/blob/5d3b25310b14b5d7358dce6e54156da8beecbf3f/files/ZUEL/blockchain_and_digital_money/eth_account_blocks.pdf)
 
 Lecture 7: Ethereum Account and Blockchain Structure 
+
+[Lecture Slides 8](https://github.com/Anonymous-Y/my_website/blob/5d3b25310b14b5d7358dce6e54156da8beecbf3f/files/ZUEL/blockchain_and_digital_money/solana.pdf)
+
+Lecture 8: A Brief Introduction to Solana
 
 ## Class Requirements
 
