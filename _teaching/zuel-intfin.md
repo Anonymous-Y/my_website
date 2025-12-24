@@ -57,7 +57,7 @@ Please send me the names of your group members and the paper you choose before *
 
 Each group needs to turn in one report to describe the paper replication process in detail. For example, the obstacles you overcome or other issues you find in the original paper. Also, please clearly state in your report each team member's contribution to this project.
 
-**Final Report DUE DATE:** 2025.11.30 11:59PM
+**Final Report DUE DATE:** 2025-11-30 11:59 PM
 
 Please submit your group's final report: [submission portal](https://docs.qq.com/form/page/DU3ZrT3ZKbGpSckhx)
 

@@ -47,10 +47,12 @@ Lecture 8: A Brief Introduction to Solana
 
 **Final Project**
 
-For your final project, you will collaborate in teams (2-3 members) to explore a topic of your choice related to blockchain technology and digital money. The project aims to allow you to delve deeply into an area of interest, whether through an economic analysis or by developing a coding project that demonstrates practical applications of blockchain concepts. At the end of this semester, each group needs to present their research findings or demonstrate their application.
+For your final project, you will collaborate in teams (1-3 members) to explore a topic of your choice related to blockchain technology and digital money. The project aims to allow you to delve deeply into an area of interest, whether through an economic analysis or by developing a coding project that demonstrates practical applications of blockchain concepts. At the end of this semester, each group needs to present their research findings or demonstrate their application.
 
 Detailed final project instructions: [link](https://github.com/Anonymous-Y/my_website/blob/896932a81a76b0f444aa5e503feec0cd69c41006/files/ZUEL/blockchain_and_digital_money/Blockchain_and_Digital_Money_Final_Project.md)
 
-**Final Project Report DUE DATE:** 
+**Final Project Report DUE DATE:** 2026-01-14 11:59 PM
 
-<!--- Please submit your report here: [link](https://docs.qq.com/form/page/DU1Z6SVdYZnhVbnVa)--->
+Please submit your report here: [submission portal](https://docs.qq.com/form/page/DU294b1RFV0FzY2tQ)
+
+Please send your source code and dataset (if applicable) to my email: yang_zichao@outlook.com
