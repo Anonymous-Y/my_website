@@ -51,11 +51,11 @@ Lecture Slides 9 covers *Chapter 12: The Bond Markets*, [Lecture 9 Math Note](ht
 
 Lecture Slides 10 covers *Chapter 13: The Stock Market*, [Lecture 10 Math Note](https://github.com/Anonymous-Y/my_website/blob/0624340097e8d0342c8d06176e15f6b91a318ca1/files/ZUEL/financial_markets/FinancialMarket_10_MathNote.pdf)
 
-[Lecture Slides 11]
+[Lecture Slides 11](https://github.com/Anonymous-Y/my_website/blob/2ea134c9dcb42a19d392a4f5c4f68a20bbef804f/files/ZUEL/financial_markets/FinancialMarket_11.pdf)
 
 Lecture Slides 11 covers *Chapter 14: The Mortgage Market*
 
-[Lecture Slides 12]
+[Lecture Slides 12](https://github.com/Anonymous-Y/my_website/blob/2ea134c9dcb42a19d392a4f5c4f68a20bbef804f/files/ZUEL/financial_markets/FinancialMarket_12.pdf)
 
 Lecture Slides 12 covers *Chapter 15: The Foreign Exchange Market*
 
