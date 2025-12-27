@@ -31,11 +31,11 @@ Lecture Slides 3: ML methods for classification
 
 Lecture Slides 4: Fully Connected Neural Network
 
-[Lecture Slides 5]
+[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/6962059cb87b7557201ced6852fd1029197b1f62/files/ZUEL/machine_learning_in_econ/cnn.pdf)
 
 Lecture Slides 5: Convolutional Neural Network
 
-[Lecture Slides 6]
+[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/6962059cb87b7557201ced6852fd1029197b1f62/files/ZUEL/machine_learning_in_econ/nlp.pdf)
 
 Lecture Slides 6: Large Language Model
 
