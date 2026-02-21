@@ -6,7 +6,18 @@ author_profile: true
 
 ## Working Papers
 
-**1. The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
+**1. Political Shocks and Price Discovery in Prediction Markets: Evidence from the 2024 U.S. Presidential Election**
+
+<p style="margin-bottom: 0.2em;">Available on SSRN, February 2026</p>
+<details>
+<summary><span class="abstract-button">Abstract</span></summary>
+Using transaction-level matched trades from Polymarket’s 2024 U.S.presidential-election contracts, we study how prediction markets process major political shocks. We focus on three events with precise timestamps: the first Biden-Trump debate, the Trump assassination attempt, and Biden’s drop out. We document large bursts of activity on both extensive and intensive margins, concentrated among high-intensity incumbents, and show that pre-event net exposure predicts abnormal post-event trading and position flips. To link order flow to prices, we estimate a Kyle-style price-impact measure and a Glosten-Harris decomposition that separates permanent from transitory order-flow effects, complemented by variance-ratio dynamics and a bounded two-sidedness index. Across shocks, price discovery differs sharply: the debate exhibits stronger transitory pressure and partial reversal, the assassination attempt features a more permanent repricing, and the drop out episode combines heavy trading with muted net price changes and high two-sidedness, consistent with disagreement under Knightian uncertainty.
+</details>
+<a href="https://ssrn.com/abstract=6248859" class="wp-version-button" target="_blank">WP Version</a>
+
+<a href="https://www.dropbox.com/scl/fi/xh84x03salqtck1qgc4b9/Political-Shocks-and-Price-Discovery-in-Prediction-Markets_appendix.pdf?rlkey=e57bbzyl44t4l920h86l2gmr8&dl=0" class="wp-version-button" target="_blank">Online Appendix</a>
+
+**2. The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
 
 <p style="margin-bottom: 0.2em;">Available on SSRN, April 2020</p>
 <details>
@@ -18,6 +29,7 @@ Under the stay-at-home orders issued by states, economic activities are reduced 
 ## Publications
 
 **6. Judicial Institution and Innovation: Evidence from China's Intellectual Property Courts Reform**
+
 <p style="margin-bottom: 0.2em;">Published in <i>Journal of Development Economics</i>, February 2026 (with Liyang Wan, Qian Wan & Ying Zhao)</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
