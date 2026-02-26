@@ -21,7 +21,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
 1. Political Shocks and Price Discovery in Prediction Markets: Evidence from the 2024 U.S. Presidential Election (February 2026, with Kwok Ping Tsang)
 
-	<a href="https://www.dropbox.com/scl/fi/uwde3jot3jk3e8mg2y710/Political-Shocks-and-Price-Discovery-in-Prediction-Markets.pdf?rlkey=pxhgadrhvo0tf2cnc9qj0ce60&st=s5ntfngj&dl=0" class="wp-version-button" target="_blank">WP Version</a>
+	<a href="https://ssrn.com/abstract=6248859" class="wp-version-button" target="_blank">WP Version</a>
 
 2. The Impact of Stay-at-Home Orders on US Output: A Network Perspective (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
