@@ -11,31 +11,31 @@ location: "Wuhan, China"
 
 ## Lecture Notes
 
-[Lecture Slides 1]()
+[Lecture Slides 1](https://github.com/Anonymous-Y/my_website/blob/fe782bd8507e9adc53510c664b84be8e7857ddcd/files/ZUEL/machine_learning_in_finance/Lecture_1.pdf)
 
 Lecture 1: Introduction to Machine Learning
 
-[Lecture Slides 2]()
+[Lecture Slides 2]
 
 Lecture 2: Python Review & Launch your own AI assistant
 
-[Lecture Slides 3]()
+[Lecture Slides 3]
 
 Lecture 3: The Case for Financial Machine Learning
 
-[Lecture Slides 4]()
+[Lecture Slides 4]
 
 Lecture 4: The Virtues of Complex Models, covers shrinkage methods and basic machine learning concepts
 
-[Lecture Slides 5]() 
+[Lecture Slides 5]
 
 Lecture 5: Return Prediction Part I, covers penalized linear models, dimension reduction, tree models, ensemble learning
 
-[Lecture Slides 6]()
+[Lecture Slides 6]
 
 Lecture 6: Return Prediction Part II, covers fully connected neural network, convolutional neural network, transformer, large language model and its local deployment
 
-[Lecture Slides 7]()
+[Lecture Slides 7]
 
 Lecture 7: Recent Development, covers reinforcement learning (RL)
 
