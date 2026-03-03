@@ -19,11 +19,15 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
 ### Working Papers
 
-1. Political Shocks and Price Discovery in Prediction Markets: Evidence from the 2024 U.S. Presidential Election (February 2026, with Kwok Ping Tsang)
+1. The Anatomy of Polymarket: Evidence from the 2024 Presidential Election (March 2026, with Kwok Ping Tsang)
+
+	<a href="https://ssrn.com/abstract=6336679" class="wp-version-button" target="_blank">WP Version</a>
+
+2. Political Shocks and Price Discovery in Prediction Markets: Evidence from the 2024 U.S. Presidential Election (February 2026, with Kwok Ping Tsang)
 
 	<a href="https://ssrn.com/abstract=6248859" class="wp-version-button" target="_blank">WP Version</a>
 
-2. The Impact of Stay-at-Home Orders on US Output: A Network Perspective (April 2020, with Shaowen Luo and Kwok Ping Tsang)
+3. The Impact of Stay-at-Home Orders on US Output: A Network Perspective (April 2020, with Shaowen Luo and Kwok Ping Tsang)
 
    <a href="https://ssrn.com/abstract=3571866" class="wp-version-button" target="_blank">WP Version</a>
 
