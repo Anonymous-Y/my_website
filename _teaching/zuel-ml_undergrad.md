@@ -15,7 +15,7 @@ location: "Wuhan, China"
 
 Lecture 1: Introduction to Machine Learning
 
-[Lecture Slides 2]
+[Lecture Slides 2](https://github.com/Anonymous-Y/my_website/blob/37753a2fd70b7e7ac252cedbc032964e2d477078/files/ZUEL/machine_learning_in_finance/Lecture2.pdf)
 
 Lecture 2: Python Review & Launch your own AI assistant
 
