@@ -21,7 +21,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
 1. The Anatomy of Polymarket: Evidence from the 2024 Presidential Election (March 2026, with Kwok Ping Tsang)
 
-	<a href="https://ssrn.com/abstract=6336679" class="wp-version-button" target="_blank">WP Version</a>
+	<a href="https://doi.org/10.48550/arXiv.2603.03136" class="wp-version-button" target="_blank">WP Version</a>
 
 2. Political Shocks and Price Discovery in Prediction Markets: Evidence from the 2024 U.S. Presidential Election (February 2026, with Kwok Ping Tsang)
 
