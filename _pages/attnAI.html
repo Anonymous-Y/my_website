@@ -1,15 +1,16 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Old Posts"
+permalink: /attnAI/
+title: "attnAI"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
+
+Attention Is All You Need — and More.
+
 {% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
+{% for post in site.attnAI %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
@@ -22,17 +23,15 @@ redirect_from:
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
       </h2>
       <p class="page__meta">
-        {% if read_time > 0 %}
-            <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}
-            <span class="meta-separator"> | </span>
-        {% endif %}
+        <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}
+        <span class="meta-separator"> | </span>
         <span class="published-date">
-            <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> 
+            <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
         </span>
       </p>
       {% if post.excerpt %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncatewords: 75 }}</p>
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}</p>
       {% endif %}
     </article>
   </div>
