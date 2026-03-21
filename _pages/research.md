@@ -14,7 +14,7 @@ author_profile: true
 This paper provides a comprehensive transaction-level analysis of Polymarket's 2024 U.S. Presidential Election market using complete on-chain data from the Polygon blockchain. Because blockchain-based prediction markets involve heterogeneous trade mechanisms: share minting, burning, and conversion alongside conventional exchange, naive aggregation of on-chain flows can misrepresent actual trading volume. To address this, we develop a volume decomposition that yields three complementary measures of market activity: exchange-equivalent trading volume, net inflow, and gross market activity. Applying this framework, we document three key episodes that shaped the market: Biden's withdrawal, the September presidential debate, and the emergence of whale traders in October. As trading volume grew, arbitrage deviations narrowed, Kyle's $\lambda$ declined by more than an order of magnitude, and cross-market participation broadened, painting a consistent picture of a market that matured over its ten-month life. 
 </details>
 
-<a href="https://doi.org/10.48550/arXiv.2603.03136" class="wp-version-button" target="_blank">WP Version</a>
+<a href="https://ssrn.com/abstract=6336679" class="wp-version-button" target="_blank">WP Version</a>
 
 **2. Political Shocks and Price Discovery in Prediction Markets: Evidence from the 2024 U.S. Presidential Election**
 
@@ -24,8 +24,6 @@ This paper provides a comprehensive transaction-level analysis of Polymarket's 2
 Using transaction-level trade data from Polymarket's 2024 U.S. presidential election market, we study how prediction markets process shocks. We analyze three events: the Biden-Trump debate, the assassination attempt on Trump, and Biden's dropout. Trading rises after each shock, especially among incumbent traders with pre-event exposure against a Trump victory, who are also more likely to flip positions. Price adjustment differs across shocks. The debate-induced price jump largely reverses, the assassination-attempt repricing persists, and Biden's dropout triggers two-sided trading with little net price change. These patterns link post-news price dynamics to liquidity and disagreement about how shocks map into election odds.
 </details>
 <a href="https://ssrn.com/abstract=6248859" class="wp-version-button" target="_blank">WP Version</a>
-
-<a href="https://www.dropbox.com/scl/fi/xh84x03salqtck1qgc4b9/Political-Shocks-and-Price-Discovery-in-Prediction-Markets_appendix.pdf?rlkey=e57bbzyl44t4l920h86l2gmr8&dl=0" class="wp-version-button" target="_blank">Online Appendix</a>
 
 **3. The Impact of Stay-at-Home Orders on US Output: A Network Perspective**
 

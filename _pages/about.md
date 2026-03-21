@@ -10,7 +10,7 @@ redirect_from:
 ## Zichao Yang (杨子超)
 Assistant Professor, Wenlan School of Business, ZUEL\\
 E-Mail: yang_zichao A-T outlook.com\\
-My CV: [download](https://www.dropbox.com/scl/fi/iiran9tf92g1wb7tarug0/ZichaoYang_CV_202510.pdf?rlkey=f73d9qom7zwv43xp6xlfr8cx0&st=wyy2q7md&dl=0)
+My CV: [download](https://www.dropbox.com/scl/fi/pepwyptivlz33avwmjnlv/ZichaoYang_CV_20260321.pdf?rlkey=ocfblprofzwbtrza89ltkwbog&dl=0)
 
 🔔 Update Alert! 🔔 Curious about the data behind my projects? Visit [digitecon.org](https://www.digitecon.org) and start exploring!
 
@@ -19,9 +19,9 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
 ### Working Papers
 
-1. The Anatomy of Polymarket: Evidence from the 2024 Presidential Election (March 2026, with Kwok Ping Tsang)
+1. The Anatomy of Polymarket: Evidence from the 2024 U.S. Presidential Election (March 2026, with Kwok Ping Tsang)
 
-	<a href="https://doi.org/10.48550/arXiv.2603.03136" class="wp-version-button" target="_blank">WP Version</a>
+	<a href="https://ssrn.com/abstract=6336679" class="wp-version-button" target="_blank">WP Version</a>
 
 2. Political Shocks and Price Discovery in Prediction Markets: Evidence from the 2024 U.S. Presidential Election (February 2026, with Kwok Ping Tsang)
 
