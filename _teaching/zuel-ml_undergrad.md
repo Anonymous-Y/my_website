@@ -19,11 +19,11 @@ Lecture 1: Introduction to Machine Learning
 
 Lecture 2: Python Review & Launch your own AI assistant
 
-[Lecture Slides 3]
+[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/e0781ded43c8cbadbdb8c50696f29530bba5a8b0/files/ZUEL/machine_learning_in_finance/lecture3.pdf)
 
 Lecture 3: The Case for Financial Machine Learning
 
-[Lecture Slides 4]
+[Lecture Slides 4](https://github.com/Anonymous-Y/my_website/blob/e0781ded43c8cbadbdb8c50696f29530bba5a8b0/files/ZUEL/machine_learning_in_finance/lecture4.pdf)
 
 Lecture 4: The Virtues of Complex Models, covers shrinkage methods and basic machine learning concepts
 
