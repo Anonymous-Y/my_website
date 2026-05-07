@@ -6,12 +6,12 @@ author_profile: true
 
 ## Working Papers
 
-**1. The Anatomy of Polymarket: Evidence from the 2024 Presidential Election**
+**1. The Anatomy of a Blockchain Prediction Market: Polymarket in the 2024 U.S. Presidential Election**
 
 <p style="margin-bottom: 0.2em;">Available on SSRN, March 2026</p>
 <details>
 <summary><span class="abstract-button">Abstract</span></summary>
-This paper provides a comprehensive transaction-level analysis of Polymarket's 2024 U.S. Presidential Election market using complete on-chain data from the Polygon blockchain. Because blockchain-based prediction markets involve heterogeneous trade mechanisms: share minting, burning, and conversion alongside conventional exchange, naive aggregation of on-chain flows can misrepresent actual trading volume. To address this, we develop a volume decomposition that yields three complementary measures of market activity: exchange-equivalent trading volume, net inflow, and gross market activity. Applying this framework, we document three key episodes that shaped the market: Biden's withdrawal, the September presidential debate, and the emergence of whale traders in October. As trading volume grew, arbitrage deviations narrowed, Kyle's $\lambda$ declined by more than an order of magnitude, and cross-market participation broadened, painting a consistent picture of a market that matured over its ten-month life. 
+Using on-chain Polygon data, we analyze Polymarket's 2024 U.S. Presidential Election market and develop a transaction-level accounting framework with two components: a volume decomposition that separates exchange-equivalent turnover from share minting and burning, and trader-level disagreement measures. Naive aggregation reports $958M of October Trump-market volume, compared with $391M under our decomposition. Market quality improved as arbitrage-deviation half-lives fell from hours to under a minute and Kyle's λ dropped from 0.53 to 0.01. During October's large-account episode, capital flowed into both sides simultaneously, consistent with heterogeneous-beliefs trading rather than one-sided manipulation. The framework generalizes to other tokenized prediction markets.
 </details>
 
 <a href="https://ssrn.com/abstract=6336679" class="wp-version-button" target="_blank">WP Version</a>
