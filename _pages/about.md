@@ -41,6 +41,8 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
    <a href="https://doi.org/10.1016/j.jedc.2025.105197" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="https://www.digitecon.org/hidden-dissent-index" class="emph-button" target="_blank">Hidden Dissent Index Data</a>
 
+   Media Coverage: [Reuters](https://www.reuters.com/markets/spiking-central-bank-dissent-risks-stoking-volatility-2026-04-30/)
+
 3. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction, Zhanli Li & Zichao Yang (2025), *Finance Research Letters*
 
    <a href="https://doi.org/10.1016/j.frl.2025.107127" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4936528" class="wp-version-button" target="_blank">WP Version</a>

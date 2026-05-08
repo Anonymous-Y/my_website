@@ -27,7 +27,7 @@ Lecture 3: The Case for Financial Machine Learning
 
 Lecture 4: The Virtues of Complex Models, covers shrinkage methods and basic machine learning concepts
 
-[Lecture Slides 5]
+[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/d28c6fc1871af5e585ed468e5ef9f83de3053321/files/ZUEL/machine_learning_in_finance/lecture5.pdf)
 
 Lecture 5: Return Prediction Part I, covers penalized linear models, dimension reduction, tree models, ensemble learning
 
