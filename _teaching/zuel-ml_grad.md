@@ -41,12 +41,14 @@ Lecture Slides 6: Large Language Model
 
 ## Class Requirements
 
-**Final Report (100%)**
+**Presentation (30%)**
+
+Each student is required to present a paper related to machine learning or deep learning at the end of this semester. Ideally, the selected paper should be relevant to the student's ongoing research.
+
+**Final Report (70%)**
 
 Each student needs to turn in one proposal stating how they can apply these machine learning models to their current research. (2-3 pages, Times New Roman, 12pt, 1.5 line space)
 
 **Final Report DUE DATE:**  2026-07-08 23:59
 
 Please submit your proposal here: [submission portal](https://docs.qq.com/form/page/DU3hSTWhueXZxY3RQ)
-
-
