@@ -31,23 +31,22 @@ Lecture Slides 3: ML methods for classification
 
 Lecture Slides 4: Fully Connected Neural Network
 
-[Lecture Slides 5]
+[Lecture Slides 5](https://github.com/Anonymous-Y/my_website/blob/35b409c7bc2a5e2bb9b505aad49407485f00b77b/files/ZUEL/machine_learning_in_econ/cnn.pdf)
 
 Lecture Slides 5: Convolutional Neural Network
 
-[Lecture Slides 6]
+[Lecture Slides 6](https://github.com/Anonymous-Y/my_website/blob/35b409c7bc2a5e2bb9b505aad49407485f00b77b/files/ZUEL/machine_learning_in_econ/nlp.pdf)
 
 Lecture Slides 6: Large Language Model
 
-
 ## Class Requirements
-
 
 **Final Report (100%)**
 
 Each student needs to turn in one proposal stating how they can apply these machine learning models to their current research. (2-3 pages, Times New Roman, 12pt, 1.5 line space)
 
-**Final Report DUE DATE:**  TBD
+**Final Report DUE DATE:**  2026-07-08 23:59
 
-Please submit your proposal here: [submission portal]
+Please submit your proposal here: [submission portal](https://docs.qq.com/form/page/DU3hSTWhueXZxY3RQ)
+
 
