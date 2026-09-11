@@ -68,12 +68,12 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
 Instructor, ZUEL
 - *Undergrad Courses*
-  - [Machine Learning in Finance](https://yzc.me/teaching/zuel-ml_undergrad) (Spring 2024, 2025)
-  - [Blockchain and Digital Money](https://yzc.me/teaching/zuel-blockchain_money) (Fall 2024, 2025)
+  - [Blockchain and Digital Money](https://yzc.me/teaching/zuel-blockchain_money) (Fall 2024, 2025, 2026)
+  - [Machine Learning in Finance](https://yzc.me/teaching/zuel-ml_undergrad) (Spring 2024, 2025, 2026)
   - [Financial Markets](https://yzc.me/teaching/zuel-finmkt) (Fall 2022, 2023, 2024, 2025)
   - Introduction to the Digital Economy (Co-Instructor, Spring 2024, 2025)
 - *Grad Courses*
-  - [Machine Learning in Economics](https://yzc.me/teaching/zuel-ml_grad) (Fall 2023, 2024, 2025)
+  - [Machine Learning in Economics](https://yzc.me/teaching/zuel-ml_grad) (Fall 2023, 2024, 2025, Spring 2026)
   - [International Finance](https://yzc.me/teaching/zuel-intfin) (Fall 2022, 2023, 2025)
   - [Frontier of Technology and Economics II](https://yzc.me/teaching/zuel-frontier) (Spring 2022)
 - *Workshop Session*
