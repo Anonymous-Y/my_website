@@ -47,15 +47,15 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
    <a href="https://doi.org/10.1016/j.frl.2025.107127" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4936528" class="wp-version-button" target="_blank">WP Version</a>
 
-4. Do Connections Pay Off in the Bitcoin Market?, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2022) , *Journal of Empirical Finance* 
+4. Do Connections Pay Off in the Bitcoin Market?, [Kwok Ping Tsang](https://kptsang.com) & Zichao Yang (2022) , *Journal of Empirical Finance* 
 
    <a href="https://doi.org/10.1016/j.jempfin.2022.02.001" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3803959" class="wp-version-button" target="_blank">WP Version</a>
 
-5. The Market For Bitcoin Transactions, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2021) , *Journal of International Financial Markets, Institutions and Money* 
+5. The Market For Bitcoin Transactions, [Kwok Ping Tsang](https://kptsang.com) & Zichao Yang (2021) , *Journal of International Financial Markets, Institutions and Money* 
 
    <a href="https://doi.org/10.1016/j.intfin.2021.101282" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3554458" class="wp-version-button" target="_blank">WP Version</a>
 
-6. Price Dispersion in Bitcoin Exchanges, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2020) , *Economics Letters*  
+6. Price Dispersion in Bitcoin Exchanges, [Kwok Ping Tsang](https://kptsang.com) & Zichao Yang (2020) , *Economics Letters*  
 
    <a href="https://doi.org/10.1016/j.econlet.2020.109379" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=3590831" class="wp-version-button" target="_blank">WP Version</a>
 
