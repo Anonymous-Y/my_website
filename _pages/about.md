@@ -62,7 +62,6 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 ### Selected Works in Progress
 1. Deanonymize Bitcoin Transactions, with Kwok Ping Tsang
 2. Digital Bimetallism: Bank Runs and Crisis Management with a Non-Runnable Token, with [Jiahong Gao](https://jiahonggaoecon.weebly.com/)
-3. Written in the Blockchain: The Anatomy of Decentralized Prediction Markets, with Kwok Ping Tsang
 
 ### Teaching
 
