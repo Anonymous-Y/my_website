@@ -10,7 +10,7 @@ redirect_from:
 ## Zichao Yang (杨子超)
 Assistant Professor, Wenlan School of Business, ZUEL\\
 E-Mail: yang_zichao A-T outlook.com\\
-My CV: [download](https://www.dropbox.com/scl/fi/vglx3wqrp8g4k3bpv0t1k/ZichaoYang_CV_20260507.pdf?rlkey=dfkvt096feo0h5l68dr4ahn5g&dl=0)
+My CV: [download](https://www.dropbox.com/scl/fi/5swopz07k2xot3iby5bt9/ZichaoYang_CV_20260924.pdf?rlkey=1omxhii1oj3x8f13y01p5ckj7&dl=0)
 
 🔔 Update Alert! 🔔 Curious about the data behind my projects? Visit [digitecon.org](https://www.digitecon.org) and start exploring!
 
