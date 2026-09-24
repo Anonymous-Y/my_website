@@ -27,7 +27,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
    <a href="https://ssrn.com/abstract=6248859" class="wp-version-button" target="_blank">WP Version</a>
 
-3. The Impact of Stay-at-Home Orders on US Output: A Network Perspective (April 2020, with Shaowen Luo and Kwok Ping Tsang)
+3. Decision-Relevant Information in Partially Observed Production Networks (April 2020, with [Shaowen Luo](https://sites.google.com/site/shaowenluo/) and Kwok Ping Tsang)
 
    <a href="https://ssrn.com/abstract=3571866" class="wp-version-button" target="_blank">WP Version</a>
 
@@ -37,13 +37,13 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
    <a href="https://doi.org/10.1016/j.jdeveco.2025.103630" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=5569720" class="wp-version-button" target="_blank">WP Version</a>
    
-2. Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings, [Kwok Ping Tsang](https://sites.google.com/site/byrontkp/main) & Zichao Yang (2025), *Journal of Economic Dynamics and Control*
+2. Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings, [Kwok Ping Tsang](https://kptsang.com/) & Zichao Yang (2025), *Journal of Economic Dynamics and Control*
 
    <a href="https://doi.org/10.1016/j.jedc.2025.105197" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="https://www.digitecon.org/hidden-dissent-index" class="emph-button" target="_blank">Hidden Dissent Index Data</a>
 
    Media Coverage: [Reuters](https://www.reuters.com/markets/spiking-central-bank-dissent-risks-stoking-volatility-2026-04-30/)
 
-3. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction, Zhanli Li & Zichao Yang (2025), *Finance Research Letters*
+3. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction, [Zhanli Li](https://github.com/Zhanli-Li) & Zichao Yang (2025), *Finance Research Letters*
 
    <a href="https://doi.org/10.1016/j.frl.2025.107127" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4936528" class="wp-version-button" target="_blank">WP Version</a>
 
@@ -61,7 +61,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
 ### Selected Works in Progress
 1. Deanonymize Bitcoin Transactions, with Kwok Ping Tsang
-2. A Very English Phenomenon: Competition in the International Labor Market, with Xinquan Zhao
+2. Digital Bimetallism: Bank Runs and Crisis Management with a Non-Runnable Token, with [Jiahong Gao](https://jiahonggaoecon.weebly.com/)
 3. Written in the Blockchain: The Anatomy of Decentralized Prediction Markets, with Kwok Ping Tsang
 
 ### Teaching
