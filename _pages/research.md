@@ -13,8 +13,7 @@ author_profile: true
 <summary><span class="abstract-button">Abstract</span></summary>
 Using Polymarket's settlement ledger, we study its 2024 U.S. presidential election markets. Share minting and burning make naive aggregation overstate turnover. We develop a transaction-level decomposition separating turnover, net inflow, and market activity. The overstatement spans 249 markets and is greatest in thin, young ones. Corrected price impact implies that moving the October Trump YES price by five percentage points cost \$9.1 million rather than \$15.6 million. Secondary-market flow carries greater price impact per dollar than primary-market flow. Capital entered on both sides of the race throughout October, consistent with heterogeneous beliefs rather than one-sided manipulation.
 </details>
-
-<a href="https://ssrn.com/abstract=6336679" class="wp-version-button" target="_blank">WP Version</a>
+<a href="https://arxiv.org/abs/2603.03136" class="wp-version-button" target="_blank">WP Version</a>
 
 **2. Political Shocks and Price Discovery in Prediction Markets: Evidence from the 2024 U.S. Presidential Election**
 
