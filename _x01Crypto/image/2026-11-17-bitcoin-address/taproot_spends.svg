@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1018" height="686" viewBox="-4 -4 1018 686" role="img" content="&lt;mxfile host=&quot;65bd71144e&quot;&gt;&#10;    &lt;diagram id=&quot;taproot_spends&quot; name=&quot;Taproot key path and script path&quot;&gt;&#10;        &lt;mxGraphModel dx=&quot;1244&quot; dy=&quot;1802&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1000&quot; pageHeight=&quot;700&quot; background=&quot;#FFFFFF&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&#10;            &lt;root&gt;&#10;                &lt;mxCell id=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;key_title&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=26;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;Key path: Alice and Bob sign together&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;20&quot; width=&quot;950&quot; height=&quot;36&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;key_witness_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;Witness&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;66&quot; width=&quot;140&quot; height=&quot;90&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;key_signature&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;&amp;lt;signature_AB&amp;gt; for Q&amp;#10;64 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;160&quot; y=&quot;66&quot; width=&quot;300&quot; height=&quot;90&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;key_check&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=21;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;Bitcoin checks: is the signature valid for the output key Q?&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;170&quot; width=&quot;950&quot; height=&quot;36&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_title&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=26;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;Script path: Alice uses backup script A&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;250&quot; width=&quot;950&quot; height=&quot;36&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_witness_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;Witness&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;296&quot; width=&quot;140&quot; height=&quot;150&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_signature&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;&amp;lt;signature_A&amp;gt;&amp;#10;64 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;160&quot; y=&quot;296&quot; width=&quot;190&quot; height=&quot;150&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_script&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Backup script A&amp;#10;Alice alone after&amp;#10;the deadline&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;350&quot; y=&quot;296&quot; width=&quot;220&quot; height=&quot;150&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;control_block&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=1;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Control block, 65 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;570&quot; y=&quot;296&quot; width=&quot;420&quot; height=&quot;150&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;control_version&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=18;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;Leaf version&amp;#10;+ parity&amp;#10;1 byte&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;585&quot; y=&quot;340&quot; width=&quot;110&quot; height=&quot;92&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;control_key&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=18;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Internal&amp;#10;key P&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;695&quot; y=&quot;340&quot; width=&quot;130&quot; height=&quot;92&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;control_path&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=18;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Merkle path:&amp;#10;Leaf B hash&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;825&quot; y=&quot;340&quot; width=&quot;150&quot; height=&quot;92&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_check_title&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=21;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;Bitcoin checks:&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;462&quot; width=&quot;950&quot; height=&quot;34&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_check_1&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=21;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;1. Hash backup script A, then combine it with Leaf B hash to rebuild the script tree root.&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;498&quot; width=&quot;950&quot; height=&quot;34&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_check_2&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=21;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;2. Tweak P with the script tree root. The result must equal the output key Q.&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;534&quot; width=&quot;950&quot; height=&quot;34&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_check_3&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=21;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;3. Run backup script A with &amp;lt;signature_A&amp;gt;.&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;570&quot; width=&quot;950&quot; height=&quot;34&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;hidden&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;Backup script B stays hidden: only its hash appears.&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;624&quot; width=&quot;950&quot; height=&quot;34&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;            &lt;/root&gt;&#10;        &lt;/mxGraphModel&gt;&#10;    &lt;/diagram&gt;&#10;&lt;/mxfile&gt;" aria-labelledby="title description">
+  <title id="title">Taproot key path and script path</title>
+  <desc id="description">On the key path, the witness holds one 64-byte signature, signature_AB, for the output key Q. On the script path, the witness holds signature_A, backup script A, and a 65-byte control block made of a leaf version and parity byte, the internal key P, and the Merkle path, which is Leaf B hash. Bitcoin rebuilds the script tree root, checks that tweaking P with it gives Q, then runs backup script A. Backup script B stays hidden.</desc>
+  <rect x="-4" y="-4" width="1018" height="686" fill="#FFFFFF" />
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#1A2732" />
+    </marker>
+  </defs>
+  <g id="key_title">
+    <text fill="#1A2732" font-family="Arial" font-size="26.0" font-weight="bold" text-anchor="start">
+      <tspan x="26.0" y="38.0" dominant-baseline="central">Key path: Alice and Bob sign together</tspan>
+    </text>
+  </g>
+  <g id="key_witness_label">
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="start">
+      <tspan x="26.0" y="111.0" dominant-baseline="central">Witness</tspan>
+    </text>
+  </g>
+  <g id="key_signature">
+    <rect x="160.0" y="66.0" width="300.0" height="90.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="310.0" y="97.5" dominant-baseline="central">&lt;signature_AB&gt; for Q</tspan>
+      <tspan x="310.0" y="124.5" dominant-baseline="central">64 bytes</tspan>
+    </text>
+  </g>
+  <g id="key_check">
+    <text fill="#1A2732" font-family="Arial" font-size="21.0" font-weight="normal" text-anchor="start">
+      <tspan x="26.0" y="188.0" dominant-baseline="central">Bitcoin checks: is the signature valid for the output key Q?</tspan>
+    </text>
+  </g>
+  <g id="script_title">
+    <text fill="#1A2732" font-family="Arial" font-size="26.0" font-weight="bold" text-anchor="start">
+      <tspan x="26.0" y="268.0" dominant-baseline="central">Script path: Alice uses backup script A</tspan>
+    </text>
+  </g>
+  <g id="script_witness_label">
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="start">
+      <tspan x="26.0" y="371.0" dominant-baseline="central">Witness</tspan>
+    </text>
+  </g>
+  <g id="script_signature">
+    <rect x="160.0" y="296.0" width="190.0" height="150.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="255.0" y="357.5" dominant-baseline="central">&lt;signature_A&gt;</tspan>
+      <tspan x="255.0" y="384.5" dominant-baseline="central">64 bytes</tspan>
+    </text>
+  </g>
+  <g id="script_script">
+    <rect x="350.0" y="296.0" width="220.0" height="150.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="460.0" y="344.0" dominant-baseline="central">Backup script A</tspan>
+      <tspan x="460.0" y="371.0" dominant-baseline="central">Alice alone after</tspan>
+      <tspan x="460.0" y="398.0" dominant-baseline="central">the deadline</tspan>
+    </text>
+  </g>
+  <g id="control_block">
+    <rect x="570.0" y="296.0" width="420.0" height="150.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="bold" text-anchor="middle">
+      <tspan x="780.0" y="317.2" dominant-baseline="central">Control block, 65 bytes</tspan>
+    </text>
+  </g>
+  <g id="control_version">
+    <rect x="585.0" y="340.0" width="110.0" height="92.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="18.0" font-weight="normal" text-anchor="middle">
+      <tspan x="640.0" y="361.7" dominant-baseline="central">Leaf version</tspan>
+      <tspan x="640.0" y="386.0" dominant-baseline="central">+ parity</tspan>
+      <tspan x="640.0" y="410.3" dominant-baseline="central">1 byte</tspan>
+    </text>
+  </g>
+  <g id="control_key">
+    <rect x="695.0" y="340.0" width="130.0" height="92.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="18.0" font-weight="normal" text-anchor="middle">
+      <tspan x="760.0" y="361.7" dominant-baseline="central">Internal</tspan>
+      <tspan x="760.0" y="386.0" dominant-baseline="central">key P</tspan>
+      <tspan x="760.0" y="410.3" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="control_path">
+    <rect x="825.0" y="340.0" width="150.0" height="92.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="18.0" font-weight="normal" text-anchor="middle">
+      <tspan x="900.0" y="361.7" dominant-baseline="central">Merkle path:</tspan>
+      <tspan x="900.0" y="386.0" dominant-baseline="central">Leaf B hash</tspan>
+      <tspan x="900.0" y="410.3" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="script_check_title">
+    <text fill="#1A2732" font-family="Arial" font-size="21.0" font-weight="normal" text-anchor="start">
+      <tspan x="26.0" y="479.0" dominant-baseline="central">Bitcoin checks:</tspan>
+    </text>
+  </g>
+  <g id="script_check_1">
+    <text fill="#1A2732" font-family="Arial" font-size="21.0" font-weight="normal" text-anchor="start">
+      <tspan x="26.0" y="515.0" dominant-baseline="central">1. Hash backup script A, then combine it with Leaf B hash to rebuild the script tree root.</tspan>
+    </text>
+  </g>
+  <g id="script_check_2">
+    <text fill="#1A2732" font-family="Arial" font-size="21.0" font-weight="normal" text-anchor="start">
+      <tspan x="26.0" y="551.0" dominant-baseline="central">2. Tweak P with the script tree root. The result must equal the output key Q.</tspan>
+    </text>
+  </g>
+  <g id="script_check_3">
+    <text fill="#1A2732" font-family="Arial" font-size="21.0" font-weight="normal" text-anchor="start">
+      <tspan x="26.0" y="587.0" dominant-baseline="central">3. Run backup script A with &lt;signature_A&gt;.</tspan>
+    </text>
+  </g>
+  <g id="hidden">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="26.0" y="641.0" dominant-baseline="central">Backup script B stays hidden: only its hash appears.</tspan>
+    </text>
+  </g>
+</svg>

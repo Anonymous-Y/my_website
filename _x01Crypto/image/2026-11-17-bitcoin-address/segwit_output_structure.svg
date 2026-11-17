@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="998" height="440" viewBox="-4 -4 998 440" role="img" content="&lt;mxfile host=&quot;65bd71144e&quot;&gt;&#10;    &lt;diagram id=&quot;segwit_output_structure&quot; name=&quot;SegWit output structure&quot;&gt;&#10;        &lt;mxGraphModel dx=&quot;1244&quot; dy=&quot;1802&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1000&quot; pageHeight=&quot;460&quot; background=&quot;#FFFFFF&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&#10;            &lt;root&gt;&#10;                &lt;mxCell id=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;legacy_title&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=26;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;Legacy output (P2PKH)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;20&quot; width=&quot;950&quot; height=&quot;36&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_title&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=26;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;SegWit output (P2WPKH)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;226&quot; width=&quot;950&quot; height=&quot;36&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_amount&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Amount&amp;#10;8 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;66&quot; width=&quot;150&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_script_length&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Script&amp;#10;length: 25&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;170&quot; y=&quot;66&quot; width=&quot;150&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_script&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=1;strokeWidth=2;spacing=6;fillColor=#E4F2E7;strokeColor=#5B9A6B;&quot; value=&quot;scriptPubKey&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;320&quot; y=&quot;66&quot; width=&quot;610&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_amount&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Amount&amp;#10;8 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;272&quot; width=&quot;150&quot; height=&quot;140&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_script_length&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Script&amp;#10;length: 22&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;170&quot; y=&quot;272&quot; width=&quot;150&quot; height=&quot;140&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_script&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=1;strokeWidth=2;spacing=6;fillColor=#E4F2E7;strokeColor=#5B9A6B;&quot; value=&quot;scriptPubKey&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;320&quot; y=&quot;272&quot; width=&quot;610&quot; height=&quot;140&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_script_items&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=20;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;OP_DUP OP_HASH160 &amp;lt;HASH160(K_B)&amp;gt;&amp;#10;OP_EQUALVERIFY OP_CHECKSIG&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;320&quot; y=&quot;106&quot; width=&quot;610&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_version&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;Witness version&amp;#10;OP_0&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;345&quot; y=&quot;318&quot; width=&quot;220&quot; height=&quot;76&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_program&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Witness program&amp;#10;&amp;lt;HASH160(K_B)&amp;gt;, 20 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;565&quot; y=&quot;318&quot; width=&quot;340&quot; height=&quot;76&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;            &lt;/root&gt;&#10;        &lt;/mxGraphModel&gt;&#10;    &lt;/diagram&gt;&#10;&lt;/mxfile&gt;" aria-labelledby="title description">
+  <title id="title">Legacy and SegWit output structure</title>
+  <desc id="description">Both outputs have an amount, a script length, and a scriptPubKey. The P2PKH scriptPubKey is a full locking script. The P2WPKH scriptPubKey holds only a witness version, OP_0, and a witness program, the 20-byte HASH160 of K_B.</desc>
+  <rect x="-4" y="-4" width="998" height="440" fill="#FFFFFF" />
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#1A2732" />
+    </marker>
+  </defs>
+  <g id="legacy_title">
+    <text fill="#1A2732" font-family="Arial" font-size="26.0" font-weight="bold" text-anchor="start">
+      <tspan x="26.0" y="38.0" dominant-baseline="central">Legacy output (P2PKH)</tspan>
+    </text>
+  </g>
+  <g id="segwit_title">
+    <text fill="#1A2732" font-family="Arial" font-size="26.0" font-weight="bold" text-anchor="start">
+      <tspan x="26.0" y="244.0" dominant-baseline="central">SegWit output (P2WPKH)</tspan>
+    </text>
+  </g>
+  <g id="legacy_amount">
+    <rect x="20.0" y="66.0" width="150.0" height="120.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="95.0" y="111.15" dominant-baseline="central">Amount</tspan>
+      <tspan x="95.0" y="140.85000000000002" dominant-baseline="central">8 bytes</tspan>
+    </text>
+  </g>
+  <g id="legacy_script_length">
+    <rect x="170.0" y="66.0" width="150.0" height="120.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="245.0" y="111.15" dominant-baseline="central">Script</tspan>
+      <tspan x="245.0" y="140.85000000000002" dominant-baseline="central">length: 25</tspan>
+    </text>
+  </g>
+  <g id="legacy_script">
+    <rect x="320.0" y="66.0" width="610.0" height="120.0" fill="#E4F2E7" stroke="#5B9A6B" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="bold" text-anchor="middle">
+      <tspan x="625.0" y="87.2" dominant-baseline="central">scriptPubKey</tspan>
+    </text>
+  </g>
+  <g id="segwit_amount">
+    <rect x="20.0" y="272.0" width="150.0" height="140.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="95.0" y="327.15" dominant-baseline="central">Amount</tspan>
+      <tspan x="95.0" y="356.84999999999997" dominant-baseline="central">8 bytes</tspan>
+    </text>
+  </g>
+  <g id="segwit_script_length">
+    <rect x="170.0" y="272.0" width="150.0" height="140.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="245.0" y="327.15" dominant-baseline="central">Script</tspan>
+      <tspan x="245.0" y="356.84999999999997" dominant-baseline="central">length: 22</tspan>
+    </text>
+  </g>
+  <g id="segwit_script">
+    <rect x="320.0" y="272.0" width="610.0" height="140.0" fill="#E4F2E7" stroke="#5B9A6B" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="bold" text-anchor="middle">
+      <tspan x="625.0" y="293.2" dominant-baseline="central">scriptPubKey</tspan>
+    </text>
+  </g>
+  <g id="legacy_script_items">
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="625.0" y="127.5" dominant-baseline="central">OP_DUP OP_HASH160 &lt;HASH160(K_B)&gt;</tspan>
+      <tspan x="625.0" y="154.5" dominant-baseline="central">OP_EQUALVERIFY OP_CHECKSIG</tspan>
+    </text>
+  </g>
+  <g id="segwit_version">
+    <rect x="345.0" y="318.0" width="220.0" height="76.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="455.0" y="341.15" dominant-baseline="central">Witness version</tspan>
+      <tspan x="455.0" y="370.84999999999997" dominant-baseline="central">OP_0</tspan>
+    </text>
+  </g>
+  <g id="segwit_program">
+    <rect x="565.0" y="318.0" width="340.0" height="76.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="735.0" y="341.15" dominant-baseline="central">Witness program</tspan>
+      <tspan x="735.0" y="370.84999999999997" dominant-baseline="central">&lt;HASH160(K_B)&gt;, 20 bytes</tspan>
+    </text>
+  </g>
+</svg>

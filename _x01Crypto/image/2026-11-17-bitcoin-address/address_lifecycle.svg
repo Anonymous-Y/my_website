@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1028" height="564" viewBox="-4 -4 1028 564" role="img" content="&lt;mxfile host=&quot;65bd71144e&quot;&gt;&#10;    &lt;diagram id=&quot;address_lifecycle&quot; name=&quot;One payment, two transactions&quot;&gt;&#10;        &lt;mxGraphModel dx=&quot;1244&quot; dy=&quot;1802&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1020&quot; pageHeight=&quot;580&quot; background=&quot;#FFFFFF&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&#10;            &lt;root&gt;&#10;                &lt;mxCell id=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;address&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;Bob's address&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;340&quot; y=&quot;20&quot; width=&quot;200&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;decode_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;Alice's wallet decodes it&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;455&quot; y=&quot;100&quot; width=&quot;260&quot; height=&quot;36&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;a_tx&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=Arial;fontSize=24;fontColor=#1A2732;fontStyle=1;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Transaction A&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;150&quot; width=&quot;460&quot; height=&quot;330&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;a_input_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;Input&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;35&quot; y=&quot;188&quot; width=&quot;200&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;a_output_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;Output&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;265&quot; y=&quot;188&quot; width=&quot;200&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;b_tx&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=Arial;fontSize=24;fontColor=#1A2732;fontStyle=1;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Transaction B&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;540&quot; y=&quot;150&quot; width=&quot;460&quot; height=&quot;330&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;b_input_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;Input&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;555&quot; y=&quot;188&quot; width=&quot;200&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;b_output_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;Output&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;785&quot; y=&quot;188&quot; width=&quot;200&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;a_reference&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Previous txid&amp;#10;+ output index&amp;#10;(Alice's earlier UTXO)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;35&quot; y=&quot;225&quot; width=&quot;200&quot; height=&quot;115&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;a_authorization&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;scriptSig&amp;#10;Alice's signature&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;35&quot; y=&quot;340&quot; width=&quot;200&quot; height=&quot;115&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;a_script&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#E4F2E7;strokeColor=#5B9A6B;&quot; value=&quot;scriptPubKey&amp;#10;Bob's spending&amp;#10;condition&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;265&quot; y=&quot;225&quot; width=&quot;200&quot; height=&quot;115&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;a_amount&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Amount&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;265&quot; y=&quot;340&quot; width=&quot;200&quot; height=&quot;115&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;b_reference&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Previous txid&amp;#10;+ output index&amp;#10;(Bob's UTXO)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;555&quot; y=&quot;225&quot; width=&quot;200&quot; height=&quot;115&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;b_authorization&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;scriptSig&amp;#10;Bob's signature&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;555&quot; y=&quot;340&quot; width=&quot;200&quot; height=&quot;115&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;b_script&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#E4F2E7;strokeColor=#5B9A6B;&quot; value=&quot;scriptPubKey&amp;#10;next receiver's&amp;#10;spending condition&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;785&quot; y=&quot;225&quot; width=&quot;200&quot; height=&quot;115&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;b_amount&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Amount&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;785&quot; y=&quot;340&quot; width=&quot;200&quot; height=&quot;115&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;decode&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;440&quot; y=&quot;90&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;440&quot; y=&quot;223&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;spend&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;467&quot; y=&quot;340&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;553&quot; y=&quot;282&quot; as=&quot;targetPoint&quot; /&gt;&#10;                        &lt;Array as=&quot;points&quot;&gt;&#10;                            &lt;mxPoint x=&quot;510&quot; y=&quot;340&quot; /&gt;&#10;                            &lt;mxPoint x=&quot;510&quot; y=&quot;282&quot; /&gt;&#10;                        &lt;/Array&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;spend_note&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=21;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;Transaction B's input points to transaction A's output, which is Bob's UTXO.&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;500&quot; width=&quot;980&quot; height=&quot;36&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;            &lt;/root&gt;&#10;        &lt;/mxGraphModel&gt;&#10;    &lt;/diagram&gt;&#10;&lt;/mxfile&gt;" aria-labelledby="title description">
+  <title id="title">One payment, two transactions</title>
+  <desc id="description">Alice's wallet decodes Bob's address into the scriptPubKey of transaction A's output, Bob's spending condition. Each input holds a previous txid and output index and a scriptSig with a signature. Transaction B's input points to A's output, Bob's UTXO, and its output holds the next receiver's spending condition.</desc>
+  <rect x="-4" y="-4" width="1028" height="564" fill="#FFFFFF" />
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#1A2732" />
+    </marker>
+  </defs>
+  <g id="address">
+    <rect x="340.0" y="20.0" width="200.0" height="70.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="440.0" y="55.0" dominant-baseline="central">Bob's address</tspan>
+    </text>
+  </g>
+  <g id="decode_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="461.0" y="118.0" dominant-baseline="central">Alice's wallet decodes it</tspan>
+    </text>
+  </g>
+  <g id="a_tx">
+    <rect x="20.0" y="150.0" width="460.0" height="330.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="24.0" font-weight="bold" text-anchor="middle">
+      <tspan x="250.0" y="172.4" dominant-baseline="central">Transaction A</tspan>
+    </text>
+  </g>
+  <g id="a_input_label">
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="bold" text-anchor="middle">
+      <tspan x="135.0" y="204.0" dominant-baseline="central">Input</tspan>
+    </text>
+  </g>
+  <g id="a_output_label">
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="bold" text-anchor="middle">
+      <tspan x="365.0" y="204.0" dominant-baseline="central">Output</tspan>
+    </text>
+  </g>
+  <g id="b_tx">
+    <rect x="540.0" y="150.0" width="460.0" height="330.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="24.0" font-weight="bold" text-anchor="middle">
+      <tspan x="770.0" y="172.4" dominant-baseline="central">Transaction B</tspan>
+    </text>
+  </g>
+  <g id="b_input_label">
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="bold" text-anchor="middle">
+      <tspan x="655.0" y="204.0" dominant-baseline="central">Input</tspan>
+    </text>
+  </g>
+  <g id="b_output_label">
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="bold" text-anchor="middle">
+      <tspan x="885.0" y="204.0" dominant-baseline="central">Output</tspan>
+    </text>
+  </g>
+  <g id="a_reference">
+    <rect x="35.0" y="225.0" width="200.0" height="115.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="135.0" y="255.5" dominant-baseline="central">Previous txid</tspan>
+      <tspan x="135.0" y="282.5" dominant-baseline="central">+ output index</tspan>
+      <tspan x="135.0" y="309.5" dominant-baseline="central">(Alice's earlier UTXO)</tspan>
+    </text>
+  </g>
+  <g id="a_authorization">
+    <rect x="35.0" y="340.0" width="200.0" height="115.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="135.0" y="384.0" dominant-baseline="central">scriptSig</tspan>
+      <tspan x="135.0" y="411.0" dominant-baseline="central">Alice's signature</tspan>
+    </text>
+  </g>
+  <g id="a_script">
+    <rect x="265.0" y="225.0" width="200.0" height="115.0" fill="#E4F2E7" stroke="#5B9A6B" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="365.0" y="255.5" dominant-baseline="central">scriptPubKey</tspan>
+      <tspan x="365.0" y="282.5" dominant-baseline="central">Bob's spending</tspan>
+      <tspan x="365.0" y="309.5" dominant-baseline="central">condition</tspan>
+    </text>
+  </g>
+  <g id="a_amount">
+    <rect x="265.0" y="340.0" width="200.0" height="115.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="365.0" y="397.5" dominant-baseline="central">Amount</tspan>
+    </text>
+  </g>
+  <g id="b_reference">
+    <rect x="555.0" y="225.0" width="200.0" height="115.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="655.0" y="255.5" dominant-baseline="central">Previous txid</tspan>
+      <tspan x="655.0" y="282.5" dominant-baseline="central">+ output index</tspan>
+      <tspan x="655.0" y="309.5" dominant-baseline="central">(Bob's UTXO)</tspan>
+    </text>
+  </g>
+  <g id="b_authorization">
+    <rect x="555.0" y="340.0" width="200.0" height="115.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="655.0" y="384.0" dominant-baseline="central">scriptSig</tspan>
+      <tspan x="655.0" y="411.0" dominant-baseline="central">Bob's signature</tspan>
+    </text>
+  </g>
+  <g id="b_script">
+    <rect x="785.0" y="225.0" width="200.0" height="115.0" fill="#E4F2E7" stroke="#5B9A6B" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="885.0" y="255.5" dominant-baseline="central">scriptPubKey</tspan>
+      <tspan x="885.0" y="282.5" dominant-baseline="central">next receiver's</tspan>
+      <tspan x="885.0" y="309.5" dominant-baseline="central">spending condition</tspan>
+    </text>
+  </g>
+  <g id="b_amount">
+    <rect x="785.0" y="340.0" width="200.0" height="115.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="885.0" y="397.5" dominant-baseline="central">Amount</tspan>
+    </text>
+  </g>
+  <g id="decode">
+    <path d="M 440 90 L 440 223 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="spend">
+    <path d="M 467 340 L 510 340 L 510 282 L 553 282 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="spend_note">
+    <text fill="#1A2732" font-family="Arial" font-size="21.0" font-weight="normal" text-anchor="start">
+      <tspan x="26.0" y="518.0" dominant-baseline="central">Transaction B's input points to transaction A's output, which is Bob's UTXO.</tspan>
+    </text>
+  </g>
+</svg>

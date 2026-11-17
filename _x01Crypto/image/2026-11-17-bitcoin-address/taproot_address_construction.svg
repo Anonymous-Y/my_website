@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1413" height="1488" viewBox="-4 16 1413 1488" role="img" content="&lt;mxfile host=&quot;65bd71144e&quot;&gt;&#10;    &lt;diagram id=&quot;taproot_address_construction&quot; name=&quot;Taproot address construction&quot;&gt;&#10;        &lt;mxGraphModel dx=&quot;1244&quot; dy=&quot;1802&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1400&quot; pageHeight=&quot;1520&quot; background=&quot;#FFFFFF&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&#10;            &lt;root&gt;&#10;                &lt;mxCell id=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;key_a&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Alice's key K_A&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;200&quot; y=&quot;40&quot; width=&quot;190&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;key_b&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Bob's key K_B&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;410&quot; y=&quot;40&quot; width=&quot;190&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;musig_a&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;295&quot; y=&quot;110&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;295&quot; y=&quot;330&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;musig_b&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;505&quot; y=&quot;110&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;505&quot; y=&quot;330&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;musig_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;MuSig2&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;330&quot; y=&quot;204&quot; width=&quot;140&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;internal_key&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Internal key P&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;200&quot; y=&quot;330&quot; width=&quot;400&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;backup_a&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Backup script A&amp;#10;Alice alone after the deadline&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;650&quot; y=&quot;40&quot; width=&quot;300&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;backup_b&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Backup script B&amp;#10;Bob alone after a later deadline&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;970&quot; y=&quot;40&quot; width=&quot;300&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;leaf_a&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;800&quot; y=&quot;124&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;800&quot; y=&quot;190&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;leaf_b&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;1120&quot; y=&quot;124&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;1120&quot; y=&quot;190&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;leaf_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Tagged hash (TapLeaf)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;880&quot; y=&quot;141&quot; width=&quot;240&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;leaf_a_hash&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=21;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Leaf A hash&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;650&quot; y=&quot;190&quot; width=&quot;300&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;leaf_b_hash&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=21;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Leaf B hash&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;970&quot; y=&quot;190&quot; width=&quot;300&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;branch_a&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;800&quot; y=&quot;260&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;800&quot; y=&quot;330&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;branch_b&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;1120&quot; y=&quot;260&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;1120&quot; y=&quot;330&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;branch_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Tagged hash (TapBranch)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;860&quot; y=&quot;279&quot; width=&quot;280&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_root&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#487A9A;&quot; value=&quot;Script tree root&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;650&quot; y=&quot;330&quot; width=&quot;620&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;tweak_p&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;400&quot; y=&quot;414&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;400&quot; y=&quot;490&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;tweak_root&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;960&quot; y=&quot;414&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;960&quot; y=&quot;490&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;tweak&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Tweak t = tagged hash (TapTweak) of P and the script tree root&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;200&quot; y=&quot;490&quot; width=&quot;1070&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;output&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;660&quot; y=&quot;574&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;660&quot; y=&quot;650&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;output_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Add the tweak to the internal key: Q = P + tG&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;680&quot; y=&quot;593&quot; width=&quot;520&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;output_key&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Output key Q&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;460&quot; y=&quot;650&quot; width=&quot;400&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;tweak_brace&quot; parent=&quot;1&quot; style=&quot;shape=curlyBracket;direction=east;flipH=1;html=0;fillColor=none;strokeColor=#1A2732;strokeWidth=2.5;rotation=-180;&quot; value=&quot;&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;160&quot; y=&quot;40&quot; width=&quot;24&quot; height=&quot;694&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;tweak_group&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=25;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Taproot&amp;#10;tweak&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;352&quot; width=&quot;130&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;version&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;660&quot; y=&quot;734&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;660&quot; y=&quot;810&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;version_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Prepend witness version 1&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;685&quot; y=&quot;753&quot; width=&quot;400&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row1_version&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;Version&amp;#10;1&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;410&quot; y=&quot;810&quot; width=&quot;130&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row1_program&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Witness program Q&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;540&quot; y=&quot;810&quot; width=&quot;400&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;regroup&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;660&quot; y=&quot;894&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;660&quot; y=&quot;964&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;regroup_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Regroup into 5-bit values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;685&quot; y=&quot;913&quot; width=&quot;400&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row2_version&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;1&amp;#10;1 value&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;410&quot; y=&quot;964&quot; width=&quot;130&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row2_program&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Witness program&amp;#10;52 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;540&quot; y=&quot;964&quot; width=&quot;400&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;950&quot; y=&quot;1006&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;1065&quot; y=&quot;1086&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Bech32m checksum over&amp;#10;bc and the 53 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;1080&quot; y=&quot;1024&quot; width=&quot;300&quot; height=&quot;54&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_result&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;Checksum&amp;#10;6 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;940&quot; y=&quot;1086&quot; width=&quot;250&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;append&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;1065&quot; y=&quot;1156&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;1065&quot; y=&quot;1226&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;append_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Append checksum&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;1085&quot; y=&quot;1175&quot; width=&quot;300&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;keep&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;660&quot; y=&quot;1048&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;660&quot; y=&quot;1226&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;keep_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=18;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Keep original&amp;#10;53 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;540&quot; y=&quot;1106&quot; width=&quot;110&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row3_version&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;1&amp;#10;1 value&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;410&quot; y=&quot;1226&quot; width=&quot;130&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row3_program&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Witness program&amp;#10;52 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;540&quot; y=&quot;1226&quot; width=&quot;400&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row3_checksum&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;Checksum&amp;#10;6 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;940&quot; y=&quot;1226&quot; width=&quot;250&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;characters&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;800&quot; y=&quot;1310&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;800&quot; y=&quot;1390&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;characters_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Write bc1, then one character per value&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;820&quot; y=&quot;1334&quot; width=&quot;420&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;address&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=25;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;P2TR address&amp;#10;(bc1p..., 62 characters)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;410&quot; y=&quot;1390&quot; width=&quot;780&quot; height=&quot;90&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;bech32m_brace&quot; parent=&quot;1&quot; style=&quot;shape=curlyBracket;direction=east;flipH=1;html=0;fillColor=none;strokeColor=#1A2732;strokeWidth=2.5;rotation=-180;&quot; value=&quot;&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;372&quot; y=&quot;734&quot; width=&quot;26&quot; height=&quot;746&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;bech32m_group&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=25;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Bech32m&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;210&quot; y=&quot;1085&quot; width=&quot;150&quot; height=&quot;44&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;            &lt;/root&gt;&#10;        &lt;/mxGraphModel&gt;&#10;    &lt;/diagram&gt;&#10;&lt;/mxfile&gt;" aria-labelledby="title description">
+  <title id="title">Taproot address construction</title>
+  <desc id="description">MuSig2 combines Alice's key K_A and Bob's key K_B into the internal key P. Backup script A, Alice alone after the deadline, and backup script B, Bob alone after a later deadline, are each hashed into a leaf hash, and the two leaf hashes are hashed together into the script tree root. A tagged hash of P and the script tree root gives the tweak t, and adding it gives the output key Q = P + tG. Bech32m then prepends witness version 1, regroups into 53 values of 5 bits, appends a 6-value checksum, and writes a 62-character address beginning with bc1p.</desc>
+  <rect x="-4" y="16" width="1413" height="1488" fill="#FFFFFF" />
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#1A2732" />
+    </marker>
+  </defs>
+  <g id="key_a">
+    <rect x="200.0" y="40.0" width="190.0" height="70.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="295.0" y="75.0" dominant-baseline="central">Alice's key K_A</tspan>
+    </text>
+  </g>
+  <g id="key_b">
+    <rect x="410.0" y="40.0" width="190.0" height="70.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="505.0" y="75.0" dominant-baseline="central">Bob's key K_B</tspan>
+    </text>
+  </g>
+  <g id="musig_a">
+    <path d="M 295 110 L 295 330 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="musig_b">
+    <path d="M 505 110 L 505 330 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="musig_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="middle">
+      <tspan x="400.0" y="220.0" dominant-baseline="central">MuSig2</tspan>
+    </text>
+  </g>
+  <g id="internal_key">
+    <rect x="200.0" y="330.0" width="400.0" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="400.0" y="356.475" dominant-baseline="central">Internal key P</tspan>
+      <tspan x="400.0" y="387.52500000000003" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="backup_a">
+    <rect x="650.0" y="40.0" width="300.0" height="84.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="800.0" y="68.5" dominant-baseline="central">Backup script A</tspan>
+      <tspan x="800.0" y="95.5" dominant-baseline="central">Alice alone after the deadline</tspan>
+    </text>
+  </g>
+  <g id="backup_b">
+    <rect x="970.0" y="40.0" width="300.0" height="84.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="1120.0" y="68.5" dominant-baseline="central">Backup script B</tspan>
+      <tspan x="1120.0" y="95.5" dominant-baseline="central">Bob alone after a later deadline</tspan>
+    </text>
+  </g>
+  <g id="leaf_a">
+    <path d="M 800 124 L 800 190 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="leaf_b">
+    <path d="M 1120 124 L 1120 190 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="leaf_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="middle">
+      <tspan x="1000.0" y="157.0" dominant-baseline="central">Tagged hash (TapLeaf)</tspan>
+    </text>
+  </g>
+  <g id="leaf_a_hash">
+    <rect x="650.0" y="190.0" width="300.0" height="70.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="21.0" font-weight="normal" text-anchor="middle">
+      <tspan x="800.0" y="210.825" dominant-baseline="central">Leaf A hash</tspan>
+      <tspan x="800.0" y="239.17499999999998" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="leaf_b_hash">
+    <rect x="970.0" y="190.0" width="300.0" height="70.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="21.0" font-weight="normal" text-anchor="middle">
+      <tspan x="1120.0" y="210.825" dominant-baseline="central">Leaf B hash</tspan>
+      <tspan x="1120.0" y="239.17499999999998" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="branch_a">
+    <path d="M 800 260 L 800 330 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="branch_b">
+    <path d="M 1120 260 L 1120 330 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="branch_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="middle">
+      <tspan x="1000.0" y="295.0" dominant-baseline="central">Tagged hash (TapBranch)</tspan>
+    </text>
+  </g>
+  <g id="script_root">
+    <rect x="650.0" y="330.0" width="620.0" height="84.0" fill="#FFFFFF" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="960.0" y="356.475" dominant-baseline="central">Script tree root</tspan>
+      <tspan x="960.0" y="387.52500000000003" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="tweak_p">
+    <path d="M 400 414 L 400 490 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="tweak_root">
+    <path d="M 960 414 L 960 490 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="tweak">
+    <rect x="200.0" y="490.0" width="1070.0" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="735.0" y="516.475" dominant-baseline="central">Tweak t = tagged hash (TapTweak) of P and the script tree root</tspan>
+      <tspan x="735.0" y="547.525" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="output">
+    <path d="M 660 574 L 660 650 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="output_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="686.0" y="609.0" dominant-baseline="central">Add the tweak to the internal key: Q = P + tG</tspan>
+    </text>
+  </g>
+  <g id="output_key">
+    <rect x="460.0" y="650.0" width="400.0" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="660.0" y="676.475" dominant-baseline="central">Output key Q</tspan>
+      <tspan x="660.0" y="707.525" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="tweak_brace">
+    <path d="M 184.0 40.0 L 172.0 40.0 L 172.0 734.0 L 184.0 734.0 M 172.0 387.0 L 160.0 387.0" fill="none" stroke="#1A2732" stroke-width="2.5" />
+  </g>
+  <g id="tweak_group">
+    <text fill="#1A2732" font-family="Arial" font-size="25.0" font-weight="normal" text-anchor="middle">
+      <tspan x="85.0" y="370.125" dominant-baseline="central">Taproot</tspan>
+      <tspan x="85.0" y="403.875" dominant-baseline="central">tweak</tspan>
+    </text>
+  </g>
+  <g id="version">
+    <path d="M 660 734 L 660 810 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="version_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="691.0" y="769.0" dominant-baseline="central">Prepend witness version 1</tspan>
+    </text>
+  </g>
+  <g id="row1_version">
+    <rect x="410.0" y="810.0" width="130.0" height="84.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="475.0" y="836.475" dominant-baseline="central">Version</tspan>
+      <tspan x="475.0" y="867.525" dominant-baseline="central">1</tspan>
+    </text>
+  </g>
+  <g id="row1_program">
+    <rect x="540.0" y="810.0" width="400.0" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="740.0" y="836.475" dominant-baseline="central">Witness program Q</tspan>
+      <tspan x="740.0" y="867.525" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="regroup">
+    <path d="M 660 894 L 660 964 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="regroup_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="691.0" y="929.0" dominant-baseline="central">Regroup into 5-bit values</tspan>
+    </text>
+  </g>
+  <g id="row2_version">
+    <rect x="410.0" y="964.0" width="130.0" height="84.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="475.0" y="991.15" dominant-baseline="central">1</tspan>
+      <tspan x="475.0" y="1020.85" dominant-baseline="central">1 value</tspan>
+    </text>
+  </g>
+  <g id="row2_program">
+    <rect x="540.0" y="964.0" width="400.0" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="740.0" y="990.475" dominant-baseline="central">Witness program</tspan>
+      <tspan x="740.0" y="1021.525" dominant-baseline="central">52 values</tspan>
+    </text>
+  </g>
+  <g id="checksum">
+    <path d="M 950 1006 L 1065 1006 L 1065 1086 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="checksum_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="1086.0" y="1038.175" dominant-baseline="central">Bech32m checksum over</tspan>
+      <tspan x="1086.0" y="1063.825" dominant-baseline="central">bc and the 53 values</tspan>
+    </text>
+  </g>
+  <g id="checksum_result">
+    <rect x="940.0" y="1086.0" width="250.0" height="70.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="24.0" font-weight="normal" text-anchor="middle">
+      <tspan x="1065.0" y="1104.8" dominant-baseline="central">Checksum</tspan>
+      <tspan x="1065.0" y="1137.2" dominant-baseline="central">6 values</tspan>
+    </text>
+  </g>
+  <g id="append">
+    <path d="M 1065 1156 L 1065 1226 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="append_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="1091.0" y="1191.0" dominant-baseline="central">Append checksum</tspan>
+    </text>
+  </g>
+  <g id="keep">
+    <path d="M 660 1048 L 660 1226 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="keep_label">
+    <text fill="#1A2732" font-family="Arial" font-size="18.0" font-weight="normal" text-anchor="middle">
+      <tspan x="595.0" y="1128.85" dominant-baseline="central">Keep original</tspan>
+      <tspan x="595.0" y="1153.1499999999999" dominant-baseline="central">53 values</tspan>
+    </text>
+  </g>
+  <g id="row3_version">
+    <rect x="410.0" y="1226.0" width="130.0" height="84.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="475.0" y="1253.15" dominant-baseline="central">1</tspan>
+      <tspan x="475.0" y="1282.8500000000001" dominant-baseline="central">1 value</tspan>
+    </text>
+  </g>
+  <g id="row3_program">
+    <rect x="540.0" y="1226.0" width="400.0" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="740.0" y="1252.475" dominant-baseline="central">Witness program</tspan>
+      <tspan x="740.0" y="1283.5249999999999" dominant-baseline="central">52 values</tspan>
+    </text>
+  </g>
+  <g id="row3_checksum">
+    <rect x="940.0" y="1226.0" width="250.0" height="84.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="1065.0" y="1253.15" dominant-baseline="central">Checksum</tspan>
+      <tspan x="1065.0" y="1282.8500000000001" dominant-baseline="central">6 values</tspan>
+    </text>
+  </g>
+  <g id="characters">
+    <path d="M 800 1310 L 800 1390 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="characters_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="826.0" y="1350.0" dominant-baseline="central">Write bc1, then one character per value</tspan>
+    </text>
+  </g>
+  <g id="address">
+    <rect x="410.0" y="1390.0" width="780.0" height="90.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="25.0" font-weight="normal" text-anchor="middle">
+      <tspan x="800.0" y="1418.125" dominant-baseline="central">P2TR address</tspan>
+      <tspan x="800.0" y="1451.875" dominant-baseline="central">(bc1p..., 62 characters)</tspan>
+    </text>
+  </g>
+  <g id="bech32m_brace">
+    <path d="M 398.0 734.0 L 385.0 734.0 L 385.0 1480.0 L 398.0 1480.0 M 385.0 1107.0 L 372.0 1107.0" fill="none" stroke="#1A2732" stroke-width="2.5" />
+  </g>
+  <g id="bech32m_group">
+    <text fill="#1A2732" font-family="Arial" font-size="25.0" font-weight="normal" text-anchor="middle">
+      <tspan x="285.0" y="1107.0" dominant-baseline="central">Bech32m</tspan>
+    </text>
+  </g>
+</svg>

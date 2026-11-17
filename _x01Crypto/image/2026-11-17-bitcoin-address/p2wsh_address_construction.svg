@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1223" height="1018" viewBox="76 16 1223 1018" role="img" content="&lt;mxfile host=&quot;65bd71144e&quot;&gt;&#10;    &lt;diagram id=&quot;p2wsh_address_construction&quot; name=&quot;P2WSH address construction&quot;&gt;&#10;        &lt;mxGraphModel dx=&quot;1244&quot; dy=&quot;1802&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1300&quot; pageHeight=&quot;1060&quot; background=&quot;#FFFFFF&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&#10;            &lt;root&gt;&#10;                &lt;mxCell id=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;script&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Alice and Bob's witness script, 71 bytes&amp;#10;OP_2 &amp;lt;K_A&amp;gt; &amp;lt;K_B&amp;gt; OP_2 OP_CHECKMULTISIG&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;270&quot; y=&quot;40&quot; width=&quot;580&quot; height=&quot;90&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;sha256&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;560&quot; y=&quot;130&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;560&quot; y=&quot;200&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;sha256_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;SHA256&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;585&quot; y=&quot;149&quot; width=&quot;300&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;script_hash&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;32-byte script hash&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;373&quot; y=&quot;200&quot; width=&quot;374&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;version&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;560&quot; y=&quot;270&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;560&quot; y=&quot;340&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;version_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Prepend witness version 0&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;585&quot; y=&quot;289&quot; width=&quot;400&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row1_version&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;Version&amp;#10;0&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;300&quot; y=&quot;340&quot; width=&quot;130&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row1_program&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Witness program&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;430&quot; y=&quot;340&quot; width=&quot;400&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;regroup&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;560&quot; y=&quot;424&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;560&quot; y=&quot;494&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;regroup_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Regroup into 5-bit values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;585&quot; y=&quot;443&quot; width=&quot;400&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row2_version&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;0&amp;#10;1 value&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;300&quot; y=&quot;494&quot; width=&quot;130&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row2_program&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Witness program&amp;#10;52 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;430&quot; y=&quot;494&quot; width=&quot;400&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;840&quot; y=&quot;536&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;955&quot; y=&quot;616&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Checksum over bc&amp;#10;and the 53 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;970&quot; y=&quot;554&quot; width=&quot;300&quot; height=&quot;54&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_result&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;Checksum&amp;#10;6 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;830&quot; y=&quot;616&quot; width=&quot;250&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;append&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;955&quot; y=&quot;686&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;955&quot; y=&quot;756&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;append_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Append checksum&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;975&quot; y=&quot;705&quot; width=&quot;300&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;keep&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;560&quot; y=&quot;588&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;560&quot; y=&quot;756&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;keep_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=18;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Keep original&amp;#10;53 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;440&quot; y=&quot;646&quot; width=&quot;110&quot; height=&quot;70&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row3_version&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;0&amp;#10;1 value&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;300&quot; y=&quot;756&quot; width=&quot;130&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row3_program&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Witness program&amp;#10;52 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;430&quot; y=&quot;756&quot; width=&quot;400&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;row3_checksum&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;Checksum&amp;#10;6 values&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;830&quot; y=&quot;756&quot; width=&quot;250&quot; height=&quot;84&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;characters&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;690&quot; y=&quot;840&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;690&quot; y=&quot;920&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;characters_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Write bc1, then one character per value&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;710&quot; y=&quot;864&quot; width=&quot;420&quot; height=&quot;32&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;address&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=25;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;P2WSH address&amp;#10;(bc1q..., 62 characters)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;300&quot; y=&quot;920&quot; width=&quot;780&quot; height=&quot;90&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;bech32_brace&quot; parent=&quot;1&quot; style=&quot;shape=curlyBracket;direction=east;flipH=1;html=0;fillColor=none;strokeColor=#1A2732;strokeWidth=2.5;rotation=-180;&quot; value=&quot;&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;262&quot; y=&quot;270&quot; width=&quot;26&quot; height=&quot;740&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;bech32_group&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=25;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Bech32&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;100&quot; y=&quot;618&quot; width=&quot;150&quot; height=&quot;44&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;            &lt;/root&gt;&#10;        &lt;/mxGraphModel&gt;&#10;    &lt;/diagram&gt;&#10;&lt;/mxfile&gt;" aria-labelledby="title description">
+  <title id="title">P2WSH address construction</title>
+  <desc id="description">Alice and Bob's 71-byte witness script goes through SHA256 to give a 32-byte script hash, which becomes the witness program. A Bech32 bracket groups prepending witness version 0, regrouping into 53 values of 5 bits, calculating a 6-value checksum over bc and those values, appending it, and writing bc1 followed by one character per value, which gives a 62-character address beginning with bc1q.</desc>
+  <rect x="76" y="16" width="1223" height="1018" fill="#FFFFFF" />
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#1A2732" />
+    </marker>
+  </defs>
+  <g id="script">
+    <rect x="270.0" y="40.0" width="580.0" height="90.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="560.0" y="70.15" dominant-baseline="central">Alice and Bob's witness script, 71 bytes</tspan>
+      <tspan x="560.0" y="99.85000000000001" dominant-baseline="central">OP_2 &lt;K_A&gt; &lt;K_B&gt; OP_2 OP_CHECKMULTISIG</tspan>
+    </text>
+  </g>
+  <g id="sha256">
+    <path d="M 560 130 L 560 200 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="sha256_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="591.0" y="165.0" dominant-baseline="central">SHA256</tspan>
+    </text>
+  </g>
+  <g id="script_hash">
+    <rect x="373.0" y="200.0" width="374.0" height="70.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="24.0" font-weight="normal" text-anchor="middle">
+      <tspan x="560.0" y="235.0" dominant-baseline="central">32-byte script hash</tspan>
+    </text>
+  </g>
+  <g id="version">
+    <path d="M 560 270 L 560 340 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="version_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="591.0" y="305.0" dominant-baseline="central">Prepend witness version 0</tspan>
+    </text>
+  </g>
+  <g id="row1_version">
+    <rect x="300.0" y="340.0" width="130.0" height="84.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="365.0" y="366.475" dominant-baseline="central">Version</tspan>
+      <tspan x="365.0" y="397.52500000000003" dominant-baseline="central">0</tspan>
+    </text>
+  </g>
+  <g id="row1_program">
+    <rect x="430.0" y="340.0" width="400.0" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="630.0" y="366.475" dominant-baseline="central">Witness program</tspan>
+      <tspan x="630.0" y="397.52500000000003" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="regroup">
+    <path d="M 560 424 L 560 494 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="regroup_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="591.0" y="459.0" dominant-baseline="central">Regroup into 5-bit values</tspan>
+    </text>
+  </g>
+  <g id="row2_version">
+    <rect x="300.0" y="494.0" width="130.0" height="84.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="365.0" y="521.15" dominant-baseline="central">0</tspan>
+      <tspan x="365.0" y="550.85" dominant-baseline="central">1 value</tspan>
+    </text>
+  </g>
+  <g id="row2_program">
+    <rect x="430.0" y="494.0" width="400.0" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="630.0" y="520.475" dominant-baseline="central">Witness program</tspan>
+      <tspan x="630.0" y="551.525" dominant-baseline="central">52 values</tspan>
+    </text>
+  </g>
+  <g id="checksum">
+    <path d="M 840 536 L 955 536 L 955 616 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="checksum_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="976.0" y="568.175" dominant-baseline="central">Checksum over bc</tspan>
+      <tspan x="976.0" y="593.8249999999999" dominant-baseline="central">and the 53 values</tspan>
+    </text>
+  </g>
+  <g id="checksum_result">
+    <rect x="830.0" y="616.0" width="250.0" height="70.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="24.0" font-weight="normal" text-anchor="middle">
+      <tspan x="955.0" y="634.8" dominant-baseline="central">Checksum</tspan>
+      <tspan x="955.0" y="667.1999999999999" dominant-baseline="central">6 values</tspan>
+    </text>
+  </g>
+  <g id="append">
+    <path d="M 955 686 L 955 756 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="append_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="981.0" y="721.0" dominant-baseline="central">Append checksum</tspan>
+    </text>
+  </g>
+  <g id="keep">
+    <path d="M 560 588 L 560 756 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="keep_label">
+    <text fill="#1A2732" font-family="Arial" font-size="18.0" font-weight="normal" text-anchor="middle">
+      <tspan x="495.0" y="668.85" dominant-baseline="central">Keep original</tspan>
+      <tspan x="495.0" y="693.15" dominant-baseline="central">53 values</tspan>
+    </text>
+  </g>
+  <g id="row3_version">
+    <rect x="300.0" y="756.0" width="130.0" height="84.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="365.0" y="783.15" dominant-baseline="central">0</tspan>
+      <tspan x="365.0" y="812.85" dominant-baseline="central">1 value</tspan>
+    </text>
+  </g>
+  <g id="row3_program">
+    <rect x="430.0" y="756.0" width="400.0" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="630.0" y="782.475" dominant-baseline="central">Witness program</tspan>
+      <tspan x="630.0" y="813.525" dominant-baseline="central">52 values</tspan>
+    </text>
+  </g>
+  <g id="row3_checksum">
+    <rect x="830.0" y="756.0" width="250.0" height="84.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="955.0" y="783.15" dominant-baseline="central">Checksum</tspan>
+      <tspan x="955.0" y="812.85" dominant-baseline="central">6 values</tspan>
+    </text>
+  </g>
+  <g id="characters">
+    <path d="M 690 840 L 690 920 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="characters_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="716.0" y="880.0" dominant-baseline="central">Write bc1, then one character per value</tspan>
+    </text>
+  </g>
+  <g id="address">
+    <rect x="300.0" y="920.0" width="780.0" height="90.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="25.0" font-weight="normal" text-anchor="middle">
+      <tspan x="690.0" y="948.125" dominant-baseline="central">P2WSH address</tspan>
+      <tspan x="690.0" y="981.875" dominant-baseline="central">(bc1q..., 62 characters)</tspan>
+    </text>
+  </g>
+  <g id="bech32_brace">
+    <path d="M 288.0 270.0 L 275.0 270.0 L 275.0 1010.0 L 288.0 1010.0 M 275.0 640.0 L 262.0 640.0" fill="none" stroke="#1A2732" stroke-width="2.5" />
+  </g>
+  <g id="bech32_group">
+    <text fill="#1A2732" font-family="Arial" font-size="25.0" font-weight="normal" text-anchor="middle">
+      <tspan x="175.0" y="640.0" dominant-baseline="central">Bech32</tspan>
+    </text>
+  </g>
+</svg>

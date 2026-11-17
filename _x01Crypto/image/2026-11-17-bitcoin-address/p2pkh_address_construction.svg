@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1276.5" height="1130" viewBox="-4 246 1276.5 1130" role="img" content="&lt;mxfile host=&quot;65bd71144e&quot;&gt;&#10;    &lt;diagram id=&quot;p2pkh_address_construction&quot; name=&quot;P2PKH address construction&quot;&gt;&#10;        &lt;mxGraphModel dx=&quot;1244&quot; dy=&quot;1802&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1260&quot; pageHeight=&quot;1390&quot; background=&quot;#FFFFFF&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&#10;            &lt;root&gt;&#10;                &lt;mxCell id=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;key&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=25;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Bob's public key K_B&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;70&quot; width=&quot;374&quot; x=&quot;395.5&quot; y=&quot;270&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;sha256&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;582.5&quot; y=&quot;340&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;582.5&quot; y=&quot;410&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;sha256_label&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=none;strokeColor=none;&quot; value=&quot;SHA256&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;32&quot; width=&quot;348.5&quot; x=&quot;608&quot; y=&quot;359&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;sha256_hash&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;32-byte hash&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;64&quot; width=&quot;374&quot; x=&quot;395.5&quot; y=&quot;410&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;ripemd160&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;582.5&quot; y=&quot;474&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;582.5&quot; y=&quot;544&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;ripemd160_label&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=none;strokeColor=none;&quot; value=&quot;RIPEMD160&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;32&quot; width=&quot;348.5&quot; x=&quot;608&quot; y=&quot;493&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;public_key_hash&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;20-byte public-key hash&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;70&quot; width=&quot;374&quot; x=&quot;395.5&quot; y=&quot;544&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;version&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;582.5&quot; y=&quot;614&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;582.5&quot; y=&quot;684&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;version_label&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=none;strokeColor=none;&quot; value=&quot;Prepend mainnet version byte&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;32&quot; width=&quot;348.5&quot; x=&quot;608&quot; y=&quot;633&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;version_byte&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;0x00&amp;#10;1 byte&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;84&quot; width=&quot;110.5&quot; x=&quot;310.5&quot; y=&quot;684&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;versioned_hash&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Public-key hash&amp;#10;20 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;84&quot; width=&quot;433.5&quot; x=&quot;421&quot; y=&quot;684&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; x=&quot;0.5455&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;864.5&quot; y=&quot;740&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;894.5&quot; y=&quot;820&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_label&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=none;strokeColor=none;&quot; value=&quot;SHA256&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;32&quot; width=&quot;348.5&quot; x=&quot;900&quot; y=&quot;760&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;payload_version&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;0x00&amp;#10;1 byte&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;84&quot; width=&quot;110.5&quot; x=&quot;265&quot; y=&quot;1100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;payload_hash&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=23;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Public-key hash&amp;#10;20 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;84&quot; width=&quot;365.5&quot; x=&quot;375.5&quot; y=&quot;1100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;payload_checksum&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;Checksum&amp;#10;4 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;84&quot; width=&quot;170&quot; x=&quot;741&quot; y=&quot;1100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;base58&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;588&quot; y=&quot;1184&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;588&quot; y=&quot;1262&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;base58_label&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=none;strokeColor=none;&quot; value=&quot;Base58 encoding of all 25 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;32&quot; width=&quot;348.5&quot; x=&quot;613.5&quot; y=&quot;1207&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;address&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=25;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#F2F4F6;strokeColor=#A5AFB8;&quot; value=&quot;P2PKH address&amp;#10;(1..., 26 to 34 characters)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;90&quot; width=&quot;646&quot; x=&quot;265&quot; y=&quot;1262&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_hash_1&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;SHA256 result 1&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;64&quot; width=&quot;374&quot; x=&quot;660&quot; y=&quot;830&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_hash_2&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=24;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;SHA256 result 2&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;64&quot; width=&quot;374&quot; x=&quot;660&quot; y=&quot;950&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_second_sha&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;checksum_hash_1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;exitX=0.477;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;839&quot; y=&quot;894&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;839&quot; y=&quot;950&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_second_sha_label&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=none;strokeColor=none;&quot; value=&quot;SHA256&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;32&quot; width=&quot;348.5&quot; x=&quot;851&quot; y=&quot;903&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_extract&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;840&quot; y=&quot;1020&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;840&quot; y=&quot;1097&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_extract_label&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=none;strokeColor=none;&quot; value=&quot;Keep first 4 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;32&quot; width=&quot;348.5&quot; x=&quot;870&quot; y=&quot;1028&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;checksum_append_label&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=none;strokeColor=none;&quot; value=&quot;Append checksum&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;32&quot; width=&quot;348.5&quot; x=&quot;870&quot; y=&quot;1060&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;hash160_group&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=26;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;HASH160&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;44&quot; width=&quot;130&quot; x=&quot;219.5&quot; y=&quot;417&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;base58check_group&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=25;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Base58Check&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;44&quot; width=&quot;190&quot; x=&quot;20&quot; y=&quot;935&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;double_sha_group&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Double&amp;#10;Hash&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;80&quot; width=&quot;105&quot; x=&quot;1094.5&quot; y=&quot;879&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;original_bytes_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=18;fontColor=#1A2732;fillColor=none;strokeColor=none;&quot; value=&quot;Keep original&amp;#10;21 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;70&quot; width=&quot;110&quot; x=&quot;450&quot; y=&quot;909&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;hash160_brace&quot; parent=&quot;1&quot; style=&quot;shape=curlyBracket;direction=east;flipH=1;html=0;fillColor=none;strokeColor=#1A2732;strokeWidth=2.5;rotation=-180;&quot; value=&quot;&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;210&quot; width=&quot;24&quot; x=&quot;364.5&quot; y=&quot;334&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;base58check_brace&quot; parent=&quot;1&quot; style=&quot;shape=curlyBracket;direction=east;flipH=1;html=0;fillColor=none;strokeColor=#1A2732;strokeWidth=2.5;rotation=-180;&quot; value=&quot;&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;700&quot; width=&quot;26&quot; x=&quot;225&quot; y=&quot;614&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;double_sha_brace&quot; parent=&quot;1&quot; style=&quot;shape=curlyBracket;direction=east;flipH=1;html=0;fillColor=none;strokeColor=#1A2732;strokeWidth=2.5;rotation=0;&quot; value=&quot;&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry height=&quot;150&quot; width=&quot;40&quot; x=&quot;1040&quot; y=&quot;844&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;DZRMeOt9bitXMBEqs8G1-8&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;587.5&quot; y=&quot;780&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;587.5&quot; y=&quot;1090&quot; as=&quot;targetPoint&quot; /&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;            &lt;/root&gt;&#10;        &lt;/mxGraphModel&gt;&#10;    &lt;/diagram&gt;&#10;&lt;/mxfile&gt;" aria-labelledby="title description">
+  <title id="title">P2PKH address construction</title>
+  <desc id="description">Bob's public key goes through HASH160, SHA256 then RIPEMD160, to give a 20-byte public-key hash. A Base58Check bracket groups prepending the mainnet version byte 0x00, calculating the checksum with two SHA256 rounds and keeping the first four bytes, appending it, and Base58 encoding all 25 bytes into an address beginning with 1, 26 to 34 characters long.</desc>
+  <rect x="-4" y="246" width="1276.5" height="1130" fill="#FFFFFF" />
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#1A2732" />
+    </marker>
+  </defs>
+  <g id="key">
+    <rect x="395.5" y="270.0" width="374.0" height="70.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="25.0" font-weight="normal" text-anchor="middle">
+      <tspan x="582.5" y="305.0" dominant-baseline="central">Bob's public key K_B</tspan>
+    </text>
+  </g>
+  <g id="sha256">
+    <path d="M 582.5 340 L 582.5 410 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="sha256_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="614.0" y="375.0" dominant-baseline="central">SHA256</tspan>
+    </text>
+  </g>
+  <g id="sha256_hash">
+    <rect x="395.5" y="410.0" width="374.0" height="64.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="24.0" font-weight="normal" text-anchor="middle">
+      <tspan x="582.5" y="442.0" dominant-baseline="central">32-byte hash</tspan>
+    </text>
+  </g>
+  <g id="ripemd160">
+    <path d="M 582.5 474 L 582.5 544 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="ripemd160_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="614.0" y="509.0" dominant-baseline="central">RIPEMD160</tspan>
+    </text>
+  </g>
+  <g id="public_key_hash">
+    <rect x="395.5" y="544.0" width="374.0" height="70.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="24.0" font-weight="normal" text-anchor="middle">
+      <tspan x="582.5" y="579.0" dominant-baseline="central">20-byte public-key hash</tspan>
+    </text>
+  </g>
+  <g id="version">
+    <path d="M 582.5 614 L 582.5 684 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="version_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="614.0" y="649.0" dominant-baseline="central">Prepend mainnet version byte</tspan>
+    </text>
+  </g>
+  <g id="version_byte">
+    <rect x="310.5" y="684.0" width="110.5" height="84.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="365.75" y="711.15" dominant-baseline="central">0x00</tspan>
+      <tspan x="365.75" y="740.85" dominant-baseline="central">1 byte</tspan>
+    </text>
+  </g>
+  <g id="versioned_hash">
+    <rect x="421.0" y="684.0" width="433.5" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="637.75" y="710.475" dominant-baseline="central">Public-key hash</tspan>
+      <tspan x="637.75" y="741.525" dominant-baseline="central">20 bytes</tspan>
+    </text>
+  </g>
+  <g id="checksum">
+    <path d="M 864.5 740 L 894.5 740 L 894.5 820 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="checksum_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="906.0" y="776.0" dominant-baseline="central">SHA256</tspan>
+    </text>
+  </g>
+  <g id="payload_version">
+    <rect x="265.0" y="1100.0" width="110.5" height="84.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="320.25" y="1127.15" dominant-baseline="central">0x00</tspan>
+      <tspan x="320.25" y="1156.8500000000001" dominant-baseline="central">1 byte</tspan>
+    </text>
+  </g>
+  <g id="payload_hash">
+    <rect x="375.5" y="1100.0" width="365.5" height="84.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="23.0" font-weight="normal" text-anchor="middle">
+      <tspan x="558.25" y="1126.475" dominant-baseline="central">Public-key hash</tspan>
+      <tspan x="558.25" y="1157.5249999999999" dominant-baseline="central">20 bytes</tspan>
+    </text>
+  </g>
+  <g id="payload_checksum">
+    <rect x="741.0" y="1100.0" width="170.0" height="84.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="826.0" y="1127.15" dominant-baseline="central">Checksum</tspan>
+      <tspan x="826.0" y="1156.8500000000001" dominant-baseline="central">4 bytes</tspan>
+    </text>
+  </g>
+  <g id="base58">
+    <path d="M 588 1184 L 588 1262 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="base58_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="619.5" y="1223.0" dominant-baseline="central">Base58 encoding of all 25 bytes</tspan>
+    </text>
+  </g>
+  <g id="address">
+    <rect x="265.0" y="1262.0" width="646.0" height="90.0" fill="#F2F4F6" stroke="#A5AFB8" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="25.0" font-weight="normal" text-anchor="middle">
+      <tspan x="588.0" y="1290.125" dominant-baseline="central">P2PKH address</tspan>
+      <tspan x="588.0" y="1323.875" dominant-baseline="central">(1..., 26 to 34 characters)</tspan>
+    </text>
+  </g>
+  <g id="checksum_hash_1">
+    <rect x="660.0" y="830.0" width="374.0" height="64.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="24.0" font-weight="normal" text-anchor="middle">
+      <tspan x="847.0" y="845.8" dominant-baseline="central">SHA256 result 1</tspan>
+      <tspan x="847.0" y="878.1999999999999" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="checksum_hash_2">
+    <rect x="660.0" y="950.0" width="374.0" height="64.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="24.0" font-weight="normal" text-anchor="middle">
+      <tspan x="847.0" y="965.8" dominant-baseline="central">SHA256 result 2</tspan>
+      <tspan x="847.0" y="998.1999999999999" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="checksum_second_sha">
+    <path d="M 839 894 L 839 950 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="checksum_second_sha_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="857.0" y="919.0" dominant-baseline="central">SHA256</tspan>
+    </text>
+  </g>
+  <g id="checksum_extract">
+    <path d="M 840 1020 L 840 1097 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="checksum_extract_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="876.0" y="1044.0" dominant-baseline="central">Keep first 4 bytes</tspan>
+    </text>
+  </g>
+  <g id="checksum_append_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="876.0" y="1076.0" dominant-baseline="central">Append checksum</tspan>
+    </text>
+  </g>
+  <g id="hash160_group">
+    <text fill="#1A2732" font-family="Arial" font-size="26.0" font-weight="normal" text-anchor="middle">
+      <tspan x="284.5" y="439.0" dominant-baseline="central">HASH160</tspan>
+    </text>
+  </g>
+  <g id="base58check_group">
+    <text fill="#1A2732" font-family="Arial" font-size="25.0" font-weight="normal" text-anchor="middle">
+      <tspan x="115.0" y="957.0" dominant-baseline="central">Base58Check</tspan>
+    </text>
+  </g>
+  <g id="double_sha_group">
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="1147.0" y="905.5" dominant-baseline="central">Double</tspan>
+      <tspan x="1147.0" y="932.5" dominant-baseline="central">Hash</tspan>
+    </text>
+  </g>
+  <g id="original_bytes_label">
+    <text fill="#1A2732" font-family="Arial" font-size="18.0" font-weight="normal" text-anchor="middle">
+      <tspan x="505.0" y="931.85" dominant-baseline="central">Keep original</tspan>
+      <tspan x="505.0" y="956.15" dominant-baseline="central">21 bytes</tspan>
+    </text>
+  </g>
+  <g id="hash160_brace">
+    <path d="M 388.5 334.0 L 376.5 334.0 L 376.5 544.0 L 388.5 544.0 M 376.5 439.0 L 364.5 439.0" fill="none" stroke="#1A2732" stroke-width="2.5" />
+  </g>
+  <g id="base58check_brace">
+    <path d="M 251.0 614.0 L 238.0 614.0 L 238.0 1314.0 L 251.0 1314.0 M 238.0 964.0 L 225.0 964.0" fill="none" stroke="#1A2732" stroke-width="2.5" />
+  </g>
+  <g id="double_sha_brace">
+    <path d="M 1040.0 844.0 L 1060.0 844.0 L 1060.0 994.0 L 1040.0 994.0 M 1060.0 919.0 L 1080.0 919.0" fill="none" stroke="#1A2732" stroke-width="2.5" />
+  </g>
+  <g id="DZRMeOt9bitXMBEqs8G1-8">
+    <path d="M 587.5 780 L 587.5 1090 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+</svg>

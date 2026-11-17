@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="998" height="600" viewBox="-4 -4 998 600" role="img" content="&lt;mxfile host=&quot;65bd71144e&quot;&gt;&#10;    &lt;diagram id=&quot;segwit_input_structure&quot; name=&quot;SegWit input structure&quot;&gt;&#10;        &lt;mxGraphModel dx=&quot;1244&quot; dy=&quot;1802&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1000&quot; pageHeight=&quot;600&quot; background=&quot;#FFFFFF&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&#10;            &lt;root&gt;&#10;                &lt;mxCell id=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&#10;                &lt;mxCell id=&quot;legacy_title&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=26;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;Legacy input (spending a P2PKH coin)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;20&quot; width=&quot;950&quot; height=&quot;36&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_title&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=26;fontColor=#1A2732;fontStyle=1;fillColor=none;strokeColor=none;&quot; value=&quot;SegWit input (spending a P2WPKH coin)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;206&quot; width=&quot;950&quot; height=&quot;36&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_previous_txid&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Previous txid&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;66&quot; width=&quot;170&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_output_index&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Output index&amp;#10;4 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;190&quot; y=&quot;66&quot; width=&quot;150&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_sequence&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Sequence&amp;#10;4 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;790&quot; y=&quot;66&quot; width=&quot;140&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_previous_txid&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Previous txid&amp;#10;32 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;20&quot; y=&quot;252&quot; width=&quot;170&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_output_index&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Output index&amp;#10;4 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;190&quot; y=&quot;252&quot; width=&quot;150&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_sequence&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;Sequence&amp;#10;4 bytes&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;790&quot; y=&quot;252&quot; width=&quot;140&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_script_length&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;scriptSig&amp;#10;length&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;340&quot; y=&quot;66&quot; width=&quot;130&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_script&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=1;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;scriptSig&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;470&quot; y=&quot;66&quot; width=&quot;320&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;legacy_script_items&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=20;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;&amp;lt;signature_A&amp;gt; &amp;lt;K_A&amp;gt;&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;470&quot; y=&quot;112&quot; width=&quot;320&quot; height=&quot;40&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_script_length&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;scriptSig&amp;#10;length: 0&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;340&quot; y=&quot;252&quot; width=&quot;130&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_script&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=1;strokeWidth=2;spacing=6;fillColor=#DCEAF4;strokeColor=#487A9A;&quot; value=&quot;scriptSig&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;470&quot; y=&quot;252&quot; width=&quot;320&quot; height=&quot;100&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;segwit_script_items&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;(empty)&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;470&quot; y=&quot;298&quot; width=&quot;320&quot; height=&quot;40&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;witness&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=Arial;fontSize=22;fontColor=#1A2732;fontStyle=1;strokeWidth=2;spacing=6;fillColor=#EBE3F1;strokeColor=#86689E;&quot; value=&quot;Witness structure&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;470&quot; y=&quot;402&quot; width=&quot;460&quot; height=&quot;170&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;witness_entry_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;Entry for this input&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;490&quot; y=&quot;438&quot; width=&quot;420&quot; height=&quot;30&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;witness_item_count&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#86689E;&quot; value=&quot;Item&amp;#10;count: 2&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;490&quot; y=&quot;476&quot; width=&quot;120&quot; height=&quot;76&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;witness_signature&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#86689E;&quot; value=&quot;&amp;lt;signature_A&amp;gt;&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;610&quot; y=&quot;476&quot; width=&quot;180&quot; height=&quot;76&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;witness_key&quot; parent=&quot;1&quot; style=&quot;rounded=0;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Consolas,monospace;fontSize=20;fontColor=#1A2732;fontStyle=0;strokeWidth=2;spacing=6;fillColor=#FFFFFF;strokeColor=#86689E;&quot; value=&quot;&amp;lt;K_A&amp;gt;&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;790&quot; y=&quot;476&quot; width=&quot;120&quot; height=&quot;76&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;signatures_move&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;760&quot; y=&quot;166&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;932&quot; y=&quot;512&quot; as=&quot;targetPoint&quot; /&gt;&#10;                        &lt;Array as=&quot;points&quot;&gt;&#10;                            &lt;mxPoint x=&quot;760&quot; y=&quot;186&quot; /&gt;&#10;                            &lt;mxPoint x=&quot;965&quot; y=&quot;186&quot; /&gt;&#10;                            &lt;mxPoint x=&quot;965&quot; y=&quot;512&quot; /&gt;&#10;                        &lt;/Array&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;one_entry_per_input&quot; edge=&quot;1&quot; parent=&quot;1&quot; style=&quot;html=0;endArrow=block;endFill=1;strokeColor=#1A2732;strokeWidth=2;dashed=1;&quot;&gt;&#10;                    &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&#10;                        &lt;mxPoint x=&quot;105&quot; y=&quot;352&quot; as=&quot;sourcePoint&quot; /&gt;&#10;                        &lt;mxPoint x=&quot;468&quot; y=&quot;512&quot; as=&quot;targetPoint&quot; /&gt;&#10;                        &lt;Array as=&quot;points&quot;&gt;&#10;                            &lt;mxPoint x=&quot;105&quot; y=&quot;512&quot; /&gt;&#10;                        &lt;/Array&gt;&#10;                    &lt;/mxGeometry&gt;&#10;                &lt;/mxCell&gt;&#10;                &lt;mxCell id=&quot;one_entry_label&quot; parent=&quot;1&quot; style=&quot;text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=19;fontColor=#1A2732;fontStyle=0;fillColor=none;strokeColor=none;&quot; value=&quot;One entry per input,&amp;#10;in input order&quot; vertex=&quot;1&quot;&gt;&#10;                    &lt;mxGeometry x=&quot;120&quot; y=&quot;410&quot; width=&quot;330&quot; height=&quot;64&quot; as=&quot;geometry&quot; /&gt;&#10;                &lt;/mxCell&gt;&#10;            &lt;/root&gt;&#10;        &lt;/mxGraphModel&gt;&#10;    &lt;/diagram&gt;&#10;&lt;/mxfile&gt;" aria-labelledby="title description">
+  <title id="title">Legacy and SegWit input structure</title>
+  <desc id="description">Both inputs have a previous txid, output index, scriptSig length, scriptSig, and sequence. Spending a P2PKH coin, the legacy scriptSig holds signature_A and K_A. Spending a P2WPKH coin, the SegWit scriptSig is empty, and the same items move to the witness structure, which holds one entry per input.</desc>
+  <rect x="-4" y="-4" width="998" height="600" fill="#FFFFFF" />
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#1A2732" />
+    </marker>
+  </defs>
+  <g id="legacy_title">
+    <text fill="#1A2732" font-family="Arial" font-size="26.0" font-weight="bold" text-anchor="start">
+      <tspan x="26.0" y="38.0" dominant-baseline="central">Legacy input (spending a P2PKH coin)</tspan>
+    </text>
+  </g>
+  <g id="segwit_title">
+    <text fill="#1A2732" font-family="Arial" font-size="26.0" font-weight="bold" text-anchor="start">
+      <tspan x="26.0" y="224.0" dominant-baseline="central">SegWit input (spending a P2WPKH coin)</tspan>
+    </text>
+  </g>
+  <g id="legacy_previous_txid">
+    <rect x="20.0" y="66.0" width="170.0" height="100.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="105.0" y="101.15" dominant-baseline="central">Previous txid</tspan>
+      <tspan x="105.0" y="130.85000000000002" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="legacy_output_index">
+    <rect x="190.0" y="66.0" width="150.0" height="100.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="265.0" y="101.15" dominant-baseline="central">Output index</tspan>
+      <tspan x="265.0" y="130.85000000000002" dominant-baseline="central">4 bytes</tspan>
+    </text>
+  </g>
+  <g id="legacy_sequence">
+    <rect x="790.0" y="66.0" width="140.0" height="100.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="860.0" y="101.15" dominant-baseline="central">Sequence</tspan>
+      <tspan x="860.0" y="130.85000000000002" dominant-baseline="central">4 bytes</tspan>
+    </text>
+  </g>
+  <g id="segwit_previous_txid">
+    <rect x="20.0" y="252.0" width="170.0" height="100.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="105.0" y="287.15" dominant-baseline="central">Previous txid</tspan>
+      <tspan x="105.0" y="316.84999999999997" dominant-baseline="central">32 bytes</tspan>
+    </text>
+  </g>
+  <g id="segwit_output_index">
+    <rect x="190.0" y="252.0" width="150.0" height="100.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="265.0" y="287.15" dominant-baseline="central">Output index</tspan>
+      <tspan x="265.0" y="316.84999999999997" dominant-baseline="central">4 bytes</tspan>
+    </text>
+  </g>
+  <g id="segwit_sequence">
+    <rect x="790.0" y="252.0" width="140.0" height="100.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="860.0" y="287.15" dominant-baseline="central">Sequence</tspan>
+      <tspan x="860.0" y="316.84999999999997" dominant-baseline="central">4 bytes</tspan>
+    </text>
+  </g>
+  <g id="legacy_script_length">
+    <rect x="340.0" y="66.0" width="130.0" height="100.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="405.0" y="101.15" dominant-baseline="central">scriptSig</tspan>
+      <tspan x="405.0" y="130.85000000000002" dominant-baseline="central">length</tspan>
+    </text>
+  </g>
+  <g id="legacy_script">
+    <rect x="470.0" y="66.0" width="320.0" height="100.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="bold" text-anchor="middle">
+      <tspan x="630.0" y="87.2" dominant-baseline="central">scriptSig</tspan>
+    </text>
+  </g>
+  <g id="legacy_script_items">
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="630.0" y="132.0" dominant-baseline="central">&lt;signature_A&gt; &lt;K_A&gt;</tspan>
+    </text>
+  </g>
+  <g id="segwit_script_length">
+    <rect x="340.0" y="252.0" width="130.0" height="100.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="normal" text-anchor="middle">
+      <tspan x="405.0" y="287.15" dominant-baseline="central">scriptSig</tspan>
+      <tspan x="405.0" y="316.84999999999997" dominant-baseline="central">length: 0</tspan>
+    </text>
+  </g>
+  <g id="segwit_script">
+    <rect x="470.0" y="252.0" width="320.0" height="100.0" fill="#DCEAF4" stroke="#487A9A" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="bold" text-anchor="middle">
+      <tspan x="630.0" y="273.2" dominant-baseline="central">scriptSig</tspan>
+    </text>
+  </g>
+  <g id="segwit_script_items">
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="630.0" y="318.0" dominant-baseline="central">(empty)</tspan>
+    </text>
+  </g>
+  <g id="witness">
+    <rect x="470.0" y="402.0" width="460.0" height="170.0" fill="#EBE3F1" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="22.0" font-weight="bold" text-anchor="middle">
+      <tspan x="700.0" y="423.2" dominant-baseline="central">Witness structure</tspan>
+    </text>
+  </g>
+  <g id="witness_entry_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="496.0" y="453.0" dominant-baseline="central">Entry for this input</tspan>
+    </text>
+  </g>
+  <g id="witness_item_count">
+    <rect x="490.0" y="476.0" width="120.0" height="76.0" fill="#FFFFFF" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Arial" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="550.0" y="500.5" dominant-baseline="central">Item</tspan>
+      <tspan x="550.0" y="527.5" dominant-baseline="central">count: 2</tspan>
+    </text>
+  </g>
+  <g id="witness_signature">
+    <rect x="610.0" y="476.0" width="180.0" height="76.0" fill="#FFFFFF" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="700.0" y="514.0" dominant-baseline="central">&lt;signature_A&gt;</tspan>
+    </text>
+  </g>
+  <g id="witness_key">
+    <rect x="790.0" y="476.0" width="120.0" height="76.0" fill="#FFFFFF" stroke="#86689E" stroke-width="2" />
+    <text fill="#1A2732" font-family="Consolas,monospace" font-size="20.0" font-weight="normal" text-anchor="middle">
+      <tspan x="850.0" y="514.0" dominant-baseline="central">&lt;K_A&gt;</tspan>
+    </text>
+  </g>
+  <g id="signatures_move">
+    <path d="M 760 166 L 760 186 L 965 186 L 965 512 L 932 512 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="none" marker-end="url(#arrow)" />
+  </g>
+  <g id="one_entry_per_input">
+    <path d="M 105 352 L 105 512 L 468 512 " fill="none" stroke="#1A2732" stroke-width="2" stroke-dasharray="8 6" marker-end="url(#arrow)" />
+  </g>
+  <g id="one_entry_label">
+    <text fill="#1A2732" font-family="Arial" font-size="19.0" font-weight="normal" text-anchor="start">
+      <tspan x="126.0" y="429.175" dominant-baseline="central">One entry per input,</tspan>
+      <tspan x="126.0" y="454.825" dominant-baseline="central">in input order</tspan>
+    </text>
+  </g>
+</svg>
