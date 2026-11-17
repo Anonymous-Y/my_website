@@ -1,7 +1,9 @@
 ---
 title: "From 1 to bc1: The Evolution of Bitcoin Addresses"
 date: 2026-11-17
-permalink: /x01Crypto/btc-address
+permalink: /bc1AI/btc-address
+redirect_from:
+  - /x01Crypto/btc-address
 tags:
     - Bitcoin
 excerpt: "From `1` to `bc1`, each Bitcoin address type is a different answer to the same question: who can spend this money, and what do they have to show the world when they do?"

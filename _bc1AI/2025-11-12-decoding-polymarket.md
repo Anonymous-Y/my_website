@@ -1,7 +1,9 @@
 ---
 title: "Decoding the Digital Tea Leaves: A Guide to Analyzing Polymarket's On-Chain Order Data"
 date: 2025-11-12
-permalink: /x01Crypto/decoding-polymarket
+permalink: /bc1AI/decoding-polymarket
+redirect_from:
+  - /x01Crypto/decoding-polymarket
 tags:
     - polymarket
     - blockchain

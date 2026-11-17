@@ -51,7 +51,7 @@ This paper examines the impact of intellectual property judicial institutions on
 <summary><span class="abstract-button">Abstract</span></summary>
 Using FOMC votes and meeting transcripts from 1976–2018, we develop a deep learning model based on self-attention mechanism to quantify ''hidden dissent'' among members. Although explicit dissent is rare, we find that members often have reservations with the policy decision, and hidden dissent is mostly driven by current or predicted macroeconomic data. Additionally, hidden dissent strongly correlates with data from the Summary of Economic Projections and a measure of monetary policy sub-optimality, suggesting it reflects both divergent preferences and differing economic outlooks among members. Finally, financial markets show an immediate response to the hidden dissent disclosed through meeting minutes.
 </details>
- <a href="https://doi.org/10.1016/j.jedc.2025.105197" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="https://www.digitecon.org/hidden-dissent-index" class="emph-button" target="_blank">Hidden Dissent Index Data</a>
+ <a href="https://doi.org/10.1016/j.jedc.2025.105197" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="{{ '/datasets/hidden-dissent-index' | relative_url }}" class="emph-button">Hidden Dissent Index Data</a>
 
 
 **4. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction**

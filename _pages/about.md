@@ -39,7 +39,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
    
 2. Agree to Disagree: Measuring Hidden Dissents in FOMC Meetings, [Kwok Ping Tsang](https://kptsang.com/) & Zichao Yang (2025), *Journal of Economic Dynamics and Control*
 
-   <a href="https://doi.org/10.1016/j.jedc.2025.105197" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="https://www.digitecon.org/hidden-dissent-index" class="emph-button" target="_blank">Hidden Dissent Index Data</a>
+   <a href="https://doi.org/10.1016/j.jedc.2025.105197" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="{{ '/datasets/hidden-dissent-index' | relative_url }}" class="emph-button">Hidden Dissent Index Data</a>
 
    Media Coverage: [Reuters](https://www.reuters.com/markets/spiking-central-bank-dissent-risks-stoking-volatility-2026-04-30/)
 
@@ -67,16 +67,16 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
 Instructor, ZUEL
 - *Undergrad Courses*
-  - [Blockchain and Digital Money](https://yzc.me/teaching/zuel-blockchain_money) (Fall 2024, 2025, 2026)
-  - [Machine Learning in Finance](https://yzc.me/teaching/zuel-ml_undergrad) (Spring 2024, 2025, 2026)
-  - [Financial Markets](https://yzc.me/teaching/zuel-finmkt) (Fall 2022, 2023, 2024, 2025)
+  - [Blockchain and Digital Money]({{ '/teaching/zuel-blockchain_money' | relative_url }}) (Fall 2024, 2025, 2026)
+  - [Machine Learning in Finance]({{ '/teaching/zuel-ml_undergrad' | relative_url }}) (Spring 2024, 2025, 2026)
+  - [Financial Markets]({{ '/teaching/zuel-finmkt' | relative_url }}) (Fall 2022, 2023, 2024, 2025)
   - Introduction to the Digital Economy (Co-Instructor, Spring 2024, 2025)
 - *Grad Courses*
-  - [Machine Learning in Economics](https://yzc.me/teaching/zuel-ml_grad) (Fall 2023, 2024, 2025, Spring 2026)
-  - [International Finance](https://yzc.me/teaching/zuel-intfin) (Fall 2022, 2023, 2025)
-  - [Frontier of Technology and Economics II](https://yzc.me/teaching/zuel-frontier) (Spring 2022)
+  - [Machine Learning in Economics]({{ '/teaching/zuel-ml_grad' | relative_url }}) (Fall 2023, 2024, 2025, Spring 2026)
+  - [International Finance]({{ '/teaching/zuel-intfin' | relative_url }}) (Fall 2022, 2023, 2025)
+  - [Frontier of Technology and Economics II]({{ '/teaching/zuel-frontier' | relative_url }}) (Spring 2022)
 - *Workshop Session*
-  - [Blockchain Technology and Its Impact on the Global Economy](https://yzc.me/teaching/btc-talk) (Spring 2023)
+  - [Blockchain Technology and Its Impact on the Global Economy]({{ '/teaching/btc-talk' | relative_url }}) (Spring 2023)
 
 Instructor, VT
 - ECON2006 Principles of Macroeconomics (Fall 2020, Winter 2020)
