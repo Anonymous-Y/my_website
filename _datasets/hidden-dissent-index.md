@@ -20,6 +20,6 @@ With this approach, we can explore the real-time impact of behind-the-door disag
 
 **Download the dataset**
 
-[Hidden Dissent Dataset (CSV)](/datasets/data/hidden_dissent/hidden_dissent_transcript_minutes_20260318.csv)
+<a href="{{ '/datasets/data/hidden_dissent/hidden_dissent_transcript_minutes_20260318.csv' | relative_url }}" download>Download Hidden Dissent Dataset (CSV)</a>
 
 
