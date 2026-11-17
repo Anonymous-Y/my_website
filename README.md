@@ -15,4 +15,8 @@ Use Jekyll's built-in `serve --livereload` command. The old `liveserve` command 
 
 After pulling changes, use `bundle install` to install the versions recorded in `Gemfile.lock`. Use `bundle update` only when intentionally updating dependencies.
 
-The Datasets section lives at `/datasets/`. Add pages describing each dataset to `_datasets/`; they are listed by `_pages/datasets.html` and published under `/datasets/`. Store downloadable CSV, ZIP, and other data files in `files/datasets/` and link to them from those pages. Jekyll reserves `_data/` for configuration files such as navigation. The old `/data/` and `/attnAI/` addresses redirect to `/datasets/`.
+The Datasets section lives at `/datasets/`. Add pages describing each dataset to `_datasets/` without a date prefix in the filename; they are listed by `_pages/datasets.html` and published under `/datasets/`. Store dataset downloads in `_datasets/data/<dataset-name>/` and figures in `_datasets/image/<dataset-name>/`. Link to their published paths under `/datasets/data/` and `/datasets/image/`. Jekyll reserves `_data/` for configuration files such as navigation. The old `/data/` and `/attnAI/` addresses redirect to `/datasets/`.
+
+Keep `assets/js/_main.js`, the JavaScript plugins and vendor files, and `package.json` as the inputs for rebuilding `assets/js/main.min.js` with `npm run build:js`. Jekyll compiles `assets/css/main.scss` and its imports in `_sass/` automatically.
+
+The `_site/`, `.jekyll-metadata`, `.jekyll-cache/`, and `.sass-cache/` paths are generated output or caches and should not be committed. Keep `Gemfile.lock` to preserve dependency versions and `LICENSE` for the theme attribution.

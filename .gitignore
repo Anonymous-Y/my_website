@@ -1,4 +1,9 @@
 _site/
+.jekyll-metadata
+.jekyll-cache/
+.sass-cache/
+.bundle/
+node_modules/
 
-# Ignore .DS_Store files 
-*.DS_Store 
+# macOS folder metadata
+.DS_Store

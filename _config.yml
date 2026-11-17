@@ -132,13 +132,16 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - favicon_io/about.txt
   - config
   - gulpfile.js
   - log
