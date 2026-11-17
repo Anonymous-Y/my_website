@@ -18,8 +18,8 @@ With this approach, we can explore the real-time impact of behind-the-door disag
 
 ![Hidden dissent in FOMC meeting transcripts (black dotted line) and minutes (red solid line).](/datasets/image/hidden_dissent/hidden_dissent_plot.png)
 
-**Download the dataset**
+**Download the dataset:**
 
-<a href="{{ '/datasets/data/hidden_dissent/hidden_dissent_transcript_minutes_20260318.csv' | relative_url }}" download>Download Hidden Dissent Dataset (CSV)</a>
+<a href="{{ '/datasets/data/hidden_dissent/hidden_dissent_transcript_minutes_20260318.csv' | relative_url }}" download>Hidden Dissent Dataset (CSV)</a>
 
 
