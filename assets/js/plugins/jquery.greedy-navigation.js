@@ -10,63 +10,43 @@ var $btn = $('#site-nav button');
 var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
-var breaks = [];
-
 function updateNav() {
+  // Measure the complete navigation, then keep the section links together.
+  $hlinks.children().appendTo($vlinks);
 
-  var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
-
-  // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace) {
-
-    // Record the width of the list
-    breaks.push($vlinks.width());
-
-    // Move item to the hidden list
-    $vlinks.children().last().prependTo($hlinks);
-
-    // Show the dropdown btn
-    if($btn.hasClass('hidden')) {
-      $btn.removeClass('hidden');
-    }
-
-  // The visible list is not overflowing
+  if ($vlinks.width() > $nav.width()) {
+    $vlinks.children().not('.masthead__menu-item--lg').appendTo($hlinks);
+    $btn.removeClass('hidden');
   } else {
-
-    // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
-
-      // Move the item to the visible list
-      $hlinks.children().first().appendTo($vlinks);
-      breaks.pop();
-    }
-
-    // Hide the dropdown btn if hidden list is empty
-    if(breaks.length < 1) {
-      $btn.addClass('hidden');
-      $hlinks.addClass('hidden');
-    }
+    $btn.addClass('hidden');
+    setMenuOpen(false);
   }
-
-  // Keep counter updated
-  $btn.attr("count", breaks.length);
-
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
-    updateNav();
-  }
-
 }
 
-// Window listeners
+function setMenuOpen(open) {
+  $hlinks.toggleClass('hidden', !open);
+  $btn.toggleClass('close', open).attr('aria-expanded', String(open));
+}
 
 $(window).resize(function() {
   updateNav();
 });
 
 $btn.on('click', function() {
-  $hlinks.toggleClass('hidden');
-  $(this).toggleClass('close');
+  setMenuOpen($hlinks.hasClass('hidden'));
+});
+
+$(document).on('click', function(event) {
+  if (!$nav[0].contains(event.target)) {
+    setMenuOpen(false);
+  }
+});
+
+$nav.on('keydown', function(event) {
+  if (event.key === 'Escape' && !$hlinks.hasClass('hidden')) {
+    setMenuOpen(false);
+    $btn.trigger('focus');
+  }
 });
 
 updateNav();
