@@ -1,12 +1,41 @@
 ---
 layout: archive
+regenerate: true
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+{% assign teaching_groups = 'Undergraduate|Graduate|Others' | split: '|' %}
+{% assign courses = site.teaching | sort: 'date' | reverse %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="teaching-directory">
+  {% for group in teaching_groups %}
+    <section class="teaching-group" aria-labelledby="teaching-{{ group | slugify }}">
+      <h2 id="teaching-{{ group | slugify }}" class="teaching-group__title">{{ group }}</h2>
+      <ul class="teaching-list">
+        {% for course in courses %}
+          {% assign course_group = 'Others' %}
+          {% assign course_level = course.type %}
+          {% case course.type %}
+            {% when 'Undergrad Course' %}
+              {% assign course_group = 'Undergraduate' %}
+              {% assign course_level = 'Undergraduate' %}
+            {% when 'Grad Course' %}
+              {% assign course_group = 'Graduate' %}
+              {% assign course_level = 'Graduate' %}
+            {% when 'Undergrad & Grad Courses' %}
+              {% assign course_level = 'Undergraduate & Graduate' %}
+          {% endcase %}
+          {% assign course_group = course.teaching_group | default: course_group %}
+          {% if course_group == group %}
+            <li class="teaching-course">
+              <h3 class="teaching-course__title"><a href="{{ course.url | relative_url }}">{{ course.title | escape }}</a></h3>
+              <p class="teaching-course__meta">{{ course_level | escape }} &middot; {% if course.semesters %}{{ course.semesters | escape }}{% else %}{{ course.date | date: '%Y' }}{% endif %}</p>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</div>

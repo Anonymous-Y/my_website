@@ -6,6 +6,7 @@ permalink: /teaching/btc-talk
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2023-11-18
+semesters: "Spring 2023"
 location: "Wuhan, China"
 ---
 

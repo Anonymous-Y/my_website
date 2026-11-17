@@ -6,9 +6,6 @@ baseurl: ""
 # Rebuild every page when switching between production and local URLs.
 incremental: false
 
-analytics:
-  provider: false
-
 comments:
   disqus:
     shortname            : "mmistakes-dev"

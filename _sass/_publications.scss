@@ -1,0 +1,76 @@
+/* Publication controls share the article typeface and keep their existing colors. */
+
+.page__content {
+  .abstract-button, .wp-version-button, .pub-version-button, .emph-button, .media-coverage-button {
+    display: inline-block;
+    min-width: 100px;
+    max-width: 100%;
+    margin: 0.25em 0.4em 0.25em 0;
+    padding: 0.25em 0.6em;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 0.8em;
+    line-height: 1.45;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+
+    &:hover, &:focus {
+      color: #fff;
+      text-decoration: none;
+      border-bottom: 0;
+    }
+  }
+
+  .wp-version-button {
+    background: #2177a0;
+    &:hover, &:focus { background: #195f80; }
+  }
+
+  .pub-version-button {
+    background: #954545;
+    &:hover, &:focus { background: #783535; }
+  }
+
+  .emph-button {
+    background: #b8571b;
+    &:hover, &:focus { background: #994810; }
+  }
+
+  .abstract-button, .media-coverage-button {
+    color: #343a40;
+    background: #e7e9ec;
+
+    &:hover, &:focus {
+      color: #343a40;
+      background: #d8dce1;
+    }
+  }
+
+  .media-coverage-button {
+    background: #d8dce1;
+
+    &:hover, &:focus {
+      background: #cbd0d6;
+    }
+  }
+
+  details {
+    margin: 0 0 0.15em;
+
+    summary {
+      display: inline-block;
+      cursor: pointer;
+      list-style: none;
+      text-align: left;
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+    }
+
+    &[open] summary {
+      margin-bottom: 0.5em;
+    }
+  }
+}

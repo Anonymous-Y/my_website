@@ -6,6 +6,7 @@ permalink: /teaching/zuel-ml_undergrad
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2026-02-26
+semesters: "Spring 2024–2026"
 location: "Wuhan, China"
 ---
 

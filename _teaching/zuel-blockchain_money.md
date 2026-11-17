@@ -6,6 +6,7 @@ permalink: /teaching/zuel-blockchain_money
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2026-09-02
+semesters: "Fall 2024–2026"
 location: "Wuhan, China"
 ---
 
@@ -19,11 +20,11 @@ Lecture 1: Introduction to Bitcoin
 
 Lecture 2: Public Key Cryptography and Bitcoin Addresses
 
-[Lecture Slides 3](https://github.com/Anonymous-Y/my_website/blob/889b879168b89679ea9362f4a148ded53e744e44/files/ZUEL/blockchain_and_digital_money/transactions.pdf)
+[Lecture Slides 3](/files/ZUEL/blockchain_and_digital_money/transactions.pdf)
 
 Lecture 3: Bitcoin Transactions
 
-[Lecture Slides 4]
+[Lecture Slides 4](/files/ZUEL/blockchain_and_digital_money/blockchain.pdf)
 
 Lecture 4: Bitcoin Blockchain
 

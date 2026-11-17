@@ -6,12 +6,13 @@ permalink: /teaching/zuel-ml_grad
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2026-05-01
+semesters: "Fall 2023–2025; Spring 2026"
 location: "Wuhan, China"
 ---
 
 ## Lecture Notes
 
-[Lecture Slides 0](https://github.com/Anonymous-Y/my_website/blob/d28c6fc1871af5e585ed468e5ef9f83de3053321/files/ZUEL/machine_learning_in_econ/Lecture0.pd)
+[Lecture Slides 0](https://github.com/Anonymous-Y/my_website/blob/d28c6fc1871af5e585ed468e5ef9f83de3053321/files/ZUEL/machine_learning_in_econ/Lecture0.pdf)
 
 Lecture Slides 0: Set Up Your Own AI Assistants.
 

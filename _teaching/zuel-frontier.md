@@ -6,6 +6,7 @@ permalink: /teaching/zuel-frontier
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2022-04-28
+semesters: "Spring 2022"
 location: "Wuhan, China"
 ---
 

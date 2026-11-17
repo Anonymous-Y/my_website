@@ -57,28 +57,8 @@
 
   p, li, dl {
     font-size: 1em;
-    /* Reset any unusual white-space handling */
-    white-space: normal !important;
-    word-break: normal !important;
-  }
-
-  /* Ensure strong tags are treated as inline and don't cause breaks */
-  strong, b {
-    display: inline !important;
-    white-space: normal !important; /* Prevent whitespace issues within/around strong tag */
-    margin: 0 !important;      /* Reset any conflicting margins */
-    padding: 0 !important;     /* Reset any conflicting padding */
-    vertical-align: baseline !important; /* Ensure it aligns with surrounding text */
-  }
-
-  /* More specific rule for strong within paragraphs */
-  p > strong,
-  p > b,
-  li > strong,
-  li > b {
-    display: inline !important;
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    white-space: normal;
+    word-break: normal;
   }
 
   /* Make tables scrollable */
@@ -91,7 +71,7 @@
 
   /* paragraph indents */
   p {
-    text-align: justify;  /* make words distribute evenly between margins */
+    text-align: justify;
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/

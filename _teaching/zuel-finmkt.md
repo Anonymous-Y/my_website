@@ -6,6 +6,7 @@ permalink: /teaching/zuel-finmkt
 venue: "Wenlan School of Business, ZUEL"
 excerpt: " "
 date: 2025-08-31
+semesters: "Fall 2022–2025"
 location: "Wuhan, China"
 ---
 

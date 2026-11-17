@@ -12,7 +12,7 @@ Assistant Professor, Wenlan School of Business, ZUEL\\
 E-Mail: yang_zichao A-T outlook.com\\
 My CV: [download](https://www.dropbox.com/scl/fi/5swopz07k2xot3iby5bt9/ZichaoYang_CV_20260924.pdf?rlkey=1omxhii1oj3x8f13y01p5ckj7&dl=0)
 
-🔔 Update Alert! 🔔 Curious about the data behind my projects? Visit [digitecon.org](https://www.digitecon.org) and start exploring!
+🔔 Update Alert! 🔔 Curious about the data behind my projects? Visit [Datasets Page](/datasets/) and start exploring!
 
 ### Current Research Interests
 Deep Learning, Cryptocurrencies, Macroeconomics
@@ -41,7 +41,7 @@ Deep Learning, Cryptocurrencies, Macroeconomics
 
    <a href="https://doi.org/10.1016/j.jedc.2025.105197" class="pub-version-button" target="_blank">Pub Version</a> <a href="https://ssrn.com/abstract=4546049" class="wp-version-button" target="_blank">WP Version</a> <a href="{{ '/datasets/hidden-dissent-index' | relative_url }}" class="emph-button">Hidden Dissent Index Data</a>
 
-   Media Coverage: [Reuters](https://www.reuters.com/markets/spiking-central-bank-dissent-risks-stoking-volatility-2026-04-30/)
+   <span class="media-coverage-button">Media Coverage</span> [Reuters](https://www.reuters.com/markets/spiking-central-bank-dissent-risks-stoking-volatility-2026-04-30/)
 
 3. ESG Rating Disagreement and Corporate Total Factor Productivity: Inference and Prediction, [Zhanli Li](https://github.com/Zhanli-Li) & Zichao Yang (2025), *Finance Research Letters*
 

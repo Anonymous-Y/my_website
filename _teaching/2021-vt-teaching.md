@@ -6,6 +6,7 @@ permalink: /teaching/2021-vt-teaching
 venue: "Department of Economics, Virginia Tech"
 excerpt: " "
 date: 2021-05-01
+semesters: "2016–2021"
 location: "Blacksburg, VA"
 ---
 
