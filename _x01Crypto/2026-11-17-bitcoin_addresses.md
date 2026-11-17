@@ -1,4 +1,12 @@
-# From 1 to bc1: The Evolution of Bitcoin Addresses
+---
+title: "From 1 to bc1: The Evolution of Bitcoin Addresses"
+date: 2026-11-17
+permalink: /x01Crypto/btc-address
+tags:
+    - Bitcoin
+excerpt: "From `1` to `bc1`, each Bitcoin address type is a different answer to the same question: who can spend this money, and what do they have to show the world when they do?"
+read_time: true
+---
 
 Alice asks Bob for his Bitcoin address, and Bob's wallet gives him a choice. One address starts with `1`, another with `3`, a third with `bc1q`, and a fourth with `bc1p`. Even two `bc1q` addresses can have different lengths.
 
