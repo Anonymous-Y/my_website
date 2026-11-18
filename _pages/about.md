@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Zichao Yang (杨子超)
+{: .homepage-title}
 Assistant Professor, Wenlan School of Business, ZUEL\\
 E-Mail: yang_zichao A-T outlook.com\\
 My CV: [download](https://www.dropbox.com/scl/fi/5swopz07k2xot3iby5bt9/ZichaoYang_CV_20260924.pdf?rlkey=1omxhii1oj3x8f13y01p5ckj7&dl=0)
